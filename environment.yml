@@ -1,0 +1,28 @@
+name: anthracis-pipeline
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  # Python and core tools
+  - python=3.11
+  - pip
+  
+  # Bioinformatics tools
+  - parsnp=2.1.5
+  - bcftools=1.23
+  - snakemake
+  - augur
+  
+  # Python packages
+  - pandas
+  - openpyxl
+  - vcfpy
+  - requests
+  - biopython
+  
+  # R and visualization (optional, for coverage plots)
+  - r-base
+  - r-ggplot2
+  - r-dplyr
+  - r-tidyr

@@ -1,0 +1,814 @@
+region	Africa	4.070194	21.824559
+region	China	35.000074	104.999927
+region	Europe	49.646237	10.799454
+region	Japan_Korea	35.845119	136.736386
+region	Japan Korea	35.845119	136.736386
+region	North_America	28.2367447	-97.738017
+region	North America	28.2367447	-97.738017
+region	Oceania	-25.0562891	152.008576
+region	South_America	-13.083583	-58.470721
+region	South America	-13.083583	-58.470721
+region	South_Asia	24.485438	76.513158
+region	South Asia	24.485438	76.513158
+region	Southeast_Asia	3.020567	112.390683
+region	Southeast Asia	3.020567	112.390683
+region	West_Asia	34.000094	48.73228
+region	West Asia	34.000094	48.73228
+			
+country	Afghanistan	33	66
+country	Albania	41	20
+country	Algeria	28.0000272	2.9999825
+country	Anguilla	18.21704	-63.05783
+country	American_Samoa	-14.27806	-170.7025
+country	American Samoa	-14.27806	-170.7025
+country	Angola	-11.8775767	17.5691241
+country	Argentina	-34	-64
+country	Armenia	40.18111	44.51361
+country	Aruba	12.512306	-69.975188
+country	Australia	-24.7761085	134.755
+country	Austria	47.2000338	13.199959
+country	Azerbaijan	40.37767	49.89201
+country	Bahamas	25.04082	-77.37122
+country	Bahrain	26.22787	50.58565
+country	Barbados	13.16667	-59.53333
+country	Belarus	53	28
+country	Bali	-8.3304976	115.0906401
+country	Bangladesh	24.4768783	90.2932426
+country	Belgium	50.6407351	4.66696
+country	Belize	17.49952	-88.19756
+country	Benin	9.668764	2.284078
+country	Bermuda	32.2949	-64.78303
+country	Bhutan	27.5142	90.4336
+country	Bolivia	-17	-65
+country	Bosnia_Herzegovina	43.84864	18.35644
+country	Bosnia Herzegovina	43.84864	18.35644
+country	Botswana	-22.199114	24.017975
+country	Brazil	-10.3333332	-53.1999999
+country	British_Virgin_Islands	18.437033	-64.616732
+country	British Virgin Islands	18.437033	-64.616732
+country	Brunei	4.5	114.66667
+country	Bulgaria	42.6073975	25.4856617
+country	Burkina_Faso	12.5	-1.66667
+country	Burkina Faso	12.5	-1.66667
+country	Cambodia	13	105
+country	Cameroon	6	12.5
+country	Canada	61.0666922	-107.991707
+country	Cape_Verde	14.998654	-23.530702
+country	Cape Verde	14.998654	-23.530702
+country	Cayman_Islands	19.323979	-81.138315
+country	Cayman Islands	19.323979	-81.138315
+country	Central_African_Republic	7	21
+country	Central African Republic	7	21
+country	Chad	15.446105	18.7350005
+country	Chile	-31.7613364	-71.3187696
+country	China	35.000074	104.999927
+country	Colombia	2.893108	-73.7845142
+country	Cook_Islands	-21.24842	-159.78516
+country	Cook Islands	-21.24842	-159.78516
+country	Comoros	-12.2045175	44.2832964
+country	Congo	-0.7264326	15.6419155
+country	Costa_Rica	10	-84
+country	Costa Rica	10	-84
+country	Cote_D_Ivoire	7.9897371	-5.5679457
+country	Cote D Ivoire	7.9897371	-5.5679457
+country	Croatia	45.16667	15.5
+country	Cuba	22	-79.5
+country	Cyprus	35	33
+country	Czech_Republic	49.7439047	15.3381061
+country	Czech Republic	49.7439047	15.3381061
+country	Democratic_Republic_Of_The_Congo	-3.394559	23.306004
+country	Democratic Republic Of The Congo	-3.394559	23.306004
+country	Denmark	56	10
+country	Djibouti	11.58901	43.14503
+country	Dominica	15.5	-61.33333
+country	Dominican_Republic	18.50012	-69.98857
+country	Dominican Republic	18.50012	-69.98857
+country	East_Timor	-8.5151978	125.8375756
+country	East Timor	-8.5151978	125.8375756
+country	Ecuador	-1.3397667	-79.3666964
+country	Egypt	26.2540493	29.2675469
+country	El_Salvador	13.68935	-89.18718
+country	El Salvador	13.68935	-89.18718
+country	Eritrea	15.9500319	37.9999668
+country	Estonia	59	26
+country	Ethiopia	9	39.5
+country	Fiji	-18.1239695	179.0122737
+country	Finland	63.2467777	25.9209164
+country	France	46.603354	1.8883335
+country	French_Guiana	4.93333	-52.33333
+country	French Guiana	4.93333	-52.33333
+country	French_Polynesia	-17.6797	-149.4068
+country	French Polynesia	-17.6797	-149.4068
+country	Gabon	-0.8999694	11.6899699
+country	Gambia	13.5	-15.5
+country	Georgia_Country	41.775743	44.336896
+country	Georgia Country	41.775743	44.336896
+country	Germany	51.0834196	10.4234469
+country	Ghana	8.0300284	-1.080027
+country	Greece	39	22
+country	Grenada	12.11667	-61.66667
+country	Guadeloupe	16.2528827	-61.5686855
+country	Guam	13.51777	144.8391
+country	Guatemala	15.6356088	-89.8988086
+country	Guinea	10.7226226	-10.7083586
+country	Guinea_Bissau	12.042637	-14.949526
+country	Guinea Bissau	12.042637	-14.949526
+country	Guyana	5	-59
+country	Haiti	19.1399952	-72.3570971
+country	Honduras	15.0610686	-84.5978533
+country	Hong_Kong	22.3964	114.1095
+country	Hong Kong	22.3964	114.1095
+country	Hungary	47	20
+country	Iceland	64.9841821	-18.1059012
+country	India	22.3511148	78.6677428
+country	Indonesia	-5	120
+country	Iran	32	53
+country	Iraq	33	44
+country	Ireland	52.865196	-7.9794598
+country	Israel	31.5	34.75
+country	Italy	42.6384261	12.674297
+country	Jamaica	18.16667	-77.25
+country	Japan	35.68536	139.75309
+country	Jordan	31.1667049	36.941628
+country	Kazakhstan	47.2286086	65.2093197
+country	Kenya	1	38
+country	Kosovo	42.563516	20.889978
+country	Kuwait	29.3117	47.4818
+country	Kyrgyzstan	41.5	75
+country	Laos	20.0171109	103.378253
+country	Latvia	57	25
+country	Lebanon	33.88894	35.49442
+country	Liberia	5.7499721	-9.3658523
+country	Lithuania	55.41667	24
+country	Luxembourg	49.61167	6.13
+country	Macedonia	41.66667	21.75
+country	Madagascar	-20	47
+country	Malawi	-13.550995	34.124594
+country	Malaysia	2.3923759	112.8471939
+country	Maldives	4.7064352	73.3287853
+country	Mali	18	-2
+country	Malta	35.891045	14.441412
+country	Marshall_Islands	7.1315	171.1845
+country	Marshall Islands	7.1315	171.1845
+country	Martinique	14.6415	-61.0242
+country	Mauritania	20.25	-10.5
+country	Mauritius	-20.3	57.58333
+country	Mayotte	-12.821908	45.143906
+country	Mexico	19.4325301	-99.1332101
+country	Micronesia	6.924	158.162
+country	Moldova	47.41281	28.565826
+country	Mongolia	46.8250388	103.8499736
+country	Montenegro	43.0285558	19.291739
+country	Morocco	31.1728192	-7.3366042
+country	Mozambique	-18.25	35
+country	Myanmar	21	96
+country	Namibia	-23.2335499	17.3231107
+country	Nauru	-0.517	166.933
+country	Nepal	28	84
+country	Netherlands	52.3702	4.8952
+country	New_Caledonia	-20.9043	165.618
+country	New Caledonia	-20.9043	165.618
+country	New_Zealand	-41.500083	172.8344077
+country	New Zealand	-41.500083	172.8344077
+country	Nicaragua	13	-85
+country	Niger	18	9
+country	Nigeria	10	8
+country	Northern_Mariana_Islands	15.21233	145.7545
+country	Northern Mariana Islands	15.21233	145.7545
+country	Norway	64.574131	11.5270102892
+country	Oman	21.0000287	57.0036901
+country	Pakistan	30	70
+country	Palau	7.33978	134.47326
+country	Palestine	31.5	34.46667
+country	Panama	8.3096067	-81.3066245
+country		-6	147
+country	Papua New Guinea	-6	147
+country	Paraguay	-23.33333	-58
+country	Peru	-10	-75.25
+country	Philippines	12.8797	121.774
+country	Poland	52.0977181	19.0258159
+country	Portugal	39.6945	-8.13057
+country	Puerto_Rico	18.2459121	-66.4164147
+country	Puerto Rico	18.2459121	-66.4164147
+country	Qatar	25.27932	51.52245
+country	Reunion	-21.1151	55.5364
+country	Romania	46	25
+country	Russia	55.625578	37.6063916
+country	Rwanda	-2	30
+country	Saint_Barthelemy	17.9049171	-62.847207
+country	Saint Barthelemy	17.9049171	-62.847207
+country	Saint_Kitts	17.29484	-62.7261
+country	Saint Kitts	17.29484	-62.7261
+country	Saint_Lucia	13.88333	-60.96667
+country	Saint Lucia	13.88333	-60.96667
+country	Saint_Vincent_And_The_Grenadines	12.9843	-61.2872
+country	Saint Vincent And The Grenadines	12.9843	-61.2872
+country	Samoa	-13.598724	-172.454467
+country	Saudi_Arabia	25	45
+country	Saudi Arabia	25	45
+country	Senegal	14.5	-14.25
+country	Serbia	44.1534121	20.55144
+country	Seychelles	-4.58333	55.66667
+country	Sierra_Leone	8.5	-11.5
+country	Sierra Leone	8.5	-11.5
+country	Singapore	1.2904527	103.852038
+country	Slovakia	48.66667	19.5
+country	Slovenia	45.8133113	14.4808369
+country	Solomon_Islands	-8	159
+country	Solomon Islands	-8	159
+country	Somalia	8.3676771	49.083416
+country	South_Africa	-28.8166235	24.991639
+country	South Africa	-28.8166235	24.991639
+country	South_Korea	35.3985008	127.937111
+country	South Korea	35.3985008	127.937111
+country	Spain	40.0028028	-4.0031039
+country	Sri_Lanka	7.75	80.75
+country	Sri Lanka	7.75	80.75
+country	Sudan	16	30
+country	Suriname	4.1413025	-56.0771186
+country	Sweden	59.6749712	14.5208584
+country	Switzerland	47.00016	8.01427
+country	Syria	35.217054	38.372227
+country	Taiwan	23.6978	120.9605
+country	Tajikistan	39	71
+country	Tanzania	-6	35
+country	Thailand	14.8971921	100.83273
+country	Tibet	31.129337	88.671049
+country	Togo	8.66667	1.08333
+country	Tonga	-19.9160818	-175.2026423
+country	Trinidad_And_Tobago	10.8677845	-60.9821066
+country	Trinidad And Tobago	10.8677845	-60.9821066
+country	Tunisia	36.81897	10.16579
+country	Turkey	39	35
+country	Turkmenistan	39.3763807	59.3924609
+country	Turks_And_Caicos	21.73333	-71.58333
+country	Turks And Caicos	21.73333	-71.58333
+country	Tuvalu	-8.521152	179.197605
+country	Uruguay	-33	-56
+country	Uganda	1.5333554	32.2166578
+country	Ukraine	49.4871968	31.2718321
+country	United_Arab_Emirates	24.0002488	53.9994829
+country	United Arab Emirates	24.0002488	53.9994829
+country	United_Kingdom	54.542713	-2.384858
+country	United Kingdom	54.542713	-2.384858
+country	Usa	39.7837304	-100.4458824
+country	Usvi	18.3378801	-64.8982827
+country	Vanuatu	-17.734818	168.1069154
+country	Venezuela	8	-66
+country	Vietnam	16.16667	107.83333
+country	Wallis_And_Futuna	-13.28163	-176.17453
+country	Wallis And Futuna	-13.28163	-176.17453
+country	Yemen	16.3471243	47.8915271
+country	Zambia	-14.33333	28.5
+country	Zimbabwe	-19.307486	29.7968377
+			
+location	Alabama	33.2588817	-86.8295336
+location	Alaska	64.4459613	-149.6809089
+location	Arizona	34.395342	-111.7632754
+location	Arkansas	35.2048883	-92.4479107
+location	Beyla	8.6898481	-8.6483449
+location	Bo	7.9620654	-11.7366498
+location	Boke	10.952242	-14.2760634
+location	Bombali	9.2388372	-12.1148023
+location	Bomi	6.7177856	-10.7881765
+location	Bong	6.9622195	-9.7134458
+location	Bonthe	7.5292766	-12.5131865
+location	British_Columbia	49.24966	-123.11934
+location	British Columbia	49.24966	-123.11934
+location	California	36.7014631	-118.7559973
+location	Colorado	38.7251776	-105.6077166
+location	Conakry	9.5171253	-13.6999234
+location	Connecticut	41.6500201	-72.7342162
+location	Coyah	9.7090404	-13.3889559
+location	Dalaba	10.6913277	-12.2512594
+location	Delaware	38.6920451	-75.4013314
+location	Dubreka	9.7889586	-13.5171217
+location	Faranah	10.3143203	-10.8900969
+location	Florida	27.7567667	-81.4639834
+location	Forecariah	9.4300088	-13.0833858
+location	Fria	10.363036	-13.5811849
+location	Gbarpolu	7.2681564	-10.381477
+location	Georgia	32.3293809	-83.1137365
+location	Grand_Bassa	6.1640621	-9.8956689
+location	Grand Bassa	6.1640621	-9.8956689
+location	Grand_Cape_Mount	7.0496206	-11.1298429
+location	Grand Cape Mount	7.0496206	-11.1298429
+location	Grand_Kru	4.84932	-8.3308844
+location	Grand Kru	4.84932	-8.3308844
+location	Gueckedou	8.5616487	-10.1328211
+location	Hawaii	21.2160437	-157.9752029
+location	Idaho	43.6447642	-114.015407
+location	Illinois	40.0796319	-89.4339808
+location	Indiana	40.3270127	-86.1746932
+location	Iowa	41.9216734	-93.3122704
+location	Kailahun	8.2769105	-10.5737535
+location	Kambia	9.1246846	-12.9189133
+location	Kankan	10.3833686	-9.3047575
+location	Kansas	38.27312	-98.5821871
+location	Kenema	7.8859356	-11.1863898
+location	Kentucky	37.5726028	-85.155141
+location	Kerouane	11.4231137	-9.5938615
+location	Kindia	10.0492476	-12.8577996
+location	Kissidougou	9.2101274	-10.1215916
+location	Koinadugu	9.3727454	-11.3253108
+location	Kono	8.6868883	-10.9194453
+location	Kouroussa	10.6519303	-9.8811521
+location	Lofa	7.8824046	-9.9760296
+location	Lola	8.0166961	-8.30784246327
+location	Louisiana	30.8703881	-92.0071259
+location	Macenta	8.5458459	-9.4679199
+location	Maine	45.709097	-68.85902
+location	Manitoba	49.8844	-97.14704
+location	Margibi	6.6053676	-10.1758428
+location	Maryland	39.5162234	-76.9382068
+location	Massachusetts	42.3788774	-72.0323659
+location	Michigan	43.6211955	-84.6824345
+location	Minnesota	45.9896587	-94.6113287
+location	Mississippi	32.9715645	-89.7348496
+location	Montana	47.3752671	-109.6387578
+location	Montserrado	6.4095537	-10.6059402
+location	Moyamba	8.159153	-12.4314373
+location	Nebraska	41.7370229	-99.5873815
+location	Nevada	39.5158825	-116.8537226
+location	New_Hampshire	43.4718339	-71.6182147
+location	New Hampshire	43.4718339	-71.6182147
+location	New_Mexico	34.5708167	-105.9930069
+location	New Mexico	34.5708167	-105.9930069
+location	New_York	40.7642499	-73.9545249
+location	New York	40.7642499	-73.9545249
+location	Nimba	6.8088813	-8.7461447
+location	New_Jersey	40.0757384	-74.4041621
+location	New Jersey	40.0757384	-74.4041621
+location	North_Carolina	35.6729639	-79.0392918
+location	North Carolina	35.6729639	-79.0392918
+location	North_Dakota	47.6201461	-100.5407369
+location	North Dakota	47.6201461	-100.5407369
+location	Nzerekore	7.7579345	-8.8176067
+location	Ohio	40.2253569	-82.6881394
+location	Oklahoma	34.9550817	-97.2684062
+location	Ontario	50.0000002	-86
+location	Oregon	43.9792797	-120.7372569
+location	Pennsylvania	40.9699889	-77.727883
+location	Port_Loko	8.7638892	-12.7799026
+location	Port Loko	8.7638892	-12.7799026
+location	Pujehun	7.35633	-11.722668
+location	River_Gee	5.2653903	-7.8856202
+location	River Gee	5.2653903	-7.8856202
+location	Rivercess	5.9087331	-9.3938266
+location	Scotland	56.7861112	-4.1140517
+location	Siguiri	11.4189557	-9.1745795
+location	Sinoe	5.3232693	-8.8435954
+location	South_Carolina	33.6874388	-80.4363742
+location	South Carolina	33.6874388	-80.4363742
+location	South_Dakota	44.6471761	-100.3487609
+location	South Dakota	44.6471761	-100.3487609
+location	Tennessee	35.7730076	-86.282008
+location	Texas	31.8160381	-99.5120985
+location	Tonkolili	8.979884	-11.717715
+location	Utah	39.4225192	-111.7143583
+location	Vermont	44.5990718	-72.5002607
+location	Virginia	37.1232245	-78.492772
+location	Washington	47.6	-122.33
+location	West_Virginia	38.4758406	-80.8408414
+location	West Virginia	38.4758406	-80.8408414
+location	Western_Area	8.33461895	-13.0659143446
+location	Western Area	8.33461895	-13.0659143446
+location	Western_Rural	8.320091	-13.0588080718
+location	Western Rural	8.320091	-13.0588080718
+location	Western_Urban	8.4365934	-13.239469946
+location	Western Urban	8.4365934	-13.239469946
+location	Wisconsin	44.4308975	-89.6884636
+location	Wyoming	43.1700264	-107.5685347
+			
+location	Afghanistan	33	66
+location	Albania	41	20
+location	Algeria	28.0000272	2.9999825
+location	Anguilla	18.21704	-63.05783
+location	American_Samoa	-14.27806	-170.7025
+location	American Samoa	-14.27806	-170.7025
+location	Angola	-11.8775767	17.5691241
+location	Argentina	-34	-64
+location	Armenia	40.18111	44.51361
+location	Aruba	12.512306	-69.975188
+location	Australia	-24.7761085	134.755
+location	Austria	47.2000338	13.199959
+location	Azerbaijan	40.37767	49.89201
+location	Bahamas	25.04082	-77.37122
+location	Bahrain	26.22787	50.58565
+location	Barbados	13.16667	-59.53333
+location	Belarus	53	28
+location	Bali	-8.3304976	115.0906401
+location	Bangladesh	24.4768783	90.2932426
+location	Belgium	50.6407351	4.66696
+location	Belize	17.49952	-88.19756
+location	Benin	9.668764	2.284078
+location	Bermuda	32.2949	-64.78303
+location	Bhutan	27.5142	90.4336
+location	Bolivia	-17	-65
+location	Bosnia_Herzegovina	43.84864	18.35644
+location	Bosnia Herzegovina	43.84864	18.35644
+location	Botswana	-22.199114	24.017975
+location	Brazil	-10.3333332	-53.1999999
+location	British_Virgin_Islands	18.437033	-64.616732
+location	British Virgin Islands	18.437033	-64.616732
+location	Brunei	4.5	114.66667
+location	Bulgaria	42.6073975	25.4856617
+location	Burkina_Faso	12.5	-1.66667
+location	Burkina Faso	12.5	-1.66667
+location	Cambodia	13	105
+location	Cameroon	6	12.5
+location	Canada	61.0666922	-107.991707
+location	Cape_Verde	14.998654	-23.530702
+location	Cape Verde	14.998654	-23.530702
+location	Cayman_Islands	19.323979	-81.138315
+location	Cayman Islands	19.323979	-81.138315
+location	Central_African_Republic	7	21
+location	Central African Republic	7	21
+location	Chad	15.446105	18.7350005
+location	Chile	-31.7613364	-71.3187696
+location	China	35.000074	104.999927
+location	Colombia	2.893108	-73.7845142
+location	Cook_Islands	-21.24842	-159.78516
+location	Cook Islands	-21.24842	-159.78516
+location	Comoros	-12.2045175	44.2832964
+location	Congo	-0.7264326	15.6419155
+location	Costa_Rica	10	-84
+location	Costa Rica	10	-84
+location	Cote_D_Ivoire	7.9897371	-5.5679457
+location	Cote D Ivoire	7.9897371	-5.5679457
+location	Croatia	45.16667	15.5
+location	Cuba	22	-79.5
+location	Cyprus	35	33
+location	Czech_Republic	49.7439047	15.3381061
+location	Czech Republic	49.7439047	15.3381061
+location	Democratic_Republic_Of_The_Congo	-3.394559	23.306004
+location	Democratic Republic Of The Congo	-3.394559	23.306004
+location	Denmark	56	10
+location	Djibouti	11.58901	43.14503
+location	Dominica	15.5	-61.33333
+location	Dominican_Republic	18.50012	-69.98857
+location	Dominican Republic	18.50012	-69.98857
+location	East_Timor	-8.5151978	125.8375756
+location	East Timor	-8.5151978	125.8375756
+location	Ecuador	-1.3397667	-79.3666964
+location	Egypt	26.2540493	29.2675469
+location	El_Salvador	13.68935	-89.18718
+location	El Salvador	13.68935	-89.18718
+location	Eritrea	15.9500319	37.9999668
+location	Estonia	59	26
+location	Ethiopia	9	39.5
+location	Fiji	-18.1239695	179.0122737
+location	Finland	63.2467777	25.9209164
+location	France	46.603354	1.8883335
+location	French_Guiana	4.93333	-52.33333
+location	French Guiana	4.93333	-52.33333
+location	French_Polynesia	-17.6797	-149.4068
+location	French Polynesia	-17.6797	-149.4068
+location	Gabon	-0.8999694	11.6899699
+location	Gambia	13.5	-15.5
+location	Georgia_Country	41.775743	44.336896
+location	Georgia Country	41.775743	44.336896
+location	Germany	51.0834196	10.4234469
+location	Ghana	8.0300284	-1.080027
+location	Greece	39	22
+location	Grenada	12.11667	-61.66667
+location	Guadeloupe	16.2528827	-61.5686855
+location	Guam	13.51777	144.8391
+location	Guatemala	15.6356088	-89.8988086
+location	Guinea	10.7226226	-10.7083586
+location	Guinea_Bissau	12.042637	-14.949526
+location	Guinea Bissau	12.042637	-14.949526
+location	Guyana	5	-59
+location	Haiti	19.1399952	-72.3570971
+location	Honduras	15.0610686	-84.5978533
+location	Hong_Kong	22.3964	114.1095
+location	Hong Kong	22.3964	114.1095
+location	Hungary	47	20
+location	Iceland	64.9841821	-18.1059012
+location	India	22.3511148	78.6677428
+location	Indonesia	-5	120
+location	Iran	32	53
+location	Iraq	33	44
+location	Ireland	52.865196	-7.9794598
+location	Israel	31.5	34.75
+location	Italy	42.6384261	12.674297
+location	Jamaica	18.16667	-77.25
+location	Japan	35.68536	139.75309
+location	Jordan	31.1667049	36.941628
+location	Kazakhstan	47.2286086	65.2093197
+location	Kenya	1	38
+location	Kosovo	42.563516	20.889978
+location	Kuwait	29.3117	47.4818
+location	Kyrgyzstan	41.5	75
+location	Laos	20.0171109	103.378253
+location	Latvia	57	25
+location	Lebanon	33.88894	35.49442
+location	Liberia	5.7499721	-9.3658523
+location	Lithuania	55.41667	24
+location	Luxembourg	49.61167	6.13
+location	Macedonia	41.66667	21.75
+location	Madagascar	-20	47
+location	Malawi	-13.550995	34.124594
+location	Malaysia	2.3923759	112.8471939
+location	Maldives	4.7064352	73.3287853
+location	Mali	18	-2
+location	Malta	35.891045	14.441412
+location	Marshall_Islands	7.1315	171.1845
+location	Marshall Islands	7.1315	171.1845
+location	Martinique	14.6415	-61.0242
+location	Mauritania	20.25	-10.5
+location	Mauritius	-20.3	57.58333
+location	Mayotte	-12.821908	45.143906
+location	Mexico	19.4325301	-99.1332101
+location	Micronesia	6.924	158.162
+location	Moldova	47.41281	28.565826
+location	Mongolia	46.8250388	103.8499736
+location	Montenegro	43.0285558	19.291739
+location	Morocco	31.1728192	-7.3366042
+location	Mozambique	-18.25	35
+location	Myanmar	21	96
+location	Namibia	-23.2335499	17.3231107
+location	Nauru	-0.517	166.933
+location	Nepal	28	84
+location	Netherlands	52.3702	4.8952
+location	New_Caledonia	-20.9043	165.618
+location	New Caledonia	-20.9043	165.618
+location	New_Zealand	-41.500083	172.8344077
+location	New Zealand	-41.500083	172.8344077
+location	Nicaragua	13	-85
+location	Niger	18	9
+location	Nigeria	10	8
+location	Northern_Mariana_Islands	15.21233	145.7545
+location	Northern Mariana Islands	15.21233	145.7545
+location	Norway	64.574131	11.5270102892
+location	Oman	21.0000287	57.0036901
+location	Pakistan	30	70
+location	Palau	7.33978	134.47326
+location	Palestine	31.5	34.46667
+location	Panama	8.3096067	-81.3066245
+location	Papua New Guinea	-6	147
+location	Paraguay	-23.33333	-58
+location	Peru	-10	-75.25
+location	Philippines	12.8797	121.774
+location	Poland	52.0977181	19.0258159
+location	Portugal	39.6945	-8.13057
+location	Puerto_Rico	18.2459121	-66.4164147
+location	Puerto Rico	18.2459121	-66.4164147
+location	Qatar	25.27932	51.52245
+location	Reunion	-21.1151	55.5364
+location	Romania	46	25
+location	Russia	55.625578	37.6063916
+location	Rwanda	-2	30
+location	Saint_Barthelemy	17.9049171	-62.847207
+location	Saint Barthelemy	17.9049171	-62.847207
+location	Saint_Kitts	17.29484	-62.7261
+location	Saint Kitts	17.29484	-62.7261
+location	Saint_Lucia	13.88333	-60.96667
+location	Saint Lucia	13.88333	-60.96667
+location	Saint_Vincent_And_The_Grenadines	12.9843	-61.2872
+location	Saint Vincent And The Grenadines	12.9843	-61.2872
+location	Samoa	-13.598724	-172.454467
+location	Saudi_Arabia	25	45
+location	Saudi Arabia	25	45
+location	Senegal	14.5	-14.25
+location	Serbia	44.1534121	20.55144
+location	Seychelles	-4.58333	55.66667
+location	Sierra_Leone	8.5	-11.5
+location	Sierra Leone	8.5	-11.5
+location	Singapore	1.2904527	103.852038
+location	Slovakia	48.66667	19.5
+location	Slovenia	45.8133113	14.4808369
+location	Solomon_Islands	-8	159
+location	Solomon Islands	-8	159
+location	Somalia	8.3676771	49.083416
+location	South_Africa	-28.8166235	24.991639
+location	South Africa	-28.8166235	24.991639
+location	South_Korea	35.3985008	127.937111
+location	South Korea	35.3985008	127.937111
+location	Spain	40.0028028	-4.0031039
+location	Sri_Lanka	7.75	80.75
+location	Sri Lanka	7.75	80.75
+location	Sudan	16	30
+location	Suriname	4.1413025	-56.0771186
+location	Sweden	59.6749712	14.5208584
+location	Switzerland	47.00016	8.01427
+location	Syria	35.217054	38.372227
+location	Taiwan	23.6978	120.9605
+location	Tajikistan	39	71
+location	Tanzania	-6	35
+location	Thailand	14.8971921	100.83273
+location	Tibet	31.129337	88.671049
+location	Togo	8.66667	1.08333
+location	Tonga	-19.9160818	-175.2026423
+location	Trinidad_And_Tobago	10.8677845	-60.9821066
+location	Trinidad And Tobago	10.8677845	-60.9821066
+location	Tunisia	36.81897	10.16579
+location	Turkey	39	35
+location	Turkmenistan	39.3763807	59.3924609
+location	Turks_And_Caicos	21.73333	-71.58333
+location	Turks And Caicos	21.73333	-71.58333
+location	Tuvalu	-8.521152	179.197605
+location	Uruguay	-33	-56
+location	Uganda	1.5333554	32.2166578
+location	Ukraine	49.4871968	31.2718321
+location	United_Arab_Emirates	24.0002488	53.9994829
+location	United Arab Emirates	24.0002488	53.9994829
+location	United_Kingdom	54.542713	-2.384858
+location	United Kingdom	54.542713	-2.384858
+location	Usa	39.7837304	-100.4458824
+location	Usvi	18.3378801	-64.8982827
+location	Vanuatu	-17.734818	168.322
+location	Venezuela	8	-66
+location	Vietnam	16.16667	107.83333
+location	Wallis_And_Futuna	-13.28163	-176.17453
+location	Wallis And Futuna	-13.28163	-176.17453
+location	Yemen	16.3471243	47.8915271
+location	Zambia	-14.33333	28.5
+location	Zimbabwe	-19.307486	29.7968377
+			
+location	Aachen	50.776351	6.083862
+location	Acedera	39.0751785	-5.5720696
+location	Ain Baida-Ouargla	31.940839	5.3901082
+location	Akita	39.6898802	140.342608
+location	Ankara	39.91987	32.85427
+location	Apulia	40.9842539	16.6210027
+location	Arpacay	40.88741435	43.4066652000644
+location	Asansol	23.6871297	86.9746587
+location	Aveyron	44.31585745	2.50656973024198
+location	Babice	50.2	15.583
+location	Basilicata	40.500571	16.081953
+location	Bavaria	48.9467562	11.4038717
+location	Beijing	39.9057136	116.3912972
+location	Bekasi	-6.2349858	106.9945444
+location	Blackpool	53.8245483	-3.03731999502197
+location	Boklé	9.22166	13.40608
+location	Borges	47.0811658	2.399125
+location	Breznice	49.55763	13.95063
+location	Brno	49.195061	16.606836
+location	Buenos Aires	-34.6075682	-58.4370894
+location	Calabria	39.0565974	16.5249864
+location	Campania	40.860672	14.843984
+location	Cantal	45.0497701	2.69971756773736
+location	Cejkovice	48.883333	16.2833333
+location	Chambery	45.5662672	5.9203636
+location	Changnyeong	35.5443876	128.4921938
+location	Changping	40.2196456	116.2250912
+location	Chemnitz	50.833332	12.916667
+location	Ciudad Real	38.95973475	-3.88287444024854
+location	Copenhagen	55.6867243	12.5700724
+location	Debrecen	47.5274076	21.6217273
+location	Dhaka	23.7644025	90.389015
+location	Digor	40.3765095	43.4119469
+location	Dobichau	51.1999277	11.8331395
+location	Don Benito	38.9540269	-5.8619466
+location	Dumfries	55.069836	-3.6092292
+location	Dundee	56.4605938	-2.97019
+location	Edinburgh	55.9533456	-3.1883749
+location	Egyek	47.6236553	20.891385
+location	Etosha National Park	-18.99133055	15.7460550589477
+location	Fife	56.3333331	-3.0000001
+location	Garbayuela	39.0495647	-4.9988706
+location	Gardabani	41.4596178	45.089706
+location	Garoua	9.3202909	13.3919443
+location	Giessen	50.5862066	8.6742306
+location	Ginoza	26.493888	127.971539
+location	Glasgow	55.861155	-4.2501687
+location	Gorleston	52.5778559	1.7273353
+location	Gumma	36.4155807	139.0322835
+location	Haute-Marne	48.1329414	5.25291078975193
+location	Heibei	38.04	114.5
+location	Helsinki	60.1674881	24.9427473
+location	Hoedspruit	-24.352964	30.951343
+location	Hongyuan	32.776473	102.652604
+location	Hovorany	48.9550074	16.9905829
+location	Hustopece	48.94085	16.73762
+location	Isere	45.28979315	5.63438247738623
+location	Jalal-Abad Province	41.6987597	73.0398551
+location	Jambol	42.483935	26.5105553
+location	Jászladány	47.3649496	20.1653647
+location	Javornik	50.39077	17.00272
+location	Kanchipuram	12.9647163	79.9839686
+location	Kanton-Of-Jura	46.9467949	7.4402174
+location	Kantonofjura	47.20288345	7.18441030523346
+location	Kars	40.4558435	42.9979531
+location	Khotyn	48.5102603388775	26.4910412253609
+location	Kilmarnock	55.6100589	-4.4964652
+location	Kirkcaldy	56.1110218	-3.1582296
+location	Klepu Village	-7.9262239	111.6618329
+location	Koraput	18.8126081	-82.7117069
+location	Korycany	49.1060248	17.1632186
+location	Kosice	48.716385	21.261074
+location	Kötegyán	46.7347025	21.47905
+location	Kruger National Park	-23.9316231	31.5048950217197
+location	Ladánybene	47.0339086	19.4553886
+location	Lago Ranco	-40.22874615	-72.478581219049
+location	Lazio	41.9808038	12.7662312
+location	Liaoning	41.2374106	122.9955469
+location	Livingston	40.8682487	-88.5631125
+location	Logrosan	39.336979	-5.4924596
+location	Lombardia	45.5703694	9.7732524
+location	London	51.4893335	-0.144055084527687
+location	Madrigalejo	39.1389963	-5.6272875
+location	Maharashtra	18.9068356	75.6741579
+location	Maidstone	51.2748258	0.5231646
+location	Makari	12.5626477	14.4478797
+location	Maloum	10.6537268	14.7628217
+location	Markgrafneusiedl	48.266944	16.631944
+location	Marumori	37.9114675	140.7652008
+location	Mattighofen	48.1052205	13.1497405
+location	Meurthe-Et-Moselle	48.95596825	5.98703829975656
+location	Mie	34.7339685	136.5154489
+location	Moravsky Krumlov	49.04893	16.31169
+location	Moselle	49.0207259	6.53803517035795
+location	Mpumalanga	-26.276849	30.1500153
+location	Navalvillar De Pela	39.0916315	-5.4681268
+location	Neumuenster	54.0757442	9.9815377
+location	Nievre	47.11969705	3.54488979472272
+location	Nógrádmegyer	48.0688317	19.6243876
+location	Northern Cape	-29.573402	21.2051361
+location	Northern Cape Province	-29.573402	21.2051361
+location	Oslo	59.9133301	10.7389701
+location	Ostrobothnia	62.9651857	21.2099367431475
+location	Padarmé	9.53119	14.0610342
+location	Pafuri	-22.45039875	31.3101484860243
+location	Paisley	55.8455828	-4.4239646
+location	Plzen	49.7439047	15.3381061
+location	Pyrenees	42.5824012	0.538827167130727
+location	Regensburg	49.0195333	12.0974869
+location	Richmond Hill	43.8801166	-79.4392925
+location	Rome	41.8933203	12.4829321
+location	Rondebusch	52.8055502	7.8469583
+location	Santa Cruz	28.467178	-16.2507843
+location	Saone Et Loire	46.6557086	4.55855481835173
+location	Saratov	51.530018	46.034683
+location	Sardinia	40.0912813	9.0305773
+location	Savoie	45.49489515	6.38466038137565
+location	Saxony-Anhalt	52.0089065	11.7003344
+location	Selim	40.9284552	30.2375472
+location	Shiga	35.247154	136.109385
+location	Shizuoka	34.9332488	138.0955398
+location	Sicily	37.587794	14.155048
+location	Silistra	44.118308	27.2600031
+location	Smila	49.2276342654873	31.8520203541154
+location	Sofia	42.6977028	23.3217359
+location	South China Sea	15.0000001	114.9999999
+location	Stendal	52.6050782	11.8594279
+location	Stipa	49.266899	17.7266063
+location	Strilky	49.1401232	17.2146073
+location	Stuttgart	48.7784485	9.1800132
+location	Sumice	43.784330196	19.31999872
+location	Sumy	50.9097295057844	34.79910542132
+location	Szeghalom	47.0255741	21.1733473
+location	Szentes-Cserebök	46.7667882934528	20.4344134920566
+location	Talarrubias	39.03702	-5.2335687
+location	Tamil Nadu	10.9094334	78.3665347
+location	Tangail	24.2507461	89.9151479
+location	Tarnovo	43.0820584	25.6321312
+location	Tbilisi	41.6934591	44.8014495
+location	The South China Sea	20.6979747	116.7315856
+location	Tiszacsege	47.6975481	20.9935969
+location	Tiszafüred	47.6130877	20.7502258
+location	Tokushima	33.9196418	134.2509634
+location	Tokyo	35.6840574	139.7744912
+location	Tuscano	37.16775375	-113.682757103829
+location	Tuscany	43.4586541	11.1389204
+location	Tyn nad Vltavou	49.2234	14.42057
+location	Tyrol	47.223193	11.5261028
+location	Umbria	42.965916	12.490236
+location	Valdivia	-39.8141262	-73.2459859
+location	Velka	49.2883646	16.2271255
+location	Veneto	45.6476663	11.8665254
+location	Vésztö	46.9241978	21.2598799
+location	Vienna	48.2083537	16.3725042
+location	Villanueva De La Serena	38.9736819	-5.8003669
+location	Melitopol	46.8467267	35.3827281
+location	West Java	-6.8891904	107.6404716
+location	West Kazakhstan	53.2686213	69.4293355
+location	Western Province	-15.8543496	23.8016799
+location	Wieselburg	48.13333	15.13333
+location	Yekaterinburg	56.833332	60.583332
+location	Yozgat	39.7152422	35.170998
+location	Zdanice	49.0672941	17.0276815
+location	Sao Paulo	-23.5506507	-46.6333824
+location	Harbin	45.7593633	126.6276177
+location	Pafuri	-22.4503987	31.3101485
+location	Odisha	20.5431241	84.6897321
+location	Yakutia	66.941626	129.642371
+location	Ganquan County	36.21	109.41
+location	Jingxi City	23.1371896	106.4138603
+location	Wenshui County	37.43221	112.0305414
+location	Taiyuan Zoo	37.9103381	112.580296
+location	Virgin Islands	17.789187	-64.7080574
+location	Farta District	11.9760162988875	38.0043013967079
+location	Adda Berga District	9.41667	38.43333
+location	Goncha siso Enese District	11.1667	38
+location	Bonga town District	7.2645383	36.2460526
+location	South-Bench District	6.9952914	35.5868945
+location	Bad_Feilnbach	47.7745858	12.0070798
+location	Split	43.5116383	16.4399659
+location	Lonsjko_park	45.4755614881392	16.5871645966491
+location	Jasenovac	45.2719743599502	16.9146828421204
+location	Bobovac	45.3768445	16.6752285
+location	Larissa	39.6383092	22.4160706
+location	Mariental	-24.6283912658691	17.9645519256592
+location	Mosonmagyarovar 	47.86789	17.26994

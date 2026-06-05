@@ -1,0 +1,816 @@
+strain	bacteria	date	country	location	host	isolation_source	clade_membership	Bioproject	BioSample	Assembly	AssemblyStatus	coverage	contig_count	latitude	longitude	checkm_completeness	checkm_contamination	data_origin	sample_type	sample_type_intern
+09RA5721.fna	Bacillus anthracis	2009-XX-XX	Germany	Bavaria	Bos taurus		B.Br.004_(FrenchB)	PRJNA656733	SAMN15801190	GCA_017814005.1	Scaffold	70	32	47.953877	11.984475	99.43	0.29	clinical	NCBI	
+1033.fna	Bacillus anthracis	2001-04-12	Chile	Valdivia	Bos sp.	Carcass	A.Br.073	PRJNA635616	SAMN15046868	GCA_016484445.1	Contig	30.4	55	-40	-72	99.43	0.29	clinical	NCBI	
+11962596.fna	Bacillus anthracis	1978-XX-XX	Japan	Shizuoka			B.Br.008_(KrugerB)	PRJDB8367	SAMD00171951	GCA_006742565.1	Complete	188	3	34.9332488	138.0955398	99.43	0.29	unknown	NCBI	
+12RA1944.fna	Bacillus anthracis	20XX-XX-XX	Germany	Germany			A.Br.081_(Ames)	PRJNA514245	SAMEA112370837	GCA_029694465.1	Contig	120	116	51.1638175	10.4478313	99.43	0.86	unknown	NCBI	
+12RA1945_2023.fna	Bacillus anthracis	20XX-XX-XX	Germany	Germany			A.Br.081_(Ames)	PRJNA514245	SAMEA112370838	GCA_029694485.1	Contig	118	165	51.1638175	10.4478313	99.43	0.29	unknown	NCBI	
+12RA1945.fna	Bacillus anthracis	2012-XX-XX	Germany	Stendal	Bos taurus	Lymph Node	A.Br.081_(Ames)	PRJNA656733	SAMN15801191	GCA_017813975.1	Scaffold	44	41	52.990538	11.679493	99.43	0.86	clinical	NCBI	
+12RA1949_2023.fna	Bacillus anthracis	20XX-XX-XX	Germany	Germany			A.Br.081_(Ames)	PRJNA514245	SAMEA112370839	GCA_029694445.1	Contig	127	161	51.1638175	10.4478313	99.43	0.29	unknown	NCBI	
+12RA1949.fna	Bacillus anthracis	2012-XX-XX	Germany	Stendal	Bos taurus	Spleen	A.Br.081_(Ames)	PRJNA656733	SAMN15801192	GCA_017813995.1	Contig	40	64	52.990538	11.679493	99.43	0.86	clinical	NCBI	
+14RA5914_2021.fna	Bacillus anthracis	2014-XX-XX	Germany	Dobichau	Bos taurus	Spleen	A.Br.081_(Ames)	PRJNA656733	SAMN15801194	GCA_017963445.1	Scaffold	43	106	51.2016	11.83572	99.43	0.29	clinical	NCBI	
+14RA5914_2023.fna	Bacillus anthracis	20XX-XX-XX	Germany	Germany			A.Br.081_(Ames)	PRJNA514245	SAMEA112370840	GCA_029694425.1	Contig	122	154	51.1638175	10.4478313	99.43	0.29	unknown	NCBI	
+14RA5914.fna	Bacillus anthracis	2014-04-16	Germany	Dobichau	Bos taurus	Spleen	A.Br.081_(Ames)	PRJNA397960	SAMN07498358	GCA_002277915.1	Complete	100	3	51.1999277	11.8331395	99.43	0.86	clinical	NCBI	
+14RA5915_2023.fna	Bacillus anthracis	20XX-XX-XX	Germany	Germany			A.Br.081_(Ames)	PRJNA514245	SAMEA112370841	GCA_029694405.1	Contig	117	139	51.1638175	10.4478313	99.43	0.29	unknown	NCBI	
+14RA5915.fna	Bacillus anthracis	2014-XX-XX	Germany	Dobichau	Bos taurus	Kidney	A.Br.081_(Ames)	PRJNA656733	SAMN15801195	GCA_017963435.1	Scaffold	48	55	51.2016	11.83572	99.43	0.86	clinical	NCBI	
+14RA5916_2023.fna	Bacillus anthracis	20XX-XX-XX	Germany	Germany			A.Br.081_(Ames)	PRJNA514245	SAMEA112370842	GCA_029694245.1	Contig	116	162	51.1638175	10.4478313	99.43	0.29	unknown	NCBI	
+14RA5916.fna	Bacillus anthracis	2014-XX-XX	Germany	Dobichau	Bos taurus	Synovia	A.Br.081_(Ames)	PRJNA656733	SAMN15801196	GCA_017963425.1	Scaffold	49	74	51.2016	11.83572	99.43	0.86	clinical	NCBI	
+17OD930.fna	Bacillus anthracis	2017-05-15	Switzerland	Kanton-of-Jura	Bos taurus	Placenta	B.Br.004_(FrenchB)	PRJNA454788	SAMN09041402	GCA_006088855.1	Complete	600	3	47.42	7.08	99.43	0.29	clinical	NCBI	
+188678-1.fna	Bacillus anthracis	1993-XX-XX	Netherlands	Netherlands	Bos taurus		A.Br.093	PRJNA695105	SAMN18241471	GCA_022221145.1	Complete	78	3	52.2434979	5.6343227	99.43	0.29	clinical	NCBI	
+2000031006.fna	Bacillus anthracis	1956-10-16	USA	New Mexico			A.Br.020	PRJNA264742	SAMN03165110	GCA_000782875.1	Scaffold	51	93	34.5708167	-105.993007	99.43	0.29	unknown	NCBI	
+2000031008.fna	Bacillus anthracis	20XX-XX-XX	USA	Alabama			A.Br.054	PRJNA264742	SAMN03165111	GCA_000793525.1	Scaffold	44	80	33.2588817	-86.8295337	99.4	0.29	unknown	NCBI	
+2000031021.fna	Bacillus anthracis	20XX-XX-XX	USA	Louisiana		Soil	C.Br.002	PRJNA243523	SAMN02736984	GCA_000742655.1	Complete	303	2	30.8703881	-92.007126	98.85	0.29	environment	NCBI	
+2000031023.fna	Bacillus anthracis	1957-05-04			Bos taurus		A.Br.066	PRJNA264742	SAMN03165112	GCA_000782885.1	Scaffold	50	95			99.43	0.29	clinical	NCBI	
+2000031027.fna	Bacillus anthracis	1957-08-20	USA	Oklahoma	Bos taurus		A.Br.099	PRJNA264742	SAMN03165113	GCA_000782895.1	Scaffold	64	93	34.9550817	-97.2684063	99.43	0.29	clinical	NCBI	
+2000031031.fna	Bacillus anthracis	1957-06-03	USA	Massachusetts	Homo sapiens		A.Br.057	PRJNA264742	SAMN03165114	GCA_000782955.1	Scaffold	84.2	68	42.3788774	-72.032366	99.43	0.29	clinical	NCBI	
+2000031038.fna	Bacillus anthracis	1957-06-03					A.Br.054	PRJNA264742	SAMN03165124	GCA_000793565.1	Scaffold	68.5	96			99.43	0.29	unknown	NCBI	
+2000031039.fna	Bacillus anthracis	1957-05-04			Bos taurus		A.Br.066	PRJNA264742	SAMN03165116	GCA_000782975.1	Scaffold	77.8	91			99.43	0.29	clinical	NCBI	
+2000031052.fna	Bacillus anthracis	1956-06-27	USA	Wyoming	Bos taurus		C.Br.001	PRJNA264742	SAMN03165117	GCA_000782995.1	Scaffold	83.1	90	43.1700264	-107.568534	99.43	0	clinical	NCBI	
+2000031055.fna	Bacillus anthracis	1957-XX-XX	USA	USA			A.Br.170	PRJNA514245	SAMN03565954	GCA_029702445.1	Contig	88	44	39.7837304	-100.445882	99.25	0.86	unknown	NCBI	
+2000031075.fna	Bacillus anthracis	20XX-XX-XX	South Africa	South Africa	Bos taurus		A.Br.077	PRJNA264742	SAMN03165118	GCA_000783015.1	Scaffold	48	144	-28.8166236	24.991639	99.43	0.29	clinical	NCBI	
+2000031709.fna	Bacillus anthracis	1956-05-25	USA	USA			A.Br.052	PRJNA264742	SAMN03165119	GCA_000783035.1	Scaffold	103.1	82	39.7837304	-100.445882	99.43	0.29	unknown	NCBI	
+2000031765.fna	Bacillus anthracis	20XX-XX-XX					A.Br.150	PRJNA264742	SAMN03165120	GCA_000783055.1	Scaffold	90.2	93			99.43	0.29	unknown	NCBI	
+2000032065.fna	Bacillus anthracis	2001-XX-XX	USA	Texas	Bos taurus		A.Br.001	PRJNA514245	SAMN08557804	GCA_029694505.1	Contig	891	52	31.2638905	-98.5456116	99.43	0.86	clinical	NCBI	
+2000032819.fna	Bacillus anthracis	20XX-XX-XX					A.Br.150	PRJNA264742	SAMN03165121	GCA_000783075.1	Scaffold	66.5	113			99.43	0.29	unknown	NCBI	
+2000032832.fna	Bacillus anthracis	20XX-XX-XX					A.Br.150	PRJNA264742	SAMN03165122	GCA_000793545.1	Scaffold	72.2	87			99.43	0.29	unknown	NCBI	
+2000032839.fna	Bacillus anthracis	1976-XX-XX	USA	Texas		Soil	B.Br.008_(KrugerB)	PRJNA514245	SAMN08557805	GCA_029694525.1	Contig	90	36	31.2638905	-98.5456116	99.3	4.09	environment	NCBI	
+2000032879.fna	Bacillus anthracis	1962-04-19					A.Br.076	PRJNA264742	SAMN03165123	GCA_000783095.1	Scaffold	87.7	100			99.43	0.29	unknown	NCBI	
+2000032892.fna	Bacillus anthracis	20XX-XX-XX					A.Br.049	PRJNA264742	SAMN03165115	GCA_000782905.1	Scaffold	99.2	104			99.43	0.29	unknown	NCBI	
+2000032945.fna	Bacillus anthracis	20XX-XX-XX	USA	USA	Capra aegagrus hircus		A.Br.165	PRJNA514245	SAMN03565955	GCA_029702385.1	Contig	140	59	39.7837304	-100.445882	99.43	0.86	clinical	NCBI	
+2000032951.fna	Bacillus anthracis	1958-06-30			Homo sapiens		A.Br.060	PRJNA264742	SAMN03165125	GCA_000783115.1	Scaffold	71.9	92			99.43	0.29	clinical	NCBI	
+2000032967.fna	Bacillus anthracis	20XX-XX-XX					A.Br.060	PRJNA264742	SAMN03165126	GCA_000783135.1	Scaffold	74.8	88			99.43	0.29	unknown	NCBI	
+2000032968.fna	Bacillus anthracis	20XX-XX-XX					A.Br.060	PRJNA264742	SAMN03165127	GCA_000783155.1	Scaffold	48.2	114			98.82	0.29	unknown	NCBI	
+2000032975.fna	Bacillus anthracis	1966-04-01					A.Br.078	PRJNA264742	SAMN03165128	GCA_000783165.1	Scaffold	57.1	69			99.43	0.29	unknown	NCBI	
+2000032979.fna	Bacillus anthracis	20XX-XX-XX	USA	New Jersey			A.Br.080	PRJNA264742	SAMN03165129	GCA_000783195.1	Scaffold	62.5	83	40.0757384	-74.4041622	99.43	0.29	unknown	NCBI	
+2000032989.fna	Bacillus anthracis	20XX-XX-XX					A.Br.150	PRJNA264742	SAMN03165130	GCA_000783215.1	Scaffold	47	81			99.43	0.29	unknown	NCBI	
+2002013094_1956.fna	Bacillus anthracis	1956-12-11	USA	USA		Soil	C.Br.002	PRJNA238050	SAMN03174509	GCA_000832965.1	Complete	473	3	39.7837304	-100.445882	99.43	0.29	environment	NCBI	
+2002013094_2014.fna	Bacillus anthracis	1956-12-11					C.Br.002	PRJNA264742	SAMN03165131	GCA_000783235.1	Scaffold	164.1	122	25.029422	-77.3619559849668	99.43	0.29	unknown	NCBI	
+2002734279.fna	Bacillus anthracis	1976-XX-XX	USA	Texas		Soil	B.Br.008_(KrugerB)	PRJNA514245	SAMN08557806	GCA_029694545.1	Contig	78	38	31.2638905	-98.5456116	99.43	0.86	environment	NCBI	
+2016.AZ.3512.1.7.fna	Bacillus anthracis	2016-XX-XX	Italy	Italy	Capra aegagrus hircus	Blood	A.Br.140_(L1)	PRJNA514245	SAMN13220234	GCA_029695525.1	Contig	110	69	42.6384261	12.674297	99.43	0.29	clinical	NCBI	
+21_1088-3.fna	Bacillus anthracis	2021-10-27	Spain	Villanueva de la Serena	Bos taurus	Farm	A.Br.11.ESPc	PRJNA514245	SAMN33005110	GCA_029692445.1	Contig	67	59	38.99362	-5.736556	99.43	0.29	clinical	NCBI	
+21_890-8.fna	Bacillus anthracis	2021-09-13	Spain	Navalvillar de Pela	Bos taurus	Farm	A.Br.11.ESPc	PRJNA514245	SAMN33005088	GCA_029692525.1	Contig	182	66	39.151944	-5.502931	99.43	0.29	clinical	NCBI	
+21_890-9.fna	Bacillus anthracis	2021-09-10	Spain	Navalvillar de Pela	Bos taurus	Farm	A.Br.11.ESPc	PRJNA514245	SAMN33005089	GCA_029692585.1	Contig	80	72	39.1685	-5.4921	99.43	0.29	clinical	NCBI	
+21_891-2.fna	Bacillus anthracis	2021-09-13	Spain	Navalvillar de Pela	Equus caballus caballus	Farm	A.Br.11.ESPc	PRJNA514245	SAMN33005090	GCA_029692555.1	Contig	70	67	39.0759	-5.4301	99.43	0.29	clinical	NCBI	
+21_903-6.fna	Bacillus anthracis	2021-09-10	Spain	Navalvillar de Pela	Bos taurus	Farm	A.Br.11.ESPc	PRJNA514245	SAMN33005092	GCA_029692605.1	Contig	87	61	39.1685	-5.4921	99.43	1.44	clinical	NCBI	
+21_905-13.fna	Bacillus anthracis	2021-09-10	Spain	Navalvillar de Pela	Sus scrofa domesticus	Farm	A.Br.11.ESPc	PRJNA514245	SAMN33005093	GCA_029692625.1	Contig	81	64	39.1685	-5.4921	99.43	0.29	clinical	NCBI	
+21_918-3.fna	Bacillus anthracis	2021-09-20	Spain	Talarrubias	Bos taurus	Farm	A.Br.11.ESPc	PRJNA514245	SAMN33005094	GCA_029692245.1	Contig	88	64	39.1456	-5.2265	99.43	0.29	clinical	NCBI	
+21_926-9.fna	Bacillus anthracis	2021-09-24	Spain	Navalvillar de Pela	Bos taurus	Farm	A.Br.11.ESPc	PRJNA514245	SAMN33005101	GCA_029692345.1	Contig	53	80	39.0663	-5.4621	99.43	0.29	clinical	NCBI	
+21_940-19.fna	Bacillus anthracis	20XX-XX-XX	Spain	Navalvillar de Pela	Sus scrofa		A.Br.11.ESPc	PRJNA514245	SAMN33005106	GCA_029692385.1	Contig	162	60	39.0916315	-5.4681268	99.43	0.86	clinical	NCBI	
+21_955-9.fna	Bacillus anthracis	2021-10-01	Spain	Garbayuela	Bos taurus	Farm	A.Br.11.ESPc	PRJNA514245	SAMN33005107	GCA_029692405.1	Contig	164	60	39.0586	-5.0072	99.43	0.86	clinical	NCBI	
+2110.fna	Bacillus anthracis	1998-XX-XX	South Africa	Northern Cape Province	Ovis aries	Ear Tissue	A.Br.101	PRJNA510736	SAMN10614342	GCA_009669065.1	Scaffold	38	1123	-29.573402	21.2051361	99.43	0.82	clinical	NCBI	
+A005.fna	Bacillus anthracis	1971-XX-XX	Austria	Vienna			A.Br.110	PRJNA1426891	SAMN55897419							99.43	1.41	unknown	this study	german genomes
+A019.fna	Bacillus anthracis	20XX-XX-XX	Switzerland				A.Br.110	PRJNA1426891	SAMN55897420							99.43	0.99	unknown	this study	german genomes
+A023.fna	Bacillus anthracis	20XX-XX-XX	Slovakia				A.Br.113	PRJNA1426891	SAMN55897421							98.27	4.87	unknown	this study	german genomes
+2949_1D.fna	Bacillus anthracis	2009-05-10	South Africa	Northern Cape Province	Ovis sp.	Ear Tissue	A.Br.101	PRJNA510736	SAMN10614331	GCA_009669235.1	Contig	145	470	-29.573402	21.2051361	99.43	0.32	clinical	NCBI	
+2991_1B.fna	Bacillus anthracis	2009-05-10	South Africa	Northern Cape Province	Ovis sp.	Ear Tissue	A.Br.101	PRJNA510736	SAMN10614332	GCA_009669225.1	Contig	199	378	-29.573402	21.2051361	99.43	0.29	clinical	NCBI	
+3-IZSLT.fna	Bacillus anthracis	20XX-XX-XX	Italy	Italy			A.Br.140_(L1)	PRJNA695105	SAMN18241468	GCA_022221205.1	Complete	61	3	42.6384261	12.674297	99.43	0.29	unknown	NCBI	
+3000496651.fna	Bacillus anthracis	2001-XX-XX	USA	Texas	Bos Taurus 		A.Br.001	PRJNA514245	SAMN08557808	GCA_029694565.1	Contig	99	41	31.2638905	-98.5456116	99.43	0.86	clinical	NCBI	
+3000496652.fna	Bacillus anthracis	2008-XX-XX	USA	Montana	Bos Taurus 		A.Br.009_018_(WNA)	PRJNA514245	SAMN08557809	GCA_029694585.1	Contig	84	42	47.3752671	-109.638757	99.43	0.86	clinical	NCBI	
+3008_1B.fna	Bacillus anthracis	2009-05-10	South Africa	Northern Cape Province	Bos sp.	Ear Tissue	A.Br.101	PRJNA510736	SAMN10614333	GCA_009669275.1	Contig	155	442	-29.573402	21.2051361	99.43	0.29	clinical	NCBI	
+3016.fna	Bacillus anthracis	1936-XX-XX	Iran	Iran	Bos taurus		A.Br.162	PRJNA695105	SAMN13164732	GCA_022220545.1	Complete	58	2	32.6475314	54.5643516	99.43	0.29	clinical	NCBI	
+3122_2B.fna	Bacillus anthracis	2009-05-10	South Africa	Northern Cape Province	Oryx gazella	Ear Tissue	A.Br.101	PRJNA510736	SAMN10614334	GCA_009669265.1	Contig	168	431	-29.573402	21.2051361	99.43	0.29	clinical	NCBI	
+3132_1B.fna	Bacillus anthracis	2009-05-10	South Africa	Northern Cape Province	Tragelaphus strepsiceros	Ear Tissue	A.Br.101	PRJNA510736	SAMN10614335	GCA_009669205.1	Scaffold	201	198	-29.573402	21.2051361	99.43	0.29	clinical	NCBI	
+3154.fna	Bacillus anthracis	1960-XX-XX	Bulgaria	Bulgaria		Soil	A.Br.130	PRJNA178572	SAMN02470705	GCA_000319695.1	Contig	235	3	42.6073975	25.4856617	99.43	0.29	environment	NCBI	
+3166.fna	Bacillus anthracis	1960-XX-XX	Bulgaria	Bulgaria		Soil	A.Br.130	PRJNA178573	SAMN02470706	GCA_000319715.1	Contig	201	5	42.6073975	25.4856617	99.43	0.29	environment	NCBI	
+3186.fna	Bacillus anthracis	1960-XX-XX	Bulgaria	Bulgaria	Bos sp.		A.Br.109	PRJNA1426891								99.43	1.5	unknown	this study	german genomes
+BUL-39.fna	Bacillus anthracis	1960-XX-XX	Bulgaria	Bulgaria	Bos sp.		A.Br.109	PRJNA1426891								99.43	0.29	unknown	this study	german genomes
+BUL-40.fna	Bacillus anthracis	1960-XX-XX	Bulgaria	Bulgaria		Soil	A.Br.105_(Tsiankovskii)	PRJNA1426891	SAMN55897422							99.43	0.29	unknown	this study	german genomes
+BUL-41.fna	Bacillus anthracis	1960-XX-XX	Bulgaria	Bulgaria		Soil	A.Br.110	PRJNA1426891	SAMN55897423					42.6073975	25.4856617	99.43	0.29	environment	this study	german genomes
+3275_2D.fna	Bacillus anthracis	2009-05-10	South Africa	Northern Cape Province		Soil	A.Br.101	PRJNA510736	SAMN10614336	GCA_009669165.1	Contig	267	751	-29.573402	21.2051361	99.41	0.51	environment	NCBI	
+AF256.fna	Bacillus anthracis	2009-XX-XX	Namibia	Mariental	Bos sp.		A.Br.110	PRJNA1426891	SAMN55897424							99.05	1.45	unknown	this study	german genomes
+34F2_Sterne.fna	Bacillus anthracis	20XX-XX-XX					A.Br.077	PRJNA399155	SAMN07523112	GCA_002525715.1	Contig	160	69			99.43	0.29	unknown	NCBI	
+35.fna	Bacillus anthracis	1991-10-20	Turkey	Yozgat	Homo sapiens	Skin	A.Br.164	PRJNA236040	SAMN03010432	GCA_000833275.1	Complete	324	3	39.7152422	35.170998	99.43	0.29	clinical	NCBI	
+3517_1C.fna	Bacillus anthracis	2009-05-10	South Africa	Northern Cape Province	Tragelaphus strepsiceros	Ear Tissue	A.Br.101	PRJNA510736	SAMN10614337	GCA_009669125.1	Contig	166	121	-29.573402	21.2051361	99.43	0.29	clinical	NCBI	
+3517_2C.fna	Bacillus anthracis	2009-05-10	South Africa	Northern Cape Province	Tragelaphus strepsiceros	Ear Tissue	A.Br.101	PRJNA510736	SAMN10614338	GCA_009669145.1	Contig	137	1194	-29.573402	21.2051361	98.85	0.86	clinical	NCBI	
+3618_2D.fna	Bacillus anthracis	2009-05-10	South Africa	Northern Cape Province	Tragelaphus strepsiceros	Soil	B.Br.001	PRJNA510736	SAMN10614346	GCA_009669005.1	Contig	178	72	-29.573402	21.2051361	99.43	0.36	clinical	NCBI	
+3631_3D.fna	Bacillus anthracis	2009-05-10	South Africa	Northern Cape Province	Tragelaphus strepsiceros	Ear Tissue	A.Br.101	PRJNA510736	SAMN10614340	GCA_009669105.1	Contig	189	598	-29.573402	21.2051361	99.43	0.29	clinical	NCBI	
+3631_4C.fna	Bacillus anthracis	2009-05-10	South Africa	Northern Cape Province	Tragelaphus strepsiceros	Ear Tissue	A.Br.101	PRJNA510736	SAMN10614339	GCA_009669135.1	Contig	187	385	-29.573402	21.2051361	99.43	0.29	clinical	NCBI	
+3631_8D.fna	Bacillus anthracis	2009-05-10	South Africa	Northern Cape Province	Tragelaphus strepsiceros	Ear Tissue	A.Br.101	PRJNA510736	SAMN10614341	GCA_009669045.1	Contig	300	882	-29.573402	21.2051361	99.43	0.39	clinical	NCBI	
+4-IZSLT.fna	Bacillus anthracis	20XX-XX-XX	Italy	Tuscano			A.Br.142	PRJNA695105	SAMN13164733	GCA_022220665.1	Complete	65	3	37.16775375	-113.682757103829	99.43	0.29	unknown	NCBI	
+419.fna	Bacillus anthracis	1990-XX-XX	South Africa	Kruger National Park	Syncerus caffer		A.Br.041/042	PRJNA514245	SAMN15402712	GCA_029695005.1	Contig	290	55	-23.9316231	31.5048950217197	99.43	0.86	clinical	NCBI	
+44-NIAH.fna	Bacillus anthracis	20XX-XX-XX					A.Br.089	PRJDB3562	SAMD00026915	GCA_001015005.1	Contig	97	124			99.43	0.29	unknown	NCBI	
+5001.fna	Bacillus anthracis	1962-XX-XX	Czech_Republic	Czech_Republic	Bos taurus	spleen	A.Br.129	PRJNA1426891	SAMN55897425					49.8175	15473	99.43	1.44	clinical	this study	czech republic
+5002.fna	Bacillus anthracis	1962-XX-XX	Czech_Republic	Czech_Republic	Bos taurus	Hide	A.Br.065	PRJNA1426891	SAMN55897426					49.8175	15473	97.88	1.34	clinical	this study	czech republic
+52-40-NIAH.fna	Bacillus anthracis	1940-XX-XX					A.Br.088	PRJDB3563	SAMD00026914	GCA_001015025.1	Contig	391	36			99.43	0.29	unknown	NCBI	
+52-G.fna	Bacillus anthracis	2009-XX-XX	Georgia_country	Tbilisi	Bos sp.		A.Br.028	PRJNA224563	SAMN02951870	GCA_000559005.1	Chromosome	112	10	41.6934591	44.8014495	99.43	0.29	clinical	NCBI	
+55-VNIIVViM.fna	Bacillus anthracis	2014-06-07	Georgia_country	Tbilisi		Commercial Vial	A.Br.119	PRJNA348802	SAMN05915713	GCA_001835485.1	Scaffold	70	32	41.7151	44.82709999	99.43	0.29	unknown	NCBI	
+6166.fna	Bacillus anthracis	1982-XX-XX	Japan	Shizuoka			A.Br.099	PRJNA514245	SAMD00115651	GCA_029702655.1	Contig	58	45	34.9332488	138.0955398	99.43	0.86	unknown	NCBI	
+6172.fna	Bacillus anthracis	1982-XX-XX	Japan	Shizuoka			A.Br.015	PRJNA514245	SAMD00115652	GCA_029702465.1	Contig	60	55	34.9332488	138.0955398	99.43	0.86	unknown	NCBI	
+7702.fna	Bacillus anthracis	20XX-XX-XX					A.Br.077	PRJNA888965	SAMN31227697	GCA_026559715.1	Complete	182	2			99.43	0.29	unknown	NCBI	
+81-1.fna	Bacillus anthracis	1979-XX-XX	Russia	Russia	Homo sapiens	Blood	A.Br.110	PRJNA507081	SAMN10484567	GCA_003860145.1	Contig	80	55	45.572027	41.03259	99.43	0.29	clinical	NCBI	
+8903-G.fna	Bacillus anthracis	1997-XX-XX	Georgia_country	Gardabani		Soil	A.Br.094	PRJNA224562	SAMN02951868	GCA_000558965.1	Chromosome	267	9	41.4596178	45.089706	99.43	0.29	environment	NCBI	
+A121.fna	Bacillus anthracis	20XX-XX-XX	Russia	Russia			A.Br.113	PRJNA1426891	SAMN55897427							94.25	5.62	unknown	this study	german genomes
+9080-G.fna	Bacillus anthracis	1998-XX-XX	Georgia_country	Gardabani		Soil	A.Br.027	PRJNA224558	SAMN02951869	GCA_000558985.1	Chromosome	10	54	41.4596178	45.089706	99.43	0.29	environment	NCBI	
+A.Br.003.fna	Bacillus anthracis	20XX-XX-XX	United Kingdom	Scotland	Homo sapiens	Skin	A.Br.015	PRJNA243524	SAMN02736983	GCA_000743825.1	Scaffold	305	8	56.7861112	-4.1140518	99.43	0.29	clinical	NCBI	
+A.fna	Bacillus anthracis	1935-XX-XX	Denmark	Denmark	Bos taurus	Clinical Sample	A.Br.089	PRJNA514245	SAMEA3735716	GCA_029695605.1	Contig	143	63	55.670249	10.3333283	99.43	0.86	clinical	NCBI	
+A0001.fna	Bacillus anthracis	20XX-XX-XX	Turkey	Turkey			A.Br.026	PRJNA514245	SAMN04283829	GCA_029699765.1	Contig	60	50	38.57	35.14	99.43	0.29	unknown	NCBI	
+A0002.fna	Bacillus anthracis	20XX-XX-XX	Turkey	Turkey			A.Br.094	PRJNA514245	SAMN04283832	GCA_029700705.1	Contig	71	52	38.57	35.14	99.43	3.16	unknown	NCBI	
+A0006.fna	Bacillus anthracis	20XX-XX-XX	Australia	Australia			A.Br.041/042	PRJNA514245	SAMN04283803	GCA_029700565.1	Contig	105	57	-25.16	133.46	99.43	0.86	unknown	NCBI	
+A0017.fna	Bacillus anthracis	20XX-XX-XX	Zambia	Zambia			A.Br.039	PRJNA514245	SAMN04283800	GCA_029700505.1	Contig	35	63	-13.8	27.5	99.43	0.48	unknown	NCBI	
+A0021.fna	Bacillus anthracis	1997-10-01	Zambia	Western Province	Hippopotamus amphibius		A.Br.039	PRJNA257008	SAMN03862113	GCA_001277085.1	Contig	361.12	32	-15.8543496	23.8016799	99.43	0.29	clinical	NCBI	
+A0026.fna	Bacillus anthracis	1992-XX-XX	United Kingdom	United Kingdom	Equus caballus		A.Br.035_036	PRJNA514245	SAMN04283797	GCA_029700485.1	Contig	113	72	52.21	-1.1	99.43	0.86	clinical	NCBI	
+A0032.fna	Bacillus anthracis	20XX-XX-XX	China	China		Fur	A.Br.120	PRJNA514245	SAMN04283859	GCA_029699625.1	Contig	73	77	35.51	104.11	99.43	0.86	clinical	NCBI	
+A0033.fna	Bacillus anthracis	20XX-XX-XX	China	China		Wool	A.Br.120	PRJNA514245	SAMN04283860	GCA_029700465.1	Contig	68	67	35.51	104.11	99.43	0.86	clinical	NCBI	
+A0052.3.fna	Bacillus anthracis	1999-05-01	Poland	Poland		Animal	B.Br.004_(FrenchB)	PRJNA635616	SAMN15046933	GCA_016484455.1	Contig	48.6	101	52	19	99.28	0.29	clinical	NCBI	
+A0062.fna	Bacillus anthracis	20XX-XX-XX	Poland	Poland			A.Br.110	PRJNA514245	SAMN04283848	GCA_029700425.1	Contig	99	61	51.55	19.8	99.43	0.86	unknown	NCBI	
+A0081.fna	Bacillus anthracis	1998-XX-XX	Germany	Germany		Soil	A.Br.070	PRJNA514245	SAMN04283816	GCA_029699745.1	Contig	62	46	51.9	10.27	99.43	0.29	environment	NCBI	
+A0083.fna	Bacillus anthracis	20XX-XX-XX	Germany	Germany			A.Br.013	PRJNA514245	SAMN04283833	GCA_029700445.1	Contig	140	59	51.9	10.27	99.43	4.09	unknown	NCBI	
+A0091.fna	Bacillus anthracis	1939-XX-XX	South Africa	South Africa			B.Br.008_(KrugerB)	PRJNA514245	SAMN04283795	GCA_029700725.1	Contig	167	39	-30.33	22.56	99.43	5.46	unknown	NCBI	
+A0094.fna	Bacillus anthracis	1949-XX-XX	South Africa	South Africa			A.Br.068	PRJNA514245	SAMN04283813	GCA_029700765.1	Contig	238	38	-30.33	22.56	99.43	0.86	unknown	NCBI	
+A0096.fna	Bacillus anthracis	1939-XX-XX	South Africa	South Africa			A.Br.068	PRJNA514245	SAMN04283814	GCA_029699725.1	Contig	51	49	-30.33	22.56	99.43	0.29	unknown	NCBI	
+A0097.fna	Bacillus anthracis	1938-XX-XX	South Africa	South Africa			A.Br.068	PRJNA514245	SAMN04283815	GCA_029699685.1	Contig	96	40	-30.33	22.56	99.43	0.86	unknown	NCBI	
+A0103.fna	Bacillus anthracis	20XX-XX-XX	Turkey	Turkey	Bos taurus		A.Br.093	PRJNA514245	SAMN04283830	GCA_029699665.1	Contig	56	49	38.57	35.14	99.43	0.29	clinical	NCBI	
+A0128.fna	Bacillus anthracis	20XX-XX-XX	South Africa	South Africa			A.Br.041/042	PRJNA514245	SAMN04283804	GCA_029700405.1	Contig	78	63	-30.33	22.56	99.43	0.86	unknown	NCBI	
+A0148.fna	Bacillus anthracis	1990-XX-XX	Turkey	Turkey	Homo sapiens		A.Br.093	PRJNA514245	SAMN04283831	GCA_029699705.1	Contig	67	48	38.57	35.14	99.43	0.29	clinical	NCBI	
+A0150.fna	Bacillus anthracis	1995-XX-XX	Turkey	Turkey	Homo sapiens		A.Br.008_(TEA)	PRJNA514245	SAMN04283864	GCA_029699565.1	Contig	57	65	38.57	35.14	99.43	0.29	clinical	NCBI	
+A0174.fna	Bacillus anthracis	20XX-XX-XX					A.Br.019	PRJNA27921	SAMN02470265	GCA_000182055.1	Scaffold		60			95.08	0	unknown	NCBI	
+A0193.fna	Bacillus anthracis	20XX-XX-XX	USA	South Dakota	Bos sp.		A.Br.020	PRJNA27923	SAMN02470282	GCA_000181915.1	Scaffold		60	44.6471761	-100.348761	93.96	0.29	clinical	NCBI	
+A0224.fna	Bacillus anthracis	20XX-XX-XX	Australia	Australia			A.Br.103	PRJNA514245	SAMN04283836	GCA_029700385.1	Contig	390	59	-25.16	133.46	99.43	3.16	unknown	NCBI	
+A0241.fna	Bacillus anthracis	20XX-XX-XX	Turkey	Turkey	Capra aegagrus hircus		A.Br.008_(TEA)	PRJNA514245	SAMN04283863	GCA_029700745.1	Contig	180	57	38.57	35.14	99.43	0.86	clinical	NCBI	
+A0245.fna	Bacillus anthracis	20XX-XX-XX	Turkey	Turkey	Bos taurus		A.Br.008_(TEA)	PRJNA514245	SAMN04283865	GCA_029700365.1	Contig	380	57	38.57	35.14	99.43	0.86	clinical	NCBI	
+A0248.fna	Bacillus anthracis	20XX-XX-XX					A.Br.001	PRJNA33543	SAMN02603932	GCA_000022865.1	Complete		3			99.43	0.29	unknown	NCBI	
+A0252.fna	Bacillus anthracis	20XX-XX-XX	Zimbabwe	Zimbabwe			A.Br.102	PRJNA514245	SAMN04283840	GCA_029700345.1	Contig	102	61	-19	29.9	99.43	3.16	unknown	NCBI	
+A0264.fna	Bacillus anthracis	1984-XX-XX	Turkey	Turkey	Homo sapiens		A.Br.165	PRJNA514245	SAMN03569271	GCA_029702405.1	Contig	184	53	38.57	35.14	99.43	0.86	clinical	NCBI	
+A0293.fna	Bacillus anthracis	20XX-XX-XX	Italy	Italy	Ovis aries		A.Br.128	PRJNA514245	SAMN04283866	GCA_029700685.1	Contig	109	85	41.52	12.34	99.43	0.86	clinical	NCBI	
+A0303.fna	Bacillus anthracis	20XX-XX-XX	Canada	Canada	Bos taurus		A.Br.009_018_(WNA)	PRJNA514245	SAMN04283883	GCA_029699545.1	Contig	72	62	56.7	-106.2	99.43	0.86	clinical	NCBI	
+A0362.fna	Bacillus anthracis	20XX-XX-XX	Norway	Norway	Bos taurus		A.Br.110	PRJNA514245	SAMN04283849	GCA_029699525.1	Contig	63	66	60.28	8.28	99.43	0.86	clinical	NCBI	
+A0363.fna	Bacillus anthracis	20XX-XX-XX	Norway	Norway	Bos taurus		A.Br.059	PRJNA514245	SAMN04283810	GCA_029700325.1	Contig	100	65	60.28	8.28	99.43	1.44	clinical	NCBI	
+A0380.fna	Bacillus anthracis	20XX-XX-XX	Ireland	Ireland		Wool	A.Br.052	PRJNA514245	SAMN04283808	GCA_029700305.1	Contig	33	98	53.24	-8.14	99.43	0.86	clinical	NCBI	
+A0386.fna	Bacillus anthracis	20XX-XX-XX	United Kingdom	Scotland	Homo sapiens		A.Br.015	PRJNA514245	SAMN04283835	GCA_029700285.1	Contig	93	59	56.29	-4.12	99.43	4.09	clinical	NCBI	
+A0401.fna	Bacillus anthracis	20XX-XX-XX	France	France	Bos taurus		A.Br.UA2_(L6)	PRJNA514245	SAMN04283868	GCA_029699485.1	Contig	61	61	46.13	2.12	99.43	0.86	clinical	NCBI	
+A0404.fna	Bacillus anthracis	20XX-XX-XX	India	India	Homo sapiens		A.Br.097	PRJNA514245	SAMN04283834	GCA_029700265.1	Contig	334	53	20.35	78.57	99.43	3.16	clinical	NCBI	
+A0417.fna	Bacillus anthracis	20XX-XX-XX	Hungary	Hungary			A.Br.124	PRJNA514245	SAMN04283862	GCA_029699505.1	Contig	84	57	47.9	19.3	99.43	0.29	unknown	NCBI	
+A0442.fna	Bacillus anthracis	20XX-XX-XX	South Africa	Kruger National Park	Ammelaphus imberbis		B.Br.001	PRJNA27915	SAMN02470279	GCA_000181935.1	Scaffold		46	-23.9316231	31.5048950217197	96.14	0.26	clinical	NCBI	
+A0455.fna	Bacillus anthracis	20XX-XX-XX	Mozambique	Mozambique	Bos taurus		A.Br.102	PRJNA514245	SAMN04283841	GCA_029700245.1	Contig	129	62	-18.39	35.31	99.43	4.09	clinical	NCBI	
+A0464.fna	Bacillus anthracis	20XX-XX-XX	Indonesia	Indonesia	Bos taurus		A.Br.049	PRJNA514245	SAMN04283806	GCA_029700185.1	Contig	352	63	-0.47	113.55	99.43	3.16	clinical	NCBI	
+A0465.fna	Bacillus anthracis	20XX-XX-XX					B.Br.007_(FrenchB)	PRJNA27919	SAMN02470255	GCA_000181995.1	Scaffold		57			97.75	0	unknown	NCBI	
+A0478.fna	Bacillus anthracis	20XX-XX-XX	Spain	Spain		Minerals	A.Br.060	PRJNA514245	SAMN04283811	GCA_029700205.1	Contig	173	62	40.27	-3.44	99.43	1.44	environment	NCBI	
+A0485.fna	Bacillus anthracis	20XX-XX-XX	Russia	Russia			A.Br.119	PRJNA514245	SAMN04283856	GCA_029700165.1	Contig	86	58	61.31	105.19	99.43	0.86	unknown	NCBI	
+A0488.fna	Bacillus anthracis	20XX-XX-XX					A.Br.060	PRJNA27913	SAMN02470254	GCA_000181835.1	Scaffold		63			94.52	0	unknown	NCBI	
+A0530.fna	Bacillus anthracis	20XX-XX-XX	Botswana	Botswana	Loxodonta		A.Br.041/042	PRJNA514245	SAMN04283802	GCA_029700125.1	Contig	42	66	-22.19	24.41	99.43	0.86	clinical	NCBI	
+A0533.fna	Bacillus anthracis	20XX-XX-XX	South Africa	South Africa	Capra aegagrus hircus		A.Br.040	PRJNA514245	SAMN04283801	GCA_029700145.1	Contig	141	63	-30.33	22.56	99.43	0.86	clinical	NCBI	
+A0604.fna	Bacillus anthracis	1981-XX-XX	China	China		Soil	A.Br.124	PRJNA514245	SAMN04283861	GCA_029700085.1	Contig	84	58	35.51	104.11	99.43	0.86	environment	NCBI	
+A0615.fna	Bacillus anthracis	1981-XX-XX	China	China		Soil	A.Br.050	PRJNA514245	SAMN04283807	GCA_029700105.1	Contig	77	70	35.51	104.11	99.43	0.86	environment	NCBI	
+A0628.fna	Bacillus anthracis	1981-XX-XX	China	China		Soil	A.Br.113	PRJNA514245	SAMN04283850	GCA_029699445.1	Contig	67	65	35.51	104.11	99.43	0.29	environment	NCBI	
+A0656.fna	Bacillus anthracis	1982-XX-XX	China	China		Soil	A.Br.104	PRJNA514245	SAMN04283837	GCA_029700625.1	Contig	69	64	35.51	104.11	99.43	6.61	environment	NCBI	
+A0659.fna	Bacillus anthracis	1982-XX-XX	China	China		Soil	A.Br.104	PRJNA514245	SAMN04283838	GCA_029700585.1	Contig	63	60	35.51	104.11	99.43	3.16	environment	NCBI	
+A0684.fna	Bacillus anthracis	1982-XX-XX	China	China		Soil	A.Br.161_(Heroin)	PRJNA514245	SAMN04283885	GCA_029700665.1	Contig	161	68	35.51	104.11	99.43	0.86	environment	NCBI	
+A0777.fna	Bacillus anthracis	20XX-XX-XX	Canada	Canada			A.Br.009_018_(WNA)	PRJNA695105	SAMN18241465	GCA_022221265.1	Complete	136	3	61.0666922	-107.991707	99.43	0.29	unknown	NCBI	
+A0843.fna	Bacillus anthracis	1993-XX-XX	Italy	Italy	Ovis aries		A.Br.143	PRJNA514245	SAMN04283879	GCA_029700045.1	Contig	30	105	41.52	12.34	99.43	0.86	clinical	NCBI	
+A0847.fna	Bacillus anthracis	1997-XX-XX	Italy	Italy	Ovis aries		A.Br.128	PRJNA514245	SAMN04283867	GCA_029700065.1	Contig	130	73	41.52	12.34	99.43	0.86	clinical	NCBI	
+A0853.fna	Bacillus anthracis	1999-XX-XX	Italy	Italy	Bos taurus		A.Br.143	PRJNA514245	SAMN04283880	GCA_029700025.1	Contig	72	66	41.52	12.34	99.43	0.86	clinical	NCBI	
+A0854.fna	Bacillus anthracis	1999-XX-XX	Italy	Italy	Bos taurus		A.Br.145	PRJNA514245	SAMN04283881	GCA_029700005.1	Contig	40	100	41.52	12.34	99.43	2.24	clinical	NCBI	
+A0860.fna	Bacillus anthracis	1984-XX-XX	Italy	Italy	Ovis aries		A.Br.146	PRJNA514245	SAMN04283882	GCA_029699985.1	Contig	61	60	41.52	12.34	99.43	3.16	clinical	NCBI	
+A0862a.fna	Bacillus anthracis	1984-XX-XX	Italy	Italy	Ovis aries		A.Br.138	PRJNA514245	SAMN04283870	GCA_029699965.1	Contig	76	60	41.52	12.34	99.43	0.86	clinical	NCBI	
+A0873.fna	Bacillus anthracis	1972-XX-XX	Italy	Italy	Bos taurus		A.Br.142	PRJNA514245	SAMN04283878	GCA_029699945.1	Contig	197	69	41.52	12.34	99.43	0.86	clinical	NCBI	
+A0878.fna	Bacillus anthracis	20XX-XX-XX	Italy	Italy			A.Br.135	PRJNA514245	SAMN04283869	GCA_029699925.1	Contig	154	65	41.52	12.34	99.43	0.86	unknown	NCBI	
+A0881.fna	Bacillus anthracis	20XX-XX-XX	Italy	Italy	Homo sapiens		A.Br.141	PRJNA514245	SAMN04283875	GCA_029699905.1	Contig	86	71	41.52	12.34	99.43	0.86	clinical	NCBI	
+A0893.fna	Bacillus anthracis	1996-XX-XX	Italy	Italy	Capra aegagrus hircus		A.Br.139	PRJNA514245	SAMN04283874	GCA_029699465.1	Contig	58	61	41.52	12.34	99.43	0.86	clinical	NCBI	
+A0894.fna	Bacillus anthracis	1997-XX-XX	Italy	Italy	Capra aegagrus hircus		A.Br.139	PRJNA514245	SAMN04283872	GCA_029699425.1	Contig	140	60	41.52	12.34	99.43	0.86	clinical	NCBI	
+A1032.fna	Bacillus anthracis	20XX-XX-XX	Albania	Albania	Capra aegagrus hircus		A.Br.107	PRJNA514245	SAMN04283844	GCA_029700645.1	Contig	104	79	41.9	20.1	99.43	0.86	clinical	NCBI	
+A1033.fna	Bacillus anthracis	20XX-XX-XX	Albania	Albania	Bos taurus		A.Br.107	PRJNA514245	SAMN04283845	GCA_029699385.1	Contig	135	64	41.9	20.1	99.43	0.86	clinical	NCBI	
+A1035.fna	Bacillus anthracis	20XX-XX-XX	Albania	Albania	Ovis aries		A.Br.106	PRJNA514245	SAMN04283843	GCA_029700605.1	Contig	156	57	41.9	20.1	99.43	0.86	clinical	NCBI	
+A1039.fna	Bacillus anthracis	1999-XX-XX	Bolivia	Santa Cruz	Bos taurus		A.Br.070	PRJNA257008	SAMN02999502	GCA_000986915.1	Contig	605294	32	28.467178	-16.2507843	99.43	0.29	clinical	NCBI	
+A1050.fna	Bacillus anthracis	20XX-XX-XX	Italy	Italy	Bos taurus		A.Br.140_(L1)	PRJNA514245	SAMN04283877	GCA_029699405.1	Contig	120	62	41.52	12.34	99.43	0.86	clinical	NCBI	
+A1055.fna	Bacillus anthracis	20XX-XX-XX					C.Br.002	PRJNA10795	SAMN02435882	GCA_000167255.1	Scaffold		42			98.64	1.01	unknown	NCBI	
+A1058.fna	Bacillus anthracis	1957-XX-XX	USA	USA	Bos taurus		A.Br.058	PRJNA514245	SAMN04283809	GCA_029699885.1	Contig	324	67	37.5	-95.42	99.43	0.86	clinical	NCBI	
+A1063.fna	Bacillus anthracis	1960-XX-XX	USA	USA			A.Br.060	PRJNA514245	SAMN04283812	GCA_029699865.1	Contig	82	50	37.5	-95.42	99.43	0.86	unknown	NCBI	
+A1074.fna	Bacillus anthracis	20XX-XX-XX	Chile	Chile			A.Br.073	PRJNA695105	SAMN18241466	GCA_022221245.1	Complete	56	3	-31.7613365	-71.3187697	99.43	0.29	unknown	NCBI	
+A1075.fna	Bacillus anthracis	20XX-XX-XX	Chile	Lago Ranco	Bos taurus		A.Br.073	PRJNA257008	SAMN02999503	GCA_000986935.1	Contig	710251	26	-40.22874615	-72.478581219049	99.43	0.29	clinical	NCBI	
+A1082.fna	Bacillus anthracis	20XX-XX-XX	Italy	Italy	Bos taurus		A.Br.141	PRJNA514245	SAMN04283876	GCA_029699845.1	Contig	67	73	41.52	12.34	99.43	0.86	clinical	NCBI	
+A1096.fna	Bacillus anthracis	20XX-XX-XX	Argentina	Argentina	Bos taurus		A.Br.072	PRJNA514245	SAMN04283817	GCA_029700545.1	Contig	72	57	-38.24	-63.37	99.43	0.86	clinical	NCBI	
+A11.fna	Bacillus anthracis	1975-XX-XX	South Africa	Kruger National Park		Soil	B.Br.001	PRJNA514245	SAMN15402704	GCA_029695045.1	Contig	217	77	-23.9316231	31.5048950217197	99.43	0.95	environment	NCBI	
+A1101.fna	Bacillus anthracis	20XX-XX-XX	Argentina	Argentina	Bos taurus		A.Br.074	PRJNA514245	SAMN04283818	GCA_029699645.1	Contig	69	44	-38.24	-63.37	99.43	0.48	clinical	NCBI	
+A1102.fna	Bacillus anthracis	20XX-XX-XX	Argentina	Argentina	Sus scrofa domesticus		A.Br.074	PRJNA514245	SAMN04283819	GCA_029699605.1	Contig	71	46	-38.24	-63.37	99.43	0.29	clinical	NCBI	
+A11193.fna	Bacillus anthracis	20XX-XX-XX	Bulgaria	Bulgaria	Bos taurus		A.Br.109	PRJNA514245	SAMN04283846	GCA_029699575.1	Contig	97	46	42.44	25.29	99.43	0.86	clinical	NCBI	
+A11194.fna	Bacillus anthracis	20XX-XX-XX	Bulgaria	Bulgaria	Bos taurus		A.Br.109	PRJNA514245	SAMN04283847	GCA_029699805.1	Contig	98	59	42.44	25.29	99.43	0.86	clinical	NCBI	
+A1144.fna	Bacillus anthracis	1992-04-20	Argentina	Buenos Aires	Bos taurus		A.Br.136	PRJNA257008	SAMN02999504	GCA_000875715.1	Complete	250	3	-34.6075682	-58.4370894	99.43	0.29	clinical	NCBI	
+A133.fna	Bacillus anthracis	20XX-XX-XX	Austria	Tyrol	Bos taurus		B.Br.004_(FrenchB)	PRJNA514245	SAMN18366126	GCA_029695305.1	Contig	724	53	47.223193	11.5261028	99.43	0.86	clinical	NCBI	
+A142.fna	Bacillus anthracis	2007-XX-XX	Germany	Neumuenster		Soil	A.Br.064_(V770)	PRJNA309927	SAMN08812795	GCA_003063965.1	Scaffold	65	24	54.0757442	9.9815377	99.43	0.29	environment	NCBI	
+A155.fna	Bacillus anthracis	2007-XX-XX	Germany	Neumuenster		Soil	A.Br.073	PRJNA309927	SAMN08812796	GCA_003063985.1	Contig	85	239	54.0757442	9.9815377	99.43	2.67	environment	NCBI	
+A159.fna	Bacillus anthracis	2008-XX-XX	Germany	Germany			A.Br.034_(AncientA)	PRJNA695105	SAMN18241462	GCA_022221325.1	Complete	136	3	51.1638175	10.4478313	99.43	0.29	unknown	NCBI	
+A16_1975.fna	Bacillus anthracis	1975-XX-XX	South Africa	Kruger National Park		Soil	B.Br.001	PRJNA514245	SAMN15402705	GCA_029695445.1	Contig	211	59	-23.9316231	31.5048950217197	99.43	4.17	environment	NCBI	
+A16-LA896.fna	Bacillus anthracis	1970-XX-XX	Switzerland	Switzerland	Bos taurus		B.Br.004_(FrenchB)	PRJNA309927	SAMN08812799	GCA_003064015.1	Contig	67	27	46.7985624	8.2319736	99.43	0.29	clinical	NCBI	
+A16.fna	Bacillus anthracis	20XX-XX-XX					A.Br.089	PRJNA40303	SAMN02641483	GCA_000512835.2	Complete	56	3			99.43	0.29	unknown	NCBI	
+A166.fna	Bacillus anthracis	1984-XX-XX	France	Borges	Bos taurus		A.Br.140_(L1)	PRJNA695105	SAMN13164734	GCA_022220945.1	Complete	68	3	47.0811658	2.399125	99.43	0.29	clinical	NCBI	
+A167.fna	Bacillus anthracis	1997-XX-XX	France	Savoie	Bos taurus		B.Br.005	PRJNA514245	SAMN18366127	GCA_029694875.1	Contig	830	49	45.49489515	6.38466038137565	99.43	0.86	clinical	NCBI	
+A168.fna	Bacillus anthracis	1998-XX-XX	France	Haute-Marne	Bos taurus		A.Br.UA2_(L6)	PRJNA695105	SAMN13164740	GCA_022220965.1	Complete	63	3	48.1329414	5.25291078975193	99.43	0.29	clinical	NCBI	
+A16R.fna	Bacillus anthracis	20XX-XX-XX					A.Br.086	PRJNA40353	SAMN02641484	GCA_000512775.2	Complete	50	2			99.43	0.29	unknown	NCBI	
+A170.fna	Bacillus anthracis	1997-XX-XX	France	Pyrenees	Canis lupus familiaris		B.Br.007_(FrenchB)	PRJNA514245	SAMN18366128	GCA_029695185.1	Contig	785	62	42.5824012	0.538827167130727	99.43	0.86	clinical	NCBI	
+A173.fna	Bacillus anthracis	2005-XX-XX	France	Saone et Loire	Bos taurus		B.Br.006	PRJNA514245	SAMN18366129	GCA_029694725.1	Contig	570	66	46.6557086	4.55855481835173	99.43	0.86	clinical	NCBI	
+A174.fna	Bacillus anthracis	2000-XX-XX	France	Nievre	Bos taurus		B.Br.005	PRJNA514245	SAMN18366130	GCA_029695205.1	Contig	362	42	47.11969705	3.54488979472272	99.43	3.16	clinical	NCBI	
+A175a.fna	Bacillus anthracis	1997-XX-XX	France	Pyrenees	Bos taurus		B.Br.007_(FrenchB)	PRJNA514245	SAMN18366131	GCA_029694905.1	Contig	775	57	42.5824012	0.538827167130727	99.43	0.86	clinical	NCBI	
+A178.fna	Bacillus anthracis	2008-XX-XX	France	Moselle	Homo sapiens		A.Br.UA4	PRJNA695105	SAMN13164747	GCA_022220985.1	Complete	62	3	49.0207259	6.53803517035795	99.43	0.29	clinical	NCBI	
+A180.fna	Bacillus anthracis	2006-XX-XX	France	Savoie	Bos taurus		B.Br.005	PRJNA514245	SAMN18366132	GCA_029695225.1	Contig	940	54	45.49489515	6.38466038137565	99.43	2.01	clinical	NCBI	
+A181.fna	Bacillus anthracis	2007-XX-XX	France	Aveyron	Bos taurus		B.Br.006	PRJNA514245	SAMN18366133	GCA_029695245.1	Contig	897	54	44.31585745	2.50656973024198	99.43	2.59	clinical	NCBI	
+A182.fna	Bacillus anthracis	2008-XX-XX	France	Meurthe-et-Moselle	Bos taurus		A.Br.UA4	PRJNA695105	SAMN13164746	GCA_022220505.1	Complete	76	3	48.95596825	5.98703829975656	99.43	0.29	clinical	NCBI	
+A183.fna	Bacillus anthracis	2008-XX-XX	France	Cantal	Bos taurus		B.Br.006	PRJNA514245	SAMN18366134	GCA_029695265.1	Contig	1072	56	45.0497701	2.69971756773736	99.43	2.01	clinical	NCBI	
+A185.fna	Bacillus anthracis	2006-XX-XX	France	Saone et Loire	Bos taurus		B.Br.006	PRJNA514245	SAMN18366135	GCA_029695285.1	Contig	829	52	46.6557086	4.55855481835173	99.43	0.86	clinical	NCBI	
+A188.fna	Bacillus anthracis	2009-XX-XX	Germany	Bavaria		Environment	B.Br.004_(FrenchB)	PRJNA514245	SAMN18366136	GCA_029694745.1	Contig	362	40	48.9467562	11.4038717	99.43	0.86	environment	NCBI	
+A189.fna	Bacillus anthracis	2009-XX-XX	Germany	Bavaria		Environment	B.Br.004_(FrenchB)	PRJNA514245	SAMN18366137	GCA_029695325.1	Contig	929	54	48.9467562	11.4038717	99.43	2.01	environment	NCBI	
+A191.fna	Bacillus anthracis	20XX-XX-XX			Bos taurus		B.Br.007_(FrenchB)	PRJNA514245	SAMN18366138	GCA_029694795.1	Contig	1168	51			99.43	0.86	clinical	NCBI	
+A192a.fna	Bacillus anthracis	1997-XX-XX	France	Pyrenees	Bos taurus		B.Br.007_(FrenchB)	PRJNA514245	SAMN18366139	GCA_029695105.1	Contig	712	53	42.5824012	0.538827167130727	99.43	3.16	clinical	NCBI	
+A193a.fna	Bacillus anthracis	1997-XX-XX	France	France	Bos taurus		A.Br.UA2_(L6)	PRJNA695105	SAMN13164741	GCA_022220925.1	Complete	62	3	46.603354	1.8883335	99.43	0.29	clinical	NCBI	
+A193b.fna	Bacillus anthracis	1997-XX-XX	France	Pyrenees	Bos taurus		B.Br.007_(FrenchB)	PRJNA514245	SAMN18366140	GCA_029694665.1	Contig	1059	52	42.5824012	0.538827167130727	99.43	0.86	clinical	NCBI	
+A194.fna	Bacillus anthracis	1997-XX-XX	France	Savoie	Bos taurus		B.Br.005	PRJNA514245	SAMN18366141	GCA_029695125.1	Contig	1385	55	45.49489515	6.38466038137565	99.43	0.86	clinical	NCBI	
+A195.fna	Bacillus anthracis	2009-XX-XX	France	Savoie	Bos taurus		B.Br.005	PRJNA514245	SAMN18366142	GCA_029694705.1	Contig	848	55	45.49489515	6.38466038137565	99.43	0.86	clinical	NCBI	
+A196.fna	Bacillus anthracis	2009-XX-XX	France	Isere	Bos taurus		B.Br.005	PRJNA514245	SAMN18366143	GCA_029695145.1	Contig	677	57	45.28979315	5.63438247738623	99.43	0.86	clinical	NCBI	
+A197.fna	Bacillus anthracis	2009-XX-XX	France	Savoie	Bos taurus		B.Br.005	PRJNA514245	SAMN18366144	GCA_029695165.1	Contig	826	59	45.49489515	6.38466038137565	99.43	2.01	clinical	NCBI	
+A2012.fna	Bacillus anthracis	20XX-XX-XX					A.Br.001	PRJNA299	SAMN02435829	GCA_000006155.2	Chromosome		426			94.52	0	unknown	NCBI	
+A2075.fna	Bacillus anthracis	1999-XX-XX	Tanzania	Tanzania	Papio		A.Br.038	PRJNA514245	SAMN04283799	GCA_029699825.1	Contig	120	61	-6.22	34.53	99.43	0.86	clinical	NCBI	
+A2079.fna	Bacillus anthracis	1999-XX-XX	Tanzania	Tanzania	Aepyceros melampus		A.Br.035_036	PRJNA514245	SAMN04283798	GCA_029699785.1	Contig	44	68	-6.22	34.53	99.43	0.29	clinical	NCBI	
+A24-TN_Bovine_Sokol.fna	Bacillus anthracis	1972-XX-XX	Slovakia	Slovakia	Bos primigenius taurus		B.Br.004_(FrenchB)	PRJNA309927	SAMN08812798	GCA_003064045.1	Scaffold	88	30	48.7411522	19.4528646	99.43	0.29	clinical	NCBI	
+A27.fna	Bacillus anthracis	20XX-XX-XX	Germany	Giessen	Homo sapiens		A.Br.127_(Pasteur)	PRJNA695105	SAMN13164726	GCA_022221045.1	Complete	80	3	50.5862066	8.6742306	99.43	0.29	clinical	NCBI	
+A29.fna	Bacillus anthracis	1954-XX-XX	Germany	Giessen			A.Br.127_(Pasteur)	PRJNA695105	SAMN13164728	GCA_022220525.1	Complete	71	3	50.5862066	8.6742306	99.43	0.29	unknown	NCBI	
+A3.fna	Bacillus anthracis	1975-XX-XX	South Africa	Kruger National Park		Soil	B.Br.001	PRJNA514245	SAMN15402701	GCA_029694965.1	Contig	289	60	-23.9316231	31.5048950217197	99.43	6.47	environment	NCBI	
+A3716.fna	Bacillus anthracis	2006-XX-XX	Namibia	Namibia	Equus zebra		A.Br.100	PRJNA514245	SAMN04283842	GCA_029700525.1	Contig	247	57	-22.57	18.29	99.43	4.09	clinical	NCBI	
+A3783.fna	Bacillus anthracis	20XX-XX-XX	USA	USA			C.Br.002	PRJNA695105	SAMN18241469	GCA_022221185.1	Complete	68	3	39.7837304	-100.445882	99.43	0.29	unknown	NCBI	
+A3802.fna	Bacillus anthracis	2006-XX-XX	Cote_d_Ivoire	Cote_d_Ivoire	Capra sp.	Hide	A.Br.157	PRJNA514245	SAMN04283884	GCA_029699365.1	Contig	238	56	7.32	-5.32	99.43	4.09	clinical	NCBI	
+A4564.fna	Bacillus anthracis	2009-XX-XX	Germany	Aachen	Homo sapiens		A.Br.169	PRJNA514245	SAMN03566004	GCA_029701425.1	Contig	75	49	50.46	6.5	99.43	0.86	clinical	NCBI	
+A4565.fna	Bacillus anthracis	2010-XX-XX	Germany	Aachen	Homo sapiens	Blood	A.Br.169	PRJNA514245	SAMN03566005	GCA_029701465.1	Contig	61	47	50.46	6.5	99.43	0.86	clinical	NCBI	
+A4566.fna	Bacillus anthracis	2012-XX-XX	Denmark	Copenhagen	Homo sapiens	Blood	A.Br.171	PRJNA514245	SAMN03566006	GCA_029701405.1	Contig	49	49	55.4	12.34	99.43	0.29	clinical	NCBI	
+A4568.fna	Bacillus anthracis	2000-XX-XX	Norway	Oslo	Homo sapiens	Skin	A.Br.171	PRJNA514245	SAMN03566008	GCA_029701365.1	Contig	55	47	59.54	10.45	99.43	0.29	clinical	NCBI	
+A4571.fna	Bacillus anthracis	2012-XX-XX	Germany	Regensburg	Homo sapiens	Skin	A.Br.171	PRJNA514245	SAMN03566009	GCA_029701345.1	Contig	93	43	49	12.6	99.43	0.48	clinical	NCBI	
+A4572.fna	Bacillus anthracis	2009-XX-XX	United Kingdom	Glasgow	Homo sapiens	Blood	A.Br.169	PRJNA514245	SAMN03565959	GCA_029702425.1	Contig	60	45	55.51	-4.15	99.43	0.29	clinical	NCBI	
+A4573.fna	Bacillus anthracis	2009-XX-XX	United Kingdom	Glasgow	Homo sapiens	Blood	A.Br.169	PRJNA514245	SAMN03565982	GCA_029701925.1	Contig	59	53	55.51	-4.15	99.43	0.86	clinical	NCBI	
+A4574.fna	Bacillus anthracis	2009-XX-XX	United Kingdom	Glasgow	Homo sapiens	Blood	A.Br.169	PRJNA514245	SAMN03566003	GCA_029701445.1	Contig	114	40	55.51	-4.15	99.43	0.86	clinical	NCBI	
+A4576.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Dundee	Homo sapiens		A.Br.169	PRJNA514245	SAMN03566011	GCA_029701325.1	Contig	84	41	56.27	-2.58	99.43	0.29	clinical	NCBI	
+A4577.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens		A.Br.169	PRJNA514245	SAMN03566012	GCA_029701265.1	Contig	69	46	55.51	-4.15	99.43	0.67	clinical	NCBI	
+A4578.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens		A.Br.169	PRJNA514245	SAMN03566013	GCA_029701165.1	Contig	70	49	55.51	-4.15	99.43	0.29	clinical	NCBI	
+A4579.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Kirkcaldy	Homo sapiens		A.Br.169	PRJNA514245	SAMN03566014	GCA_029701305.1	Contig	87	42	56.7	-3.9	99.43	0.86	clinical	NCBI	
+A4580.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Kirkcaldy	Homo sapiens		A.Br.169	PRJNA514245	SAMN03566015	GCA_029701245.1	Contig	70	47	56.7	-3.9	99.43	0.29	clinical	NCBI	
+A4581.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Dundee	Homo sapiens		A.Br.169	PRJNA514245	SAMN03566016	GCA_029701225.1	Contig	66	46	56.27	-2.58	99.43	0.86	clinical	NCBI	
+A4582.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens		A.Br.169	PRJNA514245	SAMN03566017	GCA_029701145.1	Contig	64	46	55.51	-4.15	99.43	0.29	clinical	NCBI	
+A4583.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Kilmarnock	Homo sapiens	Groin Sinus	A.Br.169	PRJNA514245	SAMN03565960	GCA_029702345.1	Contig	86	43	55.36	-4.29	99.43	0.86	clinical	NCBI	
+A4584.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Kilmarnock	Homo sapiens	Blood	A.Br.169	PRJNA514245	SAMN03565961	GCA_029702485.1	Contig	90	44	55.36	-4.29	99.43	0.86	clinical	NCBI	
+A4585.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Kilmarnock	Homo sapiens	Blood	A.Br.169	PRJNA514245	SAMN03565962	GCA_029702365.1	Contig	79	42	55.36	-4.29	99.43	0.86	clinical	NCBI	
+A4586.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Kilmarnock	Homo sapiens	Blood	A.Br.169	PRJNA514245	SAMN03565963	GCA_029702305.1	Contig	79	44	55.36	-4.29	99.43	0.29	clinical	NCBI	
+A4587.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens	Blood	A.Br.169	PRJNA514245	SAMN03565964	GCA_029702325.1	Contig	128	43	55.51	-4.15	99.43	0.86	clinical	NCBI	
+A4588.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens	Blood	A.Br.169	PRJNA514245	SAMN03565965	GCA_029702265.1	Contig	73	45	55.51	-4.15	99.43	0.29	clinical	NCBI	
+A4589.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens	Abscess	A.Br.169	PRJNA514245	SAMN03565966	GCA_029702205.1	Contig	81	41	55.51	-4.15	99.43	0.86	clinical	NCBI	
+A4590.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens	Blood	A.Br.169	PRJNA514245	SAMN03565967	GCA_029702185.1	Contig	88	46	55.51	-4.15	99.43	0.29	clinical	NCBI	
+A4591.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	London	Homo sapiens	Blood	A.Br.169	PRJNA514245	SAMN03565968	GCA_029702165.1	Contig	128	42	51.3	-0.7	99.43	0.86	clinical	NCBI	
+A4592.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens		A.Br.169	PRJNA514245	SAMN03565969	GCA_029702145.1	Contig	102	45	55.51	-4.15	99.43	0.86	clinical	NCBI	
+A4593.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens	Wound	A.Br.169	PRJNA514245	SAMN03565972	GCA_029702085.1	Contig	69	43	55.51	-4.15	99.43	1.44	clinical	NCBI	
+A4594.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens	Blood	A.Br.169	PRJNA514245	SAMN03565970	GCA_029702105.1	Contig	89	44	55.51	-4.15	99.43	0.29	clinical	NCBI	
+A4595.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens	Skin	A.Br.169	PRJNA514245	SAMN03565971	GCA_029702125.1	Contig	88	47	55.51	-4.15	99.43	0.29	clinical	NCBI	
+A4596.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Fife	Homo sapiens	Skin	A.Br.169	PRJNA514245	SAMN03565973	GCA_029702065.1	Contig	67	46	56.12	-3.8	99.43	0.67	clinical	NCBI	
+A4597.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Fife	Homo sapiens	Skin	A.Br.169	PRJNA514245	SAMN03565974	GCA_029702045.1	Contig	59	48	56.12	-3.8	99.43	0.29	clinical	NCBI	
+A4598.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Fife	Homo sapiens	Skin	A.Br.169	PRJNA514245	SAMN03565975	GCA_029702025.1	Contig	86	40	56.12	-3.8	99.43	0.86	clinical	NCBI	
+A4599.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Dumfries	Homo sapiens	Skin	A.Br.169	PRJNA514245	SAMN03565976	GCA_029702005.1	Contig	136	40	55.4	-3.36	99.43	0.86	clinical	NCBI	
+A46.fna	Bacillus anthracis	1970-XX-XX	Germany	Stuttgart	Sus scrofa		B.Br.004_(FrenchB)	PRJNA309927	SAMN08812800	GCA_003064085.1	Contig	63	41	48.7784485	9.1800132	99.43	0.29	clinical	NCBI	
+A4600.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Dumfries	Homo sapiens	Skin	A.Br.169	PRJNA514245	SAMN03565977	GCA_029701985.1	Contig	62	45	55.4	-3.36	99.43	0.29	clinical	NCBI	
+A4601.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	London	Homo sapiens	Skin	A.Br.169	PRJNA514245	SAMN03565979	GCA_029701945.1	Contig	62	46	51.3	-0.7	99.43	0.86	clinical	NCBI	
+A4602.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	London	Homo sapiens	Blood	A.Br.169	PRJNA514245	SAMN03565980	GCA_029701885.1	Contig	79	43	51.3	-0.7	99.43	0.86	clinical	NCBI	
+A4603.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Dumfries	Homo sapiens	Skin	A.Br.169	PRJNA514245	SAMN03565981	GCA_029701905.1	Contig	139	36	55.4	-3.36	99.43	0.86	clinical	NCBI	
+A4604.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Edinburgh	Homo sapiens		A.Br.169	PRJNA514245	SAMN03565983	GCA_029701865.1	Contig	76	44	55.57	-3.11	99.43	0.86	clinical	NCBI	
+A4605.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Edinburgh	Homo sapiens		A.Br.169	PRJNA514245	SAMN03565984	GCA_029701845.1	Contig	64	50	55.57	-3.11	99.43	0.48	clinical	NCBI	
+A4606.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens		A.Br.169	PRJNA514245	SAMN03565985	GCA_029701805.1	Contig	90	40	55.51	-4.15	99.43	0.86	clinical	NCBI	
+A4607.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens		A.Br.169	PRJNA514245	SAMN03565986	GCA_029701825.1	Contig	87	49	55.51	-4.15	99.43	0.29	clinical	NCBI	
+A4608.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens		A.Br.169	PRJNA514245	SAMN03565987	GCA_029701785.1	Contig	75	43	55.51	-4.15	99.43	0.29	clinical	NCBI	
+A4609.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens		A.Br.169	PRJNA514245	SAMN03565988	GCA_029701745.1	Contig	74	46	55.51	-4.15	99.43	0.86	clinical	NCBI	
+A4610.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens	Blood	A.Br.169	PRJNA514245	SAMN03565989	GCA_029701765.1	Contig	73	47	55.51	-4.15	99.43	0.29	clinical	NCBI	
+A4611.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens	Blood	A.Br.169	PRJNA514245	SAMN03565990	GCA_029701725.1	Contig	94	41	55.51	-4.15	99.43	0.86	clinical	NCBI	
+A4612.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens	Skin	A.Br.169	PRJNA514245	SAMN03565991	GCA_029701705.1	Contig	97	41	55.51	-4.15	99.43	0.86	clinical	NCBI	
+A4613.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens		A.Br.169	PRJNA514245	SAMN03565992	GCA_029701685.1	Contig	78	46	55.51	-4.15	99.43	0.29	clinical	NCBI	
+A4614.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Maidstone	Homo sapiens	Blood	A.Br.169	PRJNA514245	SAMN03565993	GCA_029701625.1	Contig	77	45	51.16	-0.31	99.43	0.29	clinical	NCBI	
+A4615.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Maidstone	Homo sapiens	Skin	A.Br.169	PRJNA514245	SAMN03565994	GCA_029701645.1	Contig	114	43	51.16	-0.31	99.43	0.86	clinical	NCBI	
+A4616.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Livingston	Homo sapiens	Skin	A.Br.169	PRJNA514245	SAMN03565995	GCA_029701665.1	Contig	71	43	55.54	-3.31	99.43	0.29	clinical	NCBI	
+A4617.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Paisley	Homo sapiens	Skin	A.Br.169	PRJNA514245	SAMN03565996	GCA_029701605.1	Contig	65	45	55.5	-4.26	99.43	0.29	clinical	NCBI	
+A4618.fna	Bacillus anthracis	2010-XX-XX	United Kingdom	Glasgow	Homo sapiens	Blood	A.Br.169	PRJNA514245	SAMN03565978	GCA_029701965.1	Contig	81	44	55.51	-4.15	99.43	0.86	clinical	NCBI	
+A4619.fna	Bacillus anthracis	2012-XX-XX	United Kingdom	Blackpool	Homo sapiens	Skin	A.Br.171	PRJNA514245	SAMN03565997	GCA_029701585.1	Contig	43	128	53.49	-3.2	99.43	0.86	clinical	NCBI	
+A4620.fna	Bacillus anthracis	2012-XX-XX	United Kingdom	Blackpool	Homo sapiens	Blood	A.Br.171	PRJNA514245	SAMN03565998	GCA_029701545.1	Contig	52	168	53.49	-3.2	99.43	0.86	clinical	NCBI	
+A4621.fna	Bacillus anthracis	2013-XX-XX	United Kingdom	Gorleston	Homo sapiens	Blood	A.Br.171	PRJNA514245	SAMN03565999	GCA_029701525.1	Contig	47	157	52.34	1.44	99.43	0.86	clinical	NCBI	
+A4622.fna	Bacillus anthracis	2013-XX-XX	United Kingdom	Gorleston	Homo sapiens	Blood	A.Br.171	PRJNA514245	SAMN03566000	GCA_029701565.1	Contig	61	83	52.34	1.44	99.43	0.86	clinical	NCBI	
+A4623.fna	Bacillus anthracis	2013-XX-XX	United Kingdom	Glasgow	Homo sapiens	Blood	A.Br.171	PRJNA514245	SAMN03566001	GCA_029701485.1	Contig	57	97	55.51	-4.15	99.43	0.86	clinical	NCBI	
+A4624.fna	Bacillus anthracis	2012-XX-XX	United Kingdom	Blackpool	Homo sapiens	Blood	A.Br.171	PRJNA514245	SAMN03566002	GCA_029701505.1	Contig	40	74	53.49	-3.2	99.43	0.86	clinical	NCBI	
+A49.fna	Bacillus anthracis	20XX-XX-XX	Germany	Giessen			A.Br.127_(Pasteur)	PRJNA695105	SAMN13164730	GCA_022221065.1	Complete	81	3	50.5862066	8.6742306	99.43	0.29	unknown	NCBI	
+A5.fna	Bacillus anthracis	1975-XX-XX	South Africa	Kruger National Park		Soil	B.Br.001	PRJNA514245	SAMN15402702	GCA_029695405.1	Contig	276	56	-23.9316231	31.5048950217197	99.43	6.47	environment	NCBI	
+A8.fna	Bacillus anthracis	1975-XX-XX	South Africa	Kruger National Park		Soil	B.Br.001	PRJNA514245	SAMN15402703	GCA_029695465.1	Contig	221	57	-23.9316231	31.5048950217197	99.43	3.27	environment	NCBI	
+A87.fna	Bacillus anthracis	1951-XX-XX	Germany	Giessen			A.Br.127_(Pasteur)	PRJNA695105	SAMN13164731	GCA_022220645.1	Complete	87	3	50.5862066	8.6742306	99.43	0.29	unknown	NCBI	
+AF039.fna	Bacillus anthracis	20XX-XX-XX	Zimbabwe	Zimbabwe		Soil	B.Br.011_(KrugerB)	PRJNA695105	SAMN18241463	GCA_022221305.1	Complete	92	3	-18.4554963	29.7468414	99.43	0.29	environment	NCBI	
+Akita-80.fna	Bacillus anthracis	1980-XX-XX	Japan	Akita			A.Br.085	PRJNA514245	SAMD00115661	GCA_029702695.1	Contig	204	359	39.6898802	140.342608	99.43	0.86	unknown	NCBI	
+Ames_1981.fna	Bacillus anthracis	1981-XX-XX	USA	Texas	Bos taurus		A.Br.001	PRJNA238045	SAMN03201418	GCA_000833065.1	Complete	351	3	31.2638905	-98.5456116	99.43	0.29	clinical	NCBI	
+Ames_2003.fna	Bacillus anthracis	20XX-XX-XX					A.Br.001	PRJNA309	SAMN02603432	GCA_000007845.1	Complete		1			99.43	0.29	unknown	NCBI	
+Ames-Ancestor.fna.ref	Bacillus anthracis	20XX-XX-XX					A.Br.001	PRJNA10784	SAMN02603433	GCA_000008445.1	Complete		3			99.43	0.29	unknown	NCBI	
+AN16-06_B.fna	Bacillus anthracis	2017-04-29	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914677	GCA_029699285.1	Contig	151	50	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-109_D1.fna	Bacillus anthracis	2016-07-18	Tanzania	Tanzania	Capra hircus	Carcass	A.Br.038	PRJNA514245	SAMEA8914720	GCA_029698685.1	Contig	96	77	-6.5247123	35.7878438	99.43	1.01	clinical	NCBI	
+AN16-110_S.fna	Bacillus anthracis	2016-06-30	Tanzania	Tanzania	Capra hircus	Carcass	A.Br.038	PRJNA514245	SAMEA8914681	GCA_029696885.1	Contig	111	75	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-120_B.fna	Bacillus anthracis	2016-07-23	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914722	GCA_029698785.1	Contig	36	152	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-120_S1.fna	Bacillus anthracis	2016-07-23	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914723	GCA_029698705.1	Contig	113	52	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-122_S.fna	Bacillus anthracis	2017-01-20	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914725	GCA_029698665.1	Contig	141	62	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-122_T1.fna	Bacillus anthracis	2017-01-20	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914726	GCA_029698645.1	Contig	119	54	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-122_T2.fna	Bacillus anthracis	2017-01-20	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914727	GCA_029698725.1	Contig	147	54	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-128_bead.fna	Bacillus anthracis	2016-08-19	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614565	GCA_029693445.1	Contig	59	40	-2.99792	35.084373	99.43	0.35	clinical	NCBI	
+AN16-128_D.fna	Bacillus anthracis	2016-08-19	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914683	GCA_029699245.1	Contig	32	260	-6.5247123	35.7878438	99.43	0.29	clinical	NCBI	
+AN16-132_bead.fna	Bacillus anthracis	2017-03-21	Tanzania	Tanzania	Bos indicus	Carcass	A.Br.038	PRJNA514245	SAMN32614566	GCA_029692965.1	Contig	97	34	-3.189766	35.243246	99.43	0.29	clinical	NCBI	
+AN16-132_I.fna	Bacillus anthracis	2017-03-21	Tanzania	Tanzania	Bos indicus	Carcass	A.Br.038	PRJNA514245	SAMEA8914684	GCA_029699225.1	Contig	39	64	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-135_I.fna	Bacillus anthracis	2016-10-20	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914686	GCA_029699205.1	Contig	96	53	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-135_S.fna	Bacillus anthracis	2016-10-20	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914687	GCA_029699185.1	Contig	97	183	-6.5247123	35.7878438	99.43	1.44	clinical	NCBI	
+AN16-135_T1.fna	Bacillus anthracis	2016-10-20	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914688	GCA_029699265.1	Contig	123	54	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-14_bead.fna	Bacillus anthracis	2016-09-16	Tanzania	Tanzania	Bos indicus	Carcass	A.Br.038	PRJNA514245	SAMN32614567	GCA_029692945.1	Contig	70	33	-3.038225	35.01837	99.43	0.86	clinical	NCBI	
+AN16-14_D1.fna	Bacillus anthracis	2016-09-16	Tanzania	Tanzania	Bos indicus	Carcass	A.Br.038	PRJNA514245	SAMEA8914690	GCA_029699165.1	Contig	219	55	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-14_D2.fna	Bacillus anthracis	2016-09-16	Tanzania	Tanzania	Bos indicus	Carcass	A.Br.038	PRJNA514245	SAMEA8914691	GCA_029699145.1	Contig	126	147	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-14_S1.fna	Bacillus anthracis	2016-09-16	Tanzania	Tanzania	Bos indicus	Carcass	A.Br.038	PRJNA514245	SAMEA8914692	GCA_029699085.1	Contig	41	226	-6.5247123	35.7878438	99.43	0.29	clinical	NCBI	
+AN16-14_S2.fna	Bacillus anthracis	2016-09-16	Tanzania	Tanzania	Bos indicus	Carcass	A.Br.038	PRJNA514245	SAMEA8914693	GCA_029699115.1	Contig	110	53	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-144_bead.fna	Bacillus anthracis	2016-10-18	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614568	GCA_029693485.1	Contig	80	34	-2.5533	35.19708	99.43	0.86	clinical	NCBI	
+AN16-155_S.fna	Bacillus anthracis	2016-11-26	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914737	GCA_029698425.1	Contig	200	73	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-160_2bead.fna	Bacillus anthracis	2016-11-26	Tanzania	Tanzania	Bos indicus	Carcass	A.Br.038	PRJNA514245	SAMN32614569	GCA_029693425.1	Contig	69	36	-3.29372	35.03663	99.43	0.86	clinical	NCBI	
+AN16-160_D1.fna	Bacillus anthracis	2016-11-26	Tanzania	Tanzania	Bos indicus	Carcass	A.Br.038	PRJNA514245	SAMEA8914738	GCA_029698465.1	Contig	288	52	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-160_D2.fna	Bacillus anthracis	2016-11-26	Tanzania	Tanzania	Bos indicus	Carcass	A.Br.038	PRJNA514245	SAMEA8914739	GCA_029698445.1	Contig	112	59	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-164_S1.fna	Bacillus anthracis	2017-01-25	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914695	GCA_029699105.1	Contig	139	52	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-164_S3.fna	Bacillus anthracis	2017-01-25	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914697	GCA_029699065.1	Contig	86	91	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-165_S.fna	Bacillus anthracis	2017-01-26	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914730	GCA_029698585.1	Contig	126	50	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-169_bead.fna	Bacillus anthracis	2016-12-13	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614570	GCA_029693585.1	Contig	89	38	-2.833193	35.538847	99.43	0.86	clinical	NCBI	
+AN16-169_S.fna	Bacillus anthracis	2016-12-13	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914728	GCA_029698605.1	Contig	194	62	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-169_T.fna	Bacillus anthracis	2016-12-13	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914729	GCA_029698625.1	Contig	264	78	-6.5247123	35.7878438	99.43	0.48	clinical	NCBI	
+AN16-171_B.fna	Bacillus anthracis	2016-12-14	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914745	GCA_029698365.1	Contig	83	44	-6.5247123	35.7878438	99.43	0.67	clinical	NCBI	
+AN16-175_T.fna	Bacillus anthracis	2017-04-30	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914719	GCA_029698745.1	Contig	71	43	-6.5247123	35.7878438	99.43	0.29	clinical	NCBI	
+AN16-23_B.fna	Bacillus anthracis	2016-09-16	Tanzania	Tanzania	Bos indicus	Carcass	A.Br.038	PRJNA514245	SAMEA8914698	GCA_029699045.1	Contig	65	235	-6.5247123	35.7878438	99.43	0.67	clinical	NCBI	
+AN16-23_D2.fna	Bacillus anthracis	2016-09-16	Tanzania	Tanzania	Bos indicus	Carcass	A.Br.038	PRJNA514245	SAMEA8914700	GCA_029699025.1	Contig	197	72	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-23_D3.fna	Bacillus anthracis	2016-09-16	Tanzania	Tanzania	Bos indicus	Carcass	A.Br.038	PRJNA514245	SAMEA8914701	GCA_029699005.1	Contig	52	187	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-77_T.fna	Bacillus anthracis	2016-10-09	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914731	GCA_029698565.1	Contig	236	55	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-80_D.fna	Bacillus anthracis	2016-05-10	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914706	GCA_029698965.1	Contig	126	56	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-80_I1.fna	Bacillus anthracis	2016-05-10	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914707	GCA_029698925.1	Contig	233	55	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-80_S.fna	Bacillus anthracis	2016-05-10	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914709	GCA_029698945.1	Contig	41	472	-6.5247123	35.7878438	99.43	1.44	clinical	NCBI	
+AN16-83_B.fna	Bacillus anthracis	2016-08-20	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914746	GCA_029698305.1	Contig	38	111	-6.5247123	35.7878438	99.43	0.47	clinical	NCBI	
+AN16-83_bead1.fna	Bacillus anthracis	2016-08-20	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614572	GCA_029693005.1	Contig	68	40	-6.5247123	35.7878438	99.43	0.29	clinical	NCBI	
+AN16-83_bead2.fna	Bacillus anthracis	2016-08-20	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614571	GCA_029693545.1	Contig	75	37	-6.5247123	35.7878438	99.43	1.5	clinical	NCBI	
+AN16-83_D.fna	Bacillus anthracis	2016-08-20	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914747	GCA_029698285.1	Contig	81	46	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-83_T1.fna	Bacillus anthracis	2016-08-20	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914748	GCA_029698245.1	Contig	192	75	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-83_T2.fna	Bacillus anthracis	2016-08-20	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914749	GCA_029698265.1	Contig	143	64	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-86-1_T.fna	Bacillus anthracis	2016-09-29	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914732	GCA_029698545.1	Contig	71	71	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN16-88_D.fna	Bacillus anthracis	2016-05-09	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914710	GCA_029698905.1	Contig	106	47	-6.5247123	35.7878438	99.43	0.29	clinical	NCBI	
+AN17-01-A_B.fna	Bacillus anthracis	2017-04-30	Tanzania	Tanzania	Capra hircus	Carcass	A.Br.038	PRJNA514245	SAMEA8914711	GCA_029698885.1	Contig	100	92	-6.5247123	35.7878438	99.43	3.45	clinical	NCBI	
+AN17-01-A_S.fna	Bacillus anthracis	2017-04-30	Tanzania	Tanzania	Capra hircus	Carcass	A.Br.038	PRJNA514245	SAMEA8914712	GCA_029698845.1	Contig	176	61	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN17-13_S.fna	Bacillus anthracis	2017-05-20	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614573	GCA_029693565.1	Contig	74	40	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN17-14_S1.fna	Bacillus anthracis	2017-05-25	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614575	GCA_029693525.1	Contig	76	36	-3.00427	35.17303	99.43	0.86	clinical	NCBI	
+AN17-14_S2.fna	Bacillus anthracis	2017-05-25	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614576	GCA_029693505.1	Contig	60	39	-3.00427	35.17303	99.43	1.44	clinical	NCBI	
+AN17-14_S3.fna	Bacillus anthracis	2017-05-25	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614577	GCA_029693465.1	Contig	81	38	-3.00427	35.17303	99.43	0.86	clinical	NCBI	
+AN17-14_S4.fna	Bacillus anthracis	2017-05-25	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA918617	SAMN32614574	GCA_029636705.1	Complete	450	3	-3.00427	35.17303	99.43	0.29	clinical	NCBI	
+AN17-18_I.fna	Bacillus anthracis	2017-02-20	Tanzania	Tanzania	Equus asinus	Carcass	A.Br.038	PRJNA514245	SAMEA8914733	GCA_029698525.1	Contig	78	59	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN17-18_S.fna	Bacillus anthracis	2017-02-20	Tanzania	Tanzania	Equus asinus	Carcass	A.Br.038	PRJNA514245	SAMEA8914734	GCA_029698505.1	Contig	77	94	-6.5247123	35.7878438	99.43	0.29	clinical	NCBI	
+AN17-20_S.fna	Bacillus anthracis	2017-02-23	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMEA8914735	GCA_029698485.1	Contig	128	123	-6.5247123	35.7878438	99.43	3.38	clinical	NCBI	
+AN17-221_bead.fna	Bacillus anthracis	2017-08-26	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614578	GCA_029693085.1	Contig	84	35	-2.98502166	35.19609667	99.43	0.86	clinical	NCBI	
+AN17-338_1.fna	Bacillus anthracis	2017-12-18	Tanzania	Tanzania	Connochaetes taurinus	Carcass	A.Br.038	PRJNA514245	SAMN32614579	GCA_029693045.1	Contig	158	47	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN17-338_3.fna	Bacillus anthracis	2017-12-18	Tanzania	Tanzania	Connochaetes taurinus	Carcass	A.Br.038	PRJNA514245	SAMN32614581	GCA_029693605.1	Contig	190	45	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN17-338_4.fna	Bacillus anthracis	2017-12-18	Tanzania	Tanzania	Connochaetes taurinus	Carcass	A.Br.038	PRJNA514245	SAMN32614582	GCA_029693065.1	Contig	184	44	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN17-38_T1.fna	Bacillus anthracis	2017-02-25	Tanzania	Tanzania	Bos indicus	Carcass	A.Br.038	PRJNA514245	SAMEA8914740	GCA_029698405.1	Contig	51	63	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN17-384_1.fna	Bacillus anthracis	2017-11-20	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614584	GCA_029692985.1	Contig	171	42	-2.79795333	35.253975	99.43	0.29	clinical	NCBI	
+AN17-384_2.fna	Bacillus anthracis	2017-11-20	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA918617	SAMN32614585	GCA_029636405.1	Complete	550	3	-2.79795333	35.253975	99.43	0.86	clinical	NCBI	
+AN17-384_3.fna	Bacillus anthracis	2017-11-20	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614583	GCA_029693025.1	Contig	187	102	-2.79795333	35.253975	99.43	0.29	clinical	NCBI	
+AN17-398_1.fna	Bacillus anthracis	2017-11-25	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614586	GCA_029693665.1	Contig	176	69	-2.825195	35.19560667	99.43	0.86	clinical	NCBI	
+AN17-398_3.fna	Bacillus anthracis	2017-11-25	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614587	GCA_029693705.1	Contig	184	44	-2.825195	35.19560667	99.43	0.86	clinical	NCBI	
+AN17-418_S1.fna	Bacillus anthracis	2018-01-24	Tanzania	Tanzania	Connochaetes taurinus	Carcass	A.Br.038	PRJNA514245	SAMN32614596	GCA_029693265.1	Contig	62	49	-2.72965833	35.32091667	99.43	0.29	clinical	NCBI	
+AN17-418_S2.fna	Bacillus anthracis	2018-01-24	Tanzania	Tanzania	Connochaetes taurinus	Carcass	A.Br.038	PRJNA514245	SAMN32614597	GCA_029693245.1	Contig	95	43	-2.72965833	35.32091667	99.43	0.86	clinical	NCBI	
+AN17-418_S3.fna	Bacillus anthracis	2018-01-24	Tanzania	Tanzania	Connochaetes taurinus	Carcass	A.Br.038	PRJNA514245	SAMN32614598	GCA_029693225.1	Contig	90	43	-2.72965833	35.32091667	99.43	0.29	clinical	NCBI	
+AN17-70_S1.fna	Bacillus anthracis	2017-06-12	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614588	GCA_029693725.1	Contig	46	43	-6.5247123	35.7878438	99.43	0.67	clinical	NCBI	
+AN17-70_S3.fna	Bacillus anthracis	2017-06-12	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614589	GCA_029693145.1	Contig	76	37	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+AN18-410_S1.fna	Bacillus anthracis	2018-01-22	Tanzania	Tanzania	Connochaetes taurinus	Carcass	A.Br.038	PRJNA514245	SAMN32614590	GCA_029693745.1	Contig	92	40	-2.81103	35.32093333	99.43	0.86	clinical	NCBI	
+AN18-410_S2.fna	Bacillus anthracis	2018-01-22	Tanzania	Tanzania	Connochaetes taurinus	Carcass	A.Br.038	PRJNA514245	SAMN32614591	GCA_029694145.1	Contig	70	43	-2.81103	35.32093333	99.43	0.86	clinical	NCBI	
+AN18-415_1.fna	Bacillus anthracis	2018-01-23	Tanzania	Tanzania	Equus quagga	Carcass	A.Br.038	PRJNA514245	SAMN32614592	GCA_029693125.1	Contig	198	58	-2.83185333	35.32696667	99.43	0.86	clinical	NCBI	
+AN18-415_2.fna	Bacillus anthracis	2018-01-23	Tanzania	Tanzania	Equus quagga	Carcass	A.Br.038	PRJNA514245	SAMN32614593	GCA_029693105.1	Contig	163	77	-2.83185333	35.32696667	99.43	0.86	clinical	NCBI	
+AN18-416_1.fna	Bacillus anthracis	2018-01-24	Tanzania	Tanzania	Equus quagga	Carcass	A.Br.038	PRJNA514245	SAMN32614594	GCA_029693685.1	Contig	157	59	-2.752735	35.30826333	99.43	0.86	clinical	NCBI	
+AN18-416_2.fna	Bacillus anthracis	2018-01-24	Tanzania	Tanzania	Equus quagga	Carcass	A.Br.038	PRJNA918617	SAMN32614595	GCA_029636605.1	Complete	600	3	-2.752735	35.30826333	99.43	0.29	clinical	NCBI	
+AN18-437_1.fna	Bacillus anthracis	2018-02-21	Tanzania	Tanzania	Capra hircus	Carcass	A.Br.038	PRJNA514245	SAMN32614599	GCA_029693185.1	Contig	198	137	-2.91300333	35.21429333	99.43	0.86	clinical	NCBI	
+AN18-437_2.fna	Bacillus anthracis	2018-02-21	Tanzania	Tanzania	Capra hircus	Carcass	A.Br.038	PRJNA514245	SAMN32614600	GCA_029694205.1	Contig	163	44	-2.91300333	35.21429333	99.43	0.86	clinical	NCBI	
+AN18-437_3.fna	Bacillus anthracis	2018-02-21	Tanzania	Tanzania	Capra hircus	Carcass	A.Br.038	PRJNA514245	SAMN32614601	GCA_029693205.1	Contig	165	59	-2.91300333	35.21429333	99.43	0.86	clinical	NCBI	
+AN18-477_1.fna	Bacillus anthracis	2018-05-18	Tanzania	Tanzania	Equus quagga	Carcass	A.Br.038	PRJNA514245	SAMN32614602	GCA_029693165.1	Contig	211	41	-3.00698166	35.411345	99.43	0.86	clinical	NCBI	
+AN18-477_2.fna	Bacillus anthracis	2018-05-18	Tanzania	Tanzania	Equus quagga	Carcass	A.Br.038	PRJNA514245	SAMN32614603	GCA_029693765.1	Contig	201	48	-3.00698166	35.411345	99.43	0.86	clinical	NCBI	
+AN18-477_3.fna	Bacillus anthracis	2018-05-18	Tanzania	Tanzania	Equus quagga	Carcass	A.Br.038	PRJNA514245	SAMN32614604	GCA_029693805.1	Contig	162	64	-3.00698166	35.411345	99.43	0.86	clinical	NCBI	
+AN18-584_T1.fna	Bacillus anthracis	2018-06-09	Tanzania	Tanzania	Capra hircus	Carcass	A.Br.038	PRJNA514245	SAMN32614605	GCA_029694225.1	Contig	86	38	-3.01867	35.48889	99.43	0.86	clinical	NCBI	
+AN18-584_T2.fna	Bacillus anthracis	2018-06-09	Tanzania	Tanzania	Capra hircus	Carcass	A.Br.038	PRJNA514245	SAMN32614606	GCA_029693845.1	Contig	67	40	-3.01867	35.48889	99.43	0.86	clinical	NCBI	
+AN19-603_T1.fna	Bacillus anthracis	2019-12-16	Tanzania	Tanzania	Bos indicus	Carcass	A.Br.038	PRJNA514245	SAMN32614607	GCA_029702785.1	Contig	74	38	-3.29957166	35.17622833	99.43	0.86	clinical	NCBI	
+AN19-603_T2.fna	Bacillus anthracis	2019-12-16	Tanzania	Tanzania	Bos indicus	Carcass	A.Br.038	PRJNA514245	SAMN32614608	GCA_029693885.1	Contig	74	36	-3.29957166	35.17622833	99.43	0.86	clinical	NCBI	
+AN19-606_T1.fna	Bacillus anthracis	2019-12-21	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614609	GCA_029693905.1	Contig	67	41	-2.81355166	35.350525	99.43	0.86	clinical	NCBI	
+AN19-606_T2.fna	Bacillus anthracis	2019-12-21	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614610	GCA_029693865.1	Contig	76	37	-2.81355166	35.350525	99.43	0.86	clinical	NCBI	
+AN20-607_T1.fna	Bacillus anthracis	2020-01-13	Tanzania	Tanzania	Connochaetes taurinus	Carcass	A.Br.038	PRJNA514245	SAMN32614611	GCA_029694185.1	Contig	63	40	-3.35183333	35.07279666	99.43	1.44	clinical	NCBI	
+AN20-607_T2.fna	Bacillus anthracis	2020-01-13	Tanzania	Tanzania	Connochaetes taurinus	Carcass	A.Br.038	PRJNA514245	SAMN32614612	GCA_029693785.1	Contig	56	43	-3.35183333	35.07279666	99.43	0.86	clinical	NCBI	
+ANHC18-28_S.fna	Bacillus anthracis	2018-10-19	Tanzania	Tanzania	Homo sapiens	Skin	A.Br.038	PRJNA514245	SAMN32614613	GCA_029693285.1	Contig	77	37	-2.8861229	35.4809341	99.43	0.86	clinical	NCBI	
+ANSES_00-82.fna	Bacillus anthracis	2000-XX-XX	France	France	Bos sp.		B.Br.005	PRJNA242332	SAMN02699416	GCA_000697555.2				45.49489515	6.38466038137565	99.43	0.29	clinical	NCBI	
+ANSES_08-8_20.fna	Bacillus anthracis	2008-XX-XX	France	France	Bos sp.		A.Br.080	PRJNA242332	SAMN02693047	GCA_000697515.2	Scaffold	149	32	46.603354	1.8883335	99.43	0.29	clinical	NCBI	
+ANSES_101.fna	Bacillus anthracis	1999-XX-XX	France	France			A.Br.140_(L1)	PRJEB12289	SAMEA3720263	GCA_900013465.1	Contig	249	49	46.603354	1.8883335	99.43	0.29	unknown	NCBI	
+ANSES_118.fna	Bacillus anthracis	1996-XX-XX	France	France			A.Br.139	PRJEB12289	SAMEA3720264	GCA_900014335.1	Contig	250	47	46.603354	1.8883335	99.43	0.29	unknown	NCBI	
+ANSES_122.fna	Bacillus anthracis	1992-XX-XX	France	France			A.Br.UA2_(L6)	PRJEB12289	SAMEA3720265	GCA_900014345.1	Contig	298	49	46.603354	1.8883335	99.43	0.29	unknown	NCBI	
+ANSES_32.fna	Bacillus anthracis	2007-XX-XX	France	France			A.Br.UA4	PRJEB12289	SAMEA3720266	GCA_900014355.1	Contig	298	47	46.603354	1.8883335	99.43	0.29	unknown	NCBI	
+ANSES_86.fna	Bacillus anthracis	1982-XX-XX	France	France			A.Br.136	PRJEB12289	SAMEA3720267	GCA_900012555.1	Contig	295	63	46.603354	1.8883335	99.43	0.29	unknown	NCBI	
+ANSES_88.fna	Bacillus anthracis	1990-XX-XX	France	France			A.Br.UA3_(L5)	PRJEB12289	SAMEA3720268	GCA_900014365.1	Contig	314	49	46.603354	1.8883335	99.43	0.29	unknown	NCBI	
+ANSES_89.fna	Bacillus anthracis	1984-XX-XX	France	France			A.Br.140_(L1)	PRJEB12289	SAMEA3720269	GCA_900013475.1	Contig	275	50	46.603354	1.8883335	99.43	0.29	unknown	NCBI	
+ANSES_90.fna	Bacillus anthracis	1986-XX-XX	France	France			A.Br.134	PRJEB12289	SAMEA3720270	GCA_900014375.1	Contig	81	85	46.603354	1.8883335	99.43	0.29	unknown	NCBI	
+ANSES_92.fna	Bacillus anthracis	1989-XX-XX	France	France			A.Br.140_(L1)	PRJEB12289	SAMEA3720271	GCA_900013485.1	Contig	156	58	46.603354	1.8883335	99.43	0.29	unknown	NCBI	
+ANSES_94.fna	Bacillus anthracis	1991-XX-XX	France	France			A.Br.UA4	PRJEB12289	SAMEA3720272	GCA_900011745.1	Contig	323	48	46.603354	1.8883335	99.43	0.29	unknown	NCBI	
+ANSES_99-100.fna	Bacillus anthracis	1999-XX-XX	France	France	Bos sp.		A.Br.133_(Carbosap_L3)	PRJNA242332	SAMN02699415	GCA_000697535.2	Scaffold	144	32	46.603354	1.8883335	99.43	0.29	clinical	NCBI	
+ASC609.fna	Bacillus anthracis	2011-10-14	Kyrgyzstan	Jalal-Abad Province		Soil	A.Br.119	PRJNA514245	SAMN04884948	GCA_029695085.1	Contig	54	413	41.6987597	73.0398551	99.43	0.86	environment	NCBI	
+ASC610.fna	Bacillus anthracis	2011-10-14	Kyrgyzstan	Jalal-Abad Province		Soil	A.Br.119	PRJNA514245	SAMN04884949	GCA_029695065.1	Contig	71	218	41.6987597	73.0398551	99.43	0.86	environment	NCBI	
+ASC611.fna	Bacillus anthracis	2011-10-14	Kyrgyzstan	Jalal-Abad Province		Soil	A.Br.119	PRJNA514245	SAMN04884950	GCA_029694815.1	Contig	55	272	41.6987597	73.0398551	99.43	0.86	environment	NCBI	
+ASC612.fna	Bacillus anthracis	2011-10-14	Kyrgyzstan	Jalal-Abad Province		Soil	A.Br.119	PRJNA514245	SAMN04884951	GCA_029694685.1	Contig	49	347	41.6987597	73.0398551	99.43	0.67	environment	NCBI	
+ASC613.fna	Bacillus anthracis	2011-10-14	Kyrgyzstan	Jalal-Abad Province		Soil	A.Br.119	PRJNA514245	SAMN04884952	GCA_029694625.1	Contig	81	96	41.6987597	73.0398551	99.43	0.86	environment	NCBI	
+ASC614.fna	Bacillus anthracis	2011-10-14	Kyrgyzstan	Jalal-Abad Province		Soil	A.Br.119	PRJNA514245	SAMN04884953	GCA_029694835.1	Contig	71	146	41.6987597	73.0398551	99.43	0.86	environment	NCBI	
+ATCC-11966.fna	Bacillus anthracis	20XX-XX-XX	USA	Maryland		Decades Old Lyophilate Stock In Glass Vial	A.Br.060	PRJNA561583	SAMN12620932	GCA_009831565.1	Scaffold	748	33	39.5162401	-76.9382069	99.43	0.29	unknown	NCBI	
+ATCC-240.fna	Bacillus anthracis	20XX-XX-XX	USA	USA		Decades Old Lyophilate Stock In Glass Vial	A.Br.131	PRJNA561583	SAMN12620928	GCA_009831485.1	Scaffold	721	25	39.7837304	-100.445882	99.43	0.29	unknown	NCBI	
+ATCC-4728.fna	Bacillus anthracis	20XX-XX-XX	USA	USA		Decades Old Lyophilate Stock In Glass Vial	A.Br.131	PRJNA561583	SAMN12620930	GCA_009831675.1	Scaffold	330	22	39.7837304	-100.445882	99.43	0.29	unknown	NCBI	
+ATCC-6603.fna	Bacillus anthracis	20XX-XX-XX	USA	USA		Decades Old Lyophilate Stock In Glass Vial	A.Br.092	PRJNA561583	SAMN12620931	GCA_009831545.1	Scaffold	663	28	39.7837304	-100.445882	99.43	0.29	unknown	NCBI	
+ATCC-937.fna	Bacillus anthracis	20XX-XX-XX	USA	USA		Decades Old Lyophilate Stock In Glass Vial	A.Br.020	PRJNA561583	SAMN12620929	GCA_009831645.1	Scaffold	668	25	39.7837304	-100.445882	99.43	0.29	unknown	NCBI	
+Australia94.fna	Bacillus anthracis	20XX-XX-XX					A.Br.015	PRJNA10799	SAMN02435830	GCA_000167335.1	Scaffold		49			99.01	2.01	unknown	NCBI	
+B-a-1056_51.fna	Bacillus anthracis	1993-XX-XX	Russia	Russia			A.Br.110	PRJNA514245	SAMEA5366149	GCA_029695725.1	Contig	49	168	64.6863136	97.7453061	99.43	0.86	unknown	NCBI	
+B-a-5Ya.fna	Bacillus anthracis	2016-09-XX	Russia	Russia		Soil	B.Br.002_(KrugerB)	PRJNA514245	SAMEA5366148	GCA_029695705.1	Contig	33	120	68.564567	144.769827	98.85	0.29	environment	NCBI	
+B.fna	Bacillus anthracis	1935-XX-XX	Denmark	Denmark	Bos taurus	Clinical Sample	A.Br.081_(Ames)	PRJNA514245	SAMEA3735734	GCA_029695545.1	Contig	122	63	55.670249	10.3333283	99.43	0.86	clinical	NCBI	
+B42.fna	Bacillus anthracis	1990-XX-XX	South Africa	Kruger National Park	Syncerus caffer		A.Br.041/042	PRJNA514245	SAMN15402711	GCA_029695425.1	Contig	232	53	-23.9316231	31.5048950217197	99.43	0.86	clinical	NCBI	
+Ba-1802-12-Geo.fna	Bacillus anthracis	2012-XX-XX	Georgia_country	Georgia_country	Homo sapiens	Ulcer	A.Br.094	PRJNA336484	SAMN05511254	GCA_002025435.1	Contig	119	77	41.6809707	44.0287382	99.43	0.29	clinical	NCBI	
+Ba-1897-12-Geo.fna	Bacillus anthracis	2012-XX-XX	Georgia_country	Georgia_country		Beef	A.Br.094	PRJNA336484	SAMN05511396	GCA_002025375.1	Contig	132	89	41.6809707	44.0287382	99.43	0.29	unknown	NCBI	
+Ba-7673-89-Geo.fna	Bacillus anthracis	1989-XX-XX	Georgia_country	Georgia_country		Soil	A.Br.119	PRJNA336484	SAMN05511400	GCA_002025335.1	Contig	211	87	41.6809707	44.0287382	99.43	0.29	environment	NCBI	
+Ba-8776-92-Geo.fna	Bacillus anthracis	1992-XX-XX	Georgia_country	Georgia_country	Homo sapiens	Ulcer	A.Br.027	PRJNA336484	SAMN05511380	GCA_002025455.1	Contig	124	82	41.6809707	44.0287382	99.43	0.29	clinical	NCBI	
+Ba-8782-92-Geo.fna	Bacillus anthracis	1992-XX-XX	Georgia_country	Georgia_country	Ovis sp.	Skin	A.Br.119	PRJNA336484	SAMN05511402	GCA_002025395.1	Contig	98	83	41.6809707	44.0287382	99.43	0.29	clinical	NCBI	
+Ba-8784-92-Geo.fna	Bacillus anthracis	1992-XX-XX	Georgia_country	Georgia_country		Beef	A.Br.119	PRJNA336484	SAMN05511417	GCA_002025275.1	Contig	195	73	41.6809707	44.0287382	99.43	0.29	unknown	NCBI	
+Ba-8785-92-Geo.fna	Bacillus anthracis	1992-XX-XX	Georgia_country	Georgia_country	Homo sapiens	Ulcer	A.Br.119	PRJNA336484	SAMN05511418	GCA_002025265.1	Contig	154	71	41.6809707	44.0287382	99.43	0.29	clinical	NCBI	
+Ba-8884-94-Geo.fna	Bacillus anthracis	1994-XX-XX	Georgia_country	Georgia_country	Homo sapiens	Ulcer	A.Br.119	PRJNA336484	SAMN05511433	GCA_002019425.1	Contig	168	70	41.6809707	44.0287382	99.43	0.29	clinical	NCBI	
+Ba-9065-08-Geo.fna	Bacillus anthracis	2008-XX-XX	Georgia_country	Georgia_country	Homo sapiens	Ulcer	A.Br.028	PRJNA336484	SAMN05511398	GCA_002025345.1	Contig	209	71	41.6809707	44.0287382	99.43	0.29	clinical	NCBI	
+Ba-9108-08-Geo.fna	Bacillus anthracis	2008-XX-XX	Georgia_country	Georgia_country	Homo sapiens	Ulcer	A.Br.028	PRJNA336484	SAMN05511399	GCA_002025415.1	Contig	157	71	41.6809707	44.0287382	99.43	0.29	clinical	NCBI	
+BA-C10-CHER.fna	Bacillus anthracis	2010-XX-XX	Ukraine	Khotyn	Bos taurus		A.Br.110	PRJEB49261	SAMEA11477102	GCA_928858765.1	Contig	293	3	49.4871968	31.2718321	99.43	0.29	clinical	NCBI	
+BA-C12-SU.fna	Bacillus anthracis	2012-XX-XX	Ukraine	Smila	Bos taurus		A.Br.110	PRJEB49261	SAMEA11477104	GCA_928869835.1	Contig	377	3	49.4871968	31.2718321	99.43	0.29	clinical	NCBI	
+BA-D12-MEL.fna	Bacillus anthracis	2012-XX-XX	Ukraine	Melitopol	Canis lupus familiaris		A.Br.110	PRJEB49261	SAMEA11477103	GCA_928865485.1	Contig	356	3	49.4871968	31.2718321	99.43	0.29	clinical	NCBI	
+BA-S12-SU.fna	Bacillus anthracis	2012-XX-XX	Ukraine	Sumy		Soil	A.Br.110	PRJEB49261	SAMEA11477105	GCA_928858585.1	Contig	369	3	49.4871968	31.2718321	99.43	0.29	environment	NCBI	
+BA0002.fna	Bacillus anthracis	1993-XX-XX	Italy	Apulia	Ovis sp.		A.Br.146	PRJNA656733	SAMN15801197	GCA_017814285.1	Contig	57	53	40.9842539	16.6210027	99.43	0.29	clinical	NCBI	
+BA0004.fna	Bacillus anthracis	1993-XX-XX	Italy	Apulia	Capra sp.		A.Br.138	PRJNA656733	SAMN15801198	GCA_017814255.1	Scaffold	76	41	40.9842539	16.6210027	99.43	0.29	clinical	NCBI	
+BA0008.fna	Bacillus anthracis	1997-XX-XX	Italy	Sicily	Ovis sp.		A.Br.128	PRJNA656733	SAMN15801199	GCA_017814325.1	Contig	76	56	37.587794	14.155048	99.43	0.29	clinical	NCBI	
+BA0019.fna	Bacillus anthracis	1999-XX-XX	Italy	Basilicata	Bos taurus		A.Br.145	PRJNA656733	SAMN15801200	GCA_017814225.1	Scaffold	72	40	40.500571	16.081953	99.43	0.29	clinical	NCBI	
+BA0022.fna	Bacillus anthracis	1984-XX-XX	Italy	Apulia	Ovis sp.		A.Br.145	PRJNA656733	SAMN15801201	GCA_017814175.1	Scaffold	71	82	40.9842539	16.6210027	98.85	0.29	clinical	NCBI	
+BA0039.fna	Bacillus anthracis	1972-XX-XX	Italy	Apulia	Bos taurus		A.Br.142	PRJNA656733	SAMN15801202	GCA_017813805.1	Scaffold	64	44	40.9842539	16.6210027	99.43	0.29	clinical	NCBI	
+BA0040.fna	Bacillus anthracis	1984-XX-XX	Italy	Basilicata	Bos taurus		A.Br.144_(Pollino)	PRJNA656733	SAMN15801203	GCA_017813915.1	Scaffold	58	78	40.500571	16.081953	99.43	0.29	clinical	NCBI	
+BA0041.fna	Bacillus anthracis	1984-XX-XX	Italy	Apulia	Bos taurus		A.Br.144_(Pollino)	PRJNA656733	SAMN15801204	GCA_017813795.1	Scaffold	64	88	40.9842539	16.6210027	99.43	0.29	clinical	NCBI	
+BA0042.fna	Bacillus anthracis	1984-XX-XX	Italy	Apulia	Equus caballus		A.Br.138	PRJNA656733	SAMN15801205	GCA_017813825.1	Contig	60	109	40.9842539	16.6210027	99.43	0.29	clinical	NCBI	
+BA0045.fna	Bacillus anthracis	2000-XX-XX	Italy	Apulia	Ovis sp.		A.Br.140_(L1)	PRJNA656733	SAMN15801206	GCA_017813875.1	Scaffold	62	50	40.9842539	16.6210027	99.43	0.29	clinical	NCBI	
+BA0048.fna	Bacillus anthracis	2000-XX-XX	Italy	Sardinia	Bos taurus		A.Br.147	PRJNA656733	SAMN15801207	GCA_017814495.1	Contig	49	88	40.0912813	9.0305773	99.43	0.29	clinical	NCBI	
+BA0050.fna	Bacillus anthracis	1995-XX-XX	Italy	Veneto	Bos taurus		A.Br.034_(AncientA)	PRJNA656733	SAMN15801208	GCA_017814565.1	Scaffold	63	72	45.6476663	11.8665254	99.43	0.29	clinical	NCBI	
+BA0052.fna	Bacillus anthracis	1999-XX-XX	Italy	Lazio	Ovis sp.		A.Br.142	PRJNA656733	SAMN15801209	GCA_017814535.1	Scaffold	72	46	41.9808038	12.7662312	99.43	0.29	clinical	NCBI	
+BA0053.fna	Bacillus anthracis	1999-XX-XX	Italy	Tuscany	Bos taurus		A.Br.140_(L1)	PRJNA656733	SAMN15801210	GCA_017814555.1	Contig	69	290	43.4586541	11.1389204	99.43	0.29	clinical	NCBI	
+BA0058.fna	Bacillus anthracis	2001-XX-XX	Italy	Apulia	Ovis sp.		A.Br.142	PRJNA656733	SAMN15801211	GCA_017814475.1	Contig	65	69	40.9842539	16.6210027	99.43	0.29	clinical	NCBI	
+BA0065.fna	Bacillus anthracis	2002-XX-XX	Italy	Calabria	Capra sp.		A.Br.146	PRJNA656733	SAMN15801212	GCA_017813815.1	Contig	74	53	39.0565974	16.5249864	99.43	0.29	clinical	NCBI	
+BA0068.fna	Bacillus anthracis	2004-XX-XX	Italy	Campania	Bos taurus		A.Br.140_(L1)	PRJNA656733	SAMN15801213	GCA_017814515.1	Scaffold	86	34	40.860672	14.843984	99.43	0.29	clinical	NCBI	
+BA0131.fna	Bacillus anthracis	1917-XX-XX	Italy	Sardinia	Capra sp.		A.Br.139	PRJNA656733	SAMN15801214	GCA_017813925.1	Contig	85	30	40.0912813	9.0305773	99.33	0.29	clinical	NCBI	
+BA0132.fna	Bacillus anthracis	2005-XX-XX	Italy	Apulia	Capra sp.		A.Br.144_(Pollino)	PRJNA656733	SAMN15801215	GCA_017813895.1	Scaffold	98	30	40.9842539	16.6210027	99.43	0.57	clinical	NCBI	
+BA0137.fna	Bacillus anthracis	2006-XX-XX	Italy	Apulia	Ovis sp.		A.Br.140_(L1)	PRJNA656733	SAMN15801216	GCA_017813945.1	Contig	82	64	40.9842539	16.6210027	99.43	0.29	clinical	NCBI	
+BA0141.fna	Bacillus anthracis	2006-XX-XX	Italy	Apulia	Bos taurus		A.Br.140_(L1)	PRJNA656733	SAMN15801217	GCA_017814075.1	Scaffold	96	37	40.9842539	16.6210027	99.43	0.29	clinical	NCBI	
+BA0142.fna	Bacillus anthracis	2006-XX-XX	Italy	Apulia	Bos taurus		A.Br.138	PRJNA656733	SAMN15801218	GCA_017814035.1	Scaffold	83	43	40.9842539	16.6210027	99.43	0.29	clinical	NCBI	
+BA0152.fna	Bacillus anthracis	2009-XX-XX	Italy	Umbria	Bos taurus		A.Br.118_(STI)	PRJNA656733	SAMN15801219	GCA_017814095.1	Contig	80	26	42.965916	12.490236	99.43	0.29	clinical	NCBI	
+BA0180.fna	Bacillus anthracis	2009-XX-XX	Italy	Sicily	Bos taurus		A.Br.128	PRJNA656733	SAMN15801220	GCA_017814055.1	Contig	56	112	37.587794	14.155048	99.43	0.29	clinical	NCBI	
+BA0183.fna	Bacillus anthracis	1989-XX-XX	Italy	Lombardia	Bos taurus		A.Br.008_(TEA)	PRJNA656733	SAMN15801221	GCA_017814375.1	Contig	95	102	45.5703694	9.7732524	99.43	0.29	clinical	NCBI	
+BA0188.fna	Bacillus anthracis	2007-XX-XX	Italy	Veneto	Bos taurus		B.Br.004_(FrenchB)	PRJNA656733	SAMN15801222	GCA_017814355.1	Scaffold	79	130	45.6476663	11.8665254	99.43	0.29	clinical	NCBI	
+BA0288.fna	Bacillus anthracis	2011-XX-XX	Italy	Campania	Bos taurus		A.Br.144_(Pollino)	PRJNA656733	SAMN15801223	GCA_017814305.1	Contig	67	186	40.860672	14.843984	99.43	0.29	clinical	NCBI	
+BA0430.fna	Bacillus anthracis	2012-XX-XX	Italy	Basilicata	Homo sapiens		A.Br.145	PRJNA656733	SAMN15801224	GCA_017814215.1	Contig	62	111	40.500571	16.081953	99.43	0.29	clinical	NCBI	
+BA0438.fna	Bacillus anthracis	2012-XX-XX	Italy	Sicily	Bos taurus		A.Br.139	PRJNA656733	SAMN15801225	GCA_017814195.1	Scaffold	91	78	37.587794	14.155048	99.43	0.29	clinical	NCBI	
+BA0441.fna	Bacillus anthracis	2012-XX-XX	Italy	Tuscany	Bos taurus		A.Br.159	PRJNA656733	SAMN15801226	GCA_017814155.1	Contig	92	49	43.4586541	11.1389204	99.43	0.29	clinical	NCBI	
+BA0661.fna	Bacillus anthracis	2014-XX-XX	Italy	Basilicata	Bos taurus		A.Br.144_(Pollino)	PRJNA656733	SAMN15801227	GCA_017814115.1	Contig	83	70	40.500571	16.081953	99.43	0.29	clinical	NCBI	
+BA0662.fna	Bacillus anthracis	2014-XX-XX	Italy	Sicily	Bos taurus		A.Br.128	PRJNA656733	SAMN15801228	GCA_017814105.1	Contig	87	119	37.587794	14.155048	99.43	0.29	clinical	NCBI	
+BA0722.fna	Bacillus anthracis	2016-XX-XX	Italy	Sicily	Bos taurus		A.Br.128	PRJNA656733	SAMN15801230	GCA_017814405.1	Scaffold	75	150	37.587794	14.155048	99.35	0.29	clinical	NCBI	
+BA0725.fna	Bacillus anthracis	2017-XX-XX	Italy	Lazio	Bos taurus		A.Br.140_(L1)	PRJNA656733	SAMN15801231	GCA_018222265.1	Scaffold	92	44	41.9808038	12.7662312	99.43	0.29	clinical	NCBI	
+BA1015.fna	Bacillus anthracis	1939-XX-XX	USA	Maryland	Bos sp.		A.Br.065	PRJNA238204	SAMN03010426	GCA_000832665.1	Complete	319	3	39.5162401	-76.9382069	99.43	0.29	clinical	NCBI	
+BA1035.fna	Bacillus anthracis	20XX-XX-XX	South Africa	South Africa	Homo sapiens		B.Br.011_(KrugerB)	PRJNA238135	SAMN03010427	GCA_000832725.1	Complete	323	3	-28.8166236	24.991639	99.43	0.29	clinical	NCBI	
+BA105.fna	Bacillus anthracis	1982-XX-XX	Japan	Shizuoka			A.Br.015	PRJNA514245	SAMD00115659	GCA_029702565.1	Contig	58	55	34.9332488	138.0955398	99.43	0.29	unknown	NCBI	
+BA106_263.fna	Bacillus anthracis	20XX-XX-XX	USA	USA			C.Br.002	PRJNA1426891	SAMN55897428					39.7837304	-100.445882	99.43	0.29	unknown	this study	BA106
+BA107.fna	Bacillus anthracis	1982-XX-XX	Japan	Ginoza			A.Br.015	PRJNA514245	SAMD00115658	GCA_029702585.1	Contig	38	46	26.493888	127.971539	99.43	0.29	unknown	NCBI	
+BA108.fna	Bacillus anthracis	1987-XX-XX	Japan	Shiga			A.Br.078	PRJNA514245	SAMD00115657	GCA_029702545.1	Contig	49	51	35.247154	136.109385	99.43	0.29	unknown	NCBI	
+BA109.fna	Bacillus anthracis	1969-XX-XX	Japan	Mie			A.Br.098	PRJNA514245	SAMD00115656	GCA_029702715.1	Contig	31	57	34.7339685	136.5154489	99.43	0.29	unknown	NCBI	
+BA2968.fna	Bacillus anthracis	2008-XX-XX	Finland	Helsinki	Bos taurus		B.Br.002_(KrugerB)	PRJNA309927	SAMN08812794	GCA_003063925.1	Contig	72	31	60.1674881	24.9427473	99.43	0.29	clinical	NCBI	
+BA500.fna	Bacillus anthracis	20XX-XX-XX					A.Br.077	PRJNA399155	SAMN07523108	GCA_002525705.1	Contig	207	44			99.43	0.29	unknown	NCBI	
+BA663.fna	Bacillus anthracis	20XX-XX-XX					A.Br.077	PRJNA399155	SAMN07523111	GCA_002525685.1	Contig	233	60			99.43	0.29	unknown	NCBI	
+BA721.fna	Bacillus anthracis	20XX-XX-XX					A.Br.077	PRJNA399155	SAMN07523110	GCA_002525785.1	Contig	238	50			99.43	0.29	unknown	NCBI	
+BA749.fna	Bacillus anthracis	20XX-XX-XX					A.Br.077	PRJNA888965	SAMN31227700	GCA_026559735.1	Complete	325	2			99.43	0.29	unknown	NCBI	
+BA750.fna	Bacillus anthracis	20XX-XX-XX					A.Br.077	PRJNA888965	SAMN31227701	GCA_026689555.1	Scaffold	348	6			99.43	0.29	unknown	NCBI	
+BA751.fna	Bacillus anthracis	20XX-XX-XX					A.Br.077	PRJNA888965	SAMN31227702	GCA_026689535.1	Contig	263	3			99.43	0.29	unknown	NCBI	
+BA752.fna	Bacillus anthracis	20XX-XX-XX					A.Br.077	PRJNA888965	SAMN31227703	GCA_026689545.1	Scaffold	142	5			99.43	0.29	unknown	NCBI	
+BA754.fna	Bacillus anthracis	20XX-XX-XX					A.Br.077	PRJNA888965	SAMN31227705	GCA_026559755.1	Complete	291	2			99.35	0.29	unknown	NCBI	
+BA755.fna	Bacillus anthracis	20XX-XX-XX					A.Br.077	PRJNA888965	SAMN31227706	GCA_026559775.1	Complete	361	2			99.43	0.29	unknown	NCBI	
+BA781.fna	Bacillus anthracis	20XX-XX-XX					A.Br.077	PRJNA399155	SAMN07523109	GCA_002525695.1	Contig	239	50			99.43	0.29	unknown	NCBI	
+Baan_4229.fna	Bacillus anthracis	20XX-XX-XX					A.Br.131	PRJNA1426891	SAMN55897429					49.8175	15473	95.07	0.48	unknown	this study	czech republic
+Baan_A12.fna	Bacillus anthracis	1964-XX-XX	Czech_Republic	Czech_Republic	Homo sapiens		A.Br.072	PRJNA1426891	SAMN55897430					49.8175	15473	95.56	0.48	clinical	this study	czech republic
+Baan_A17.fna	Bacillus anthracis	1959-XX-XX	Czech_Republic	Stipa	Hominoidea 		A.Br.113	PRJNA1426891	SAMN55897431					49.8175	15473	98.48	0.29	clinical	this study	czech republic
+Baan_A2.fna	Bacillus anthracis	1954-XX-XX	Czech_Republic	Czech_Republic	Bos taurus		A.Br.140_(L1)	PRJNA1426891	SAMN55897432					49.8175	15473	96.11	0.07	clinical	this study	czech republic
+Baan_A21.fna	Bacillus anthracis	1963-XX-XX	Slovakia	Kosice			A.Br.129	PRJNA1426891	SAMN55897433					49.8175	15473	98.34	0.67	unknown	this study	czech republic
+Baan_A22.fna	Bacillus anthracis	1963-XX-XX	Slovakia	Kosice			A.Br.129	PRJNA1426891	SAMN55897434					49.8175	15473	98.26	0.29	unknown	this study	czech republic
+Baan_A25.fna	Bacillus anthracis	1963-XX-XX	Slovakia	Kosice			A.Br.129	PRJNA1426891	SAMN55897435					49.8175	15473	98.22	0.57	unknown	this study	czech republic
+Baan_A26.fna	Bacillus anthracis	1963-XX-XX	Slovakia	Kosice			A.Br.129	PRJNA1426891	SAMN55897436					49.8175	15473	97.03	0.74	unknown	this study	czech republic
+Baan_A27.fna	Bacillus anthracis	1963-XX-XX	Slovakia	Kosice			A.Br.110	PRJNA1426891	SAMN55897437					49.8175	15473	98.18	0.77	unknown	this study	czech republic
+Baan_A28.fna	Bacillus anthracis	1963-XX-XX	Slovakia	Kosice			A.Br.113	PRJNA1426891	SAMN55897438					49.8175	15473	97.01	0.96	unknown	this study	czech republic
+Baan_A31.fna	Bacillus anthracis	1963-XX-XX	Slovakia	Kosice			A.Br.113	PRJNA1426891	SAMN55897439					49.8175	15473	94.86	0.67	unknown	this study	czech republic
+Baan_A49.fna	Bacillus anthracis	1971-XX-XX				Dust	A.Br.110	PRJNA1426891	SAMN55897440					49.8175	15473	99.4	0.29	environment	this study	czech republic
+Baan_A5.fna	Bacillus anthracis	1957-XX-XX			Bos taurus		A.Br.110	PRJNA1426891	SAMN55897441					49.8175	15473	96.46	0.55	clinical	this study	czech republic
+Baan_A50.fna	Bacillus anthracis	1971-XX-XX				Dust	A.Br.110	PRJNA1426891	SAMN55897442					49.8175	15473	99.43	0.29	environment	this study	czech republic
+Baan_A54.fna	Bacillus anthracis	1973-XX-XX	Czech_Republic	Tyn nad Vltavou	Sus scrofa		A.Br.015	PRJNA1426891	SAMN55897443					49.8175	15473	99.15	0.48	clinical	this study	czech republic
+Baan_A57.fna	Bacillus anthracis	1959-XX-XX	Czech_Republic	Korycany	Bos taurus		A.Br.110	PRJNA1426891	SAMN55897444					49.8175	15473	99.43	0.29	clinical	this study	czech republic
+Baan_A6.fna	Bacillus anthracis	1958-XX-XX			Bos taurus		A.Br.113	PRJNA1426891	SAMN55897445					49.8175	15473	93.3	0.48	clinical	this study	czech republic
+Baan_A60.fna	Bacillus anthracis	1957-XX-XX	Czech_Republic	Strilky		Skin	A.Br.110	PRJNA1426891	SAMN55897446					49.8175	15473	99.43	0.29	clinical	this study	czech republic
+Baan_A61.fna	Bacillus anthracis	1961-XX-XX	USA	USA		Skin	A.Br.073	PRJNA1426891	SAMN55897447					49.8175	15473	99.43	0.29	clinical	this study	czech republic
+Baan_A62.fna	Bacillus anthracis	1961-XX-XX	USA	USA		Skin	A.Br.073	PRJNA1426891	SAMN55897448					49.8175	15473	99.43	0.29	clinical	this study	czech republic
+Baan_A63.fna	Bacillus anthracis	1961-XX-XX	USA	USA		Skin	A.Br.073	PRJNA1426891	SAMN55897449					49.8175	15473	99.43	0.29	clinical	this study	czech republic
+Baan_A77.fna	Bacillus anthracis	1957-XX-XX	Turkey	Turkey	Capra sp.	Skin	A.Br.028	PRJNA1426891	SAMN55897450							97.86	0.77	clinical	this study	czech republic
+Baan_A78.fna	Bacillus anthracis	1957-XX-XX	Turkey	Turkey	Capra sp.	Skin	A.Br.026	PRJNA1426891	SAMN55897451							97.7	0.65	clinical	this study	czech republic
+Baan_A79.fna	Bacillus anthracis	1960-XX-XX	Nigeria	Nigeria	Capra sp.	Skin	A.Br.073	PRJNA1426891	SAMN55897452							98.16	0.77	clinical	this study	czech republic
+Baan_A80.fna	Bacillus anthracis	1960-XX-XX	Nigeria	Nigeria	Capra sp.	Skin	A.Br.073	PRJNA1426891	SAMN55897453							98.35	0.77	clinical	this study	czech republic
+Baan_A88.fna	Bacillus anthracis	1958-XX-XX	Indonesia	Indonesia		Skin	A.Br.129	PRJNA1426891	SAMN55897454					49.8175	15473	99.43	0.29	clinical	this study	czech republic
+Baan_A89.fna	Bacillus anthracis	1957-XX-XX	Mongolia	Mongolia		Skin	A.Br.073	PRJNA1426891	SAMN55897455					49.8175	15473	99.43	0.29	clinical	this study	czech republic
+Baan_A91.fna	Bacillus anthracis	1960-XX-XX	USA	USA	Bos taurus	Skin	A.Br.065	PRJNA1426891	SAMN55897456					49.8175	15473	99.43	0.29	clinical	this study	czech republic
+Baan_A92.fna	Bacillus anthracis	1960-XX-XX	USA	USA	Bos taurus	Skin	A.Br.073	PRJNA1426891	SAMN55897457					49.8175	15473	99.43	0.29	clinical	this study	czech republic
+Baan_A93.fna	Bacillus anthracis	1960-XX-XX	USA	USA	Bos taurus	Skin	A.Br.065	PRJNA1426891	SAMN55897458					49.8175	15473	99.41	0.29	clinical	this study	czech republic
+Baan_A98.fna	Bacillus anthracis	1959-XX-XX	Czech_Republic	Hustopece	Bos taurus		A.Br.129	PRJNA1426891	SAMN55897459					49.8175	15473	99.43	0.29	clinical	this study	czech republic
+Baan_A99.fna	Bacillus anthracis	1960-XX-XX	USA	USA	Bos taurus		A.Br.065	PRJNA1426891	SAMN55897460					49.8175	15473	99.21	0.29	clinical	this study	czech republic
+BANT014-SEQ-1-ASM-1.fna	Bacillus anthracis	1978-01-19	Pakistan	Pakistan	Ovis sp.		A.Br.163	PRJNA237808	SAMN03010430	GCA_000832425.1	Complete	322	2	30.3308401	71.247499	99.43	0.31	clinical	NCBI	
+BANT015-SEQ-1-ASM-1.fna	Bacillus anthracis	1996-02-01	Indonesia	West Java	Capra sp.		A.Br.081_(Ames)	PRJNA257008	SAMN03862112	GCA_001276995.1	Contig	445936	28	-6.8891904	107.6404716	99.43	0.29	clinical	NCBI	
+BAP350.fna	Bacillus anthracis	20XX-XX-XX					A.Br.077	PRJNA888965	SAMN31227699	GCA_026689595.1	Scaffold	68	23			99.43	0.29	unknown	NCBI	
+BAP417.fna	Bacillus anthracis	20XX-XX-XX					A.Br.077	PRJNA399155	SAMN07523106	GCA_002525765.1	Contig	193	60			99.43	0.29	unknown	NCBI	
+BAP482.fna	Bacillus anthracis	20XX-XX-XX					A.Br.077	PRJNA399155	SAMN07523107	GCA_002525775.1	Contig	213	53			99.43	0.29	unknown	NCBI	
+BF1.fna	Bacillus anthracis	2009-07-XX	Germany	Bad_Feilnbach	Bos taurus	Carcass	B.Br.004_(FrenchB)	PRJNA695105	SAMN02469407	GCA_022221085.1	Complete	122	3	51.1638175	10.4478313	99.43	0.29	clinical	NCBI	
+BF5.fna	Bacillus anthracis	2021-09-XX	Germany	Bad_Feilnbach	Bos taurus	Carcass	B.Br.004_(FrenchB)	PRJNA171093	SAMN22566405	GCA_021390035.1	Complete	200	3	47.77	12.01	99.43	0.29	clinical	NCBI	
+BFV.fna	Bacillus anthracis	20XX-XX-XX	Jamaica	Jamaica		Charcoal	A.Br.078	PRJNA243518	SAMN02736972	GCA_000742875.1	Chromosome	848	3	18.1850507	-77.3947693	99.4	0.29	environment	NCBI	
+BHY1401.fna	Bacillus anthracis	2021-06-12	China	Hongyuan	Homo sapiens	Skin Eschar	A.Br.081_(Ames)	PRJNA975313	SAMN35323095	GCA_030166675.1	Complete	456	3	32.78	102.54	99.43	0.29	clinical	NCBI	
+BUL-12.fna	Bacillus anthracis	1960-XX-XX	Bulgaria	Jambol		Soil	A.Br.130	PRJNA695105	SAMN13164716	GCA_022221025.1	Complete	91	3	42.483935	26.5105553	99.43	0.29	clinical	NCBI	
+BUL-14.fna	Bacillus anthracis	1960-XX-XX	Bulgaria	Jambol		Soil	A.Br.130	PRJNA695105	SAMN13164717	GCA_022220905.1	Complete	70	1	42.483935	26.5105553	99.43	0.29	clinical	NCBI	
+BUL-16.fna	Bacillus anthracis	1960-XX-XX	Bulgaria	Jambol		Soil	A.Br.130	PRJNA695105	SAMN13164718	GCA_022220625.1	Complete	68	3	42.483935	26.5105553	99.43	0.29	clinical	NCBI	
+BUL-19.fna	Bacillus anthracis	1960-XX-XX	Bulgaria	Tarnovo		Soil	A.Br.130	PRJNA695105	SAMN13164720	GCA_022220585.1	Complete	53	3	43.0820584	25.6321312	99.43	0.29	clinical	NCBI	
+BUL-2.fna	Bacillus anthracis	1960-XX-XX	Bulgaria	Bulgaria		Soil	A.Br.130	PRJNA1426891	SAMN55897461					42.7249925	25.4833039	99.43	0.29	clinical	this study	bulgaria
+BUL-3.fna	Bacillus anthracis	1961-XX-XX	Bulgaria	Bulgaria		Soil	A.Br.130	PRJNA1426891	SAMN55897462					43.7249925	26.4833039	99.43	0.29	clinical	this study	bulgaria
+BUL-31.fna	Bacillus anthracis	1960-XX-XX	Bulgaria	Silistra		Soil	A.Br.130	PRJNA695105	SAMN13164723	GCA_022220605.1	Complete	66	3	44.118308	27.2600031	99.43	0.29	clinical	NCBI	
+BUL-32.fna	Bacillus anthracis	1960-XX-XX	Bulgaria	Silistra		Soil	A.Br.130	PRJNA695105	SAMN13164724	GCA_022221005.1	Complete	55	2	44.118308	27.2600031	99.43	0.29	clinical	NCBI	
+BUL-33.fna	Bacillus anthracis	1962-XX-XX	Bulgaria	Bulgaria		Soil	A.Br.130	PRJNA1426891	SAMN55897463					44.7249925	27.4833039	99.43	0.29	clinical	this study	bulgaria
+BUL-34.fna	Bacillus anthracis	1963-XX-XX	Bulgaria	Bulgaria		Soil	A.Br.130	PRJNA1426891	SAMN55897464					45.7249925	28.4833039	99.43	0.29	clinical	this study	bulgaria
+BUL-35.fna	Bacillus anthracis	1964-XX-XX	Bulgaria	Bulgaria		Soil	A.Br.130	PRJNA1426891	SAMN55897465					46.7249925	29.4833039	99.43	0.29	clinical	this study	bulgaria
+BUL-36.fna	Bacillus anthracis	1965-XX-XX	Bulgaria	Bulgaria		Soil	A.Br.130	PRJNA1426891	SAMN55897466					47.7249925	30.4833039	99.43	0.29	clinical	this study	bulgaria
+Bundesheer.fna	Bacillus anthracis	2001-XX-XX	Austria	Vienna		Mailbag	A.Br.001	PRJNA1426891	SAMN44019342					48.2083537	16.3725042	99.43	0.29	unknown	this study	our mailbag
+C.fna	Bacillus anthracis	1960-XX-XX	Denmark	Denmark	Bos taurus	Clinical Sample	A.Br.076	PRJNA514245	SAMEA3736006	GCA_029695585.1	Contig	129	63	55.670249	10.3333283	99.43	0.86	clinical	NCBI	
+Canadian-Bison.fna	Bacillus anthracis	20XX-XX-XX	Canada	Canada	Bos bison		A.Br.009_018_(WNA)	PRJNA238044	SAMN03202901	GCA_000833125.1	Complete	434	3	61.0666922	-107.991707	99.43	0.29	clinical	NCBI	
+Carbosap_2012.fna	Bacillus anthracis	20XX-XX-XX	Italy	Rome		Vaccine Strain	A.Br.134	PRJNA177917	SAMN02470598	GCA_000310045.1	Contig	75	21	41.8933203	12.4829321	99.43	0.29	unknown	NCBI	
+Carbosap_2014.fna	Bacillus anthracis	20XX-XX-XX					A.Br.134	PRJNA231912	SAMN02910129	GCA_000732465.1	Scaffold	30	94			99.43	0.29	unknown	NCBI	
+Cattle_Vel_2013.fna	Bacillus anthracis	2013-XX-XX	India	Tamil Nadu	Bos indicus	Carcass	A.Br.015	PRJNA736214	SAMN19613164	GCA_021014295.1	Scaffold	350	145	12.9165	79.1325	99.43	0.44	clinical	NCBI	
+CDC-684.fna	Bacillus anthracis	20XX-XX-XX					A.Br.055	PRJNA31329	SAMN02603931	GCA_000021445.1	Complete		3			99.43	0.29	unknown	NCBI	
+ChBA30D.fna	Bacillus anthracis	1965-XX-XX	China	Heibei	Homo sapiens		A.Br.081_(Ames)	PRJNA801920	SAMN25419190	GCA_022014795.1	Complete	470	2	38.04	114.5	99.43	0.29	clinical	NCBI	
+Chemnitz1878.fna	Bacillus anthracis	1878-XX-XX	Germany	Chemnitz	Bos taurus		A.Br.081_(Ames)	PRJNA1426891						50.833332	12.916667			clinical		german genomes
+CHN-NX-BA-2019-01.fna	Bacillus anthracis	2019-08-20	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074355	SAMN39856588	GCA_036621115.1	Scaffold		29			99.43	0.29	clinical	NCBI	
+CHN-NX-BA-2019-02.fna	Bacillus anthracis	2019-08-20	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074356	SAMN39856634	GCA_036621095.1	Scaffold		42			99.43	0.29	clinical	NCBI	
+CHN-NX-BA-2020-01.fna	Bacillus anthracis	2020-06-19	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074342	SAMN39856504	GCA_036621045.1	Scaffold		25			99.43	0.29	clinical	NCBI	
+CHN-NX-BA-2020-02.fna	Bacillus anthracis	2020-09-20	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074350	SAMN39856508	GCA_036621035.1	Scaffold		27			99.43	0.29	clinical	NCBI	
+CHN-NX-BA-2021-01.fna	Bacillus anthracis	2021-07-12	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074324	SAMN39856322	GCA_036620945.1	Scaffold		24			99.43	0.29	clinical	NCBI	
+CHN-NX-BA-2021-02.fna	Bacillus anthracis	2021-08-13	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074326	SAMN39856337	GCA_036620935.1	Scaffold		24			99.43	0.29	clinical	NCBI	
+CHN-NX-BA-2021-03.fna	Bacillus anthracis	2021-08-14	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074328	SAMN39856413	GCA_036621015.1	Scaffold		29			99.43	0.29	clinical	NCBI	
+CHN-NX-BA-2021-04.fna	Bacillus anthracis	2021-08-15	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074335	SAMN39856418	GCA_036620995.1	Scaffold		28			99.43	0.29	clinical	NCBI	
+CHN-NX-BA-2021-05.fna	Bacillus anthracis	2021-08-17	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074338	SAMN39856471	GCA_036621055.1	Scaffold		31			99.43	0.29	clinical	NCBI	
+CHN-NX-BA-2022-01.fna	Bacillus anthracis	2022-05-11	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074303	SAMN39855707	GCA_036620845.1	Scaffold		91			99.43	0.29	clinical	NCBI	
+CHN-NX-BA-2022-02.fna	Bacillus anthracis	2022-08-13	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074309	SAMN39855711	GCA_036620875.1	Scaffold		29			99.43	0.29	clinical	NCBI	
+CHN-NX-BA-2022-03.fna	Bacillus anthracis	2022-08-13	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074312	SAMN39855928	GCA_036620915.1	Scaffold		148			99.43	0.29	clinical	NCBI	
+CHN-NX-BA-2022-04.fna	Bacillus anthracis	2022-08-30	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074314	SAMN39856170	GCA_036620895.1	Scaffold		150			99.43	0.43	clinical	NCBI	
+CHN-NX-BA-2022-05.fna	Bacillus anthracis	2022-09-08	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074319	SAMN39856215	GCA_036620955.1	Scaffold		51			99.43	0.29	clinical	NCBI	
+CHN-NX-BA-2023-04.fna	Bacillus anthracis	2023-08-11	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074138	SAMN39853666	GCA_036575505.1	Scaffold		80			99.43	0.29	clinical	NCBI	
+CHN-NX-BA-2023-05.fna	Bacillus anthracis	2023-08-13	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074140	SAMN39853667	GCA_036575555.1	Scaffold		107			99.43	0.29	clinical	NCBI	
+CHN-NX-BA-2023-06.fna	Bacillus anthracis	2023-08-22	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074141	SAMN39853668	GCA_036575385.1	Scaffold		165			99.43	0.29	clinical	NCBI	
+CHN-NX-BA-2023-07.fna	Bacillus anthracis	2023-08-22	China	China	Homo sapiens		A.Br.085	PRJNA1074287	SAMN39855498	GCA_036620835.1	Scaffold		222			99.43	0.29	clinical	NCBI	
+CHN-NX-BA-2023-08.fna	Bacillus anthracis	2023-08-24	China	China	Homo sapiens		A.Br.081_(Ames)	PRJNA1074289	SAMN39855509	GCA_036620795.1	Scaffold		136			99.43	0.43	clinical	NCBI	
+CHN-NX-BA-2023-09.fna	Bacillus anthracis	2023-08-24	China	China	Homo sapiens		B.Br.006	PRJNA1074299	SAMN39855656	GCA_036620805.1	Scaffold		197			99.43	0.4	clinical	NCBI	
+CNEVA-9066.fna	Bacillus anthracis	20XX-XX-XX					A.Br.051	PRJNA10796	SAMN02435891	GCA_000167235.1	Scaffold		30			99.4	0	unknown	NCBI	
+COVASU.fna	Bacillus anthracis	2017-03-XX	India	Maharashtra	Ovis aries	Blood	A.Br.114	PRJNA407276	SAMN07644999	GCA_003045745.2	Scaffold	450	56	18.9068356	75.6741579	99.39	0.29	clinical	NCBI	
+Cvac02.fna	Bacillus anthracis	2012-08-XX	China	Liaoning		Veterinarian Vaccine	A.Br.114	PRJNA252785	SAMN02898388	GCA_000747335.1	Complete	101.9	1	41.8	123.38	98.63	0.29	unknown	NCBI	
+CVCC40202.fna	Bacillus anthracis	1950-11-29	China	China			A.Br.077	PRJNA832093	SAMN27776999	GCA_024396775.1	Complete	193.8	3	35.000074	104.999927	99.43	0.29	unknown	NCBI	
+CVCC40205.fna	Bacillus anthracis	1954-11-20	India	India			A.Br.039	PRJNA832097	SAMN27777120	GCA_024396795.1	Complete	164	2	22.3511148	78.6677428	99.43	0.29	unknown	NCBI	
+CZC5.fna	Bacillus anthracis	2011-XX-XX	Zambia	Zambia	Hippopotamus amphibius		A.Br.165	PRJDB1571	SAMD00002586	GCA_000534935.2	Complete	25	3	-14.5189121	27.5589884	99.43	0.29	clinical	NCBI	
+D.fna	Bacillus anthracis	1973-XX-XX	Denmark	Denmark	Bos taurus	Clinical Sample	A.Br.134	PRJNA514245	SAMEA3735735	GCA_029695565.1	Contig	146	63	55.670249	10.3333283	99.43	0.86	clinical	NCBI	
+DB.fna	Bacillus anthracis	2011-XX-XX					A.Br.015	PRJNA514245	SAMD00135673	GCA_029695885.1	Contig	60	44			99.43	0.29	unknown	NCBI	
+DK5.fna	Bacillus anthracis	1974-XX-XX	Denmark	Denmark	Bos taurus	Clinical Sample	A.Br.077	PRJNA514245	SAMEA3735958	GCA_029695625.1	Contig	130	60	55.670249	10.3333283	99.2	6.61	clinical	NCBI	
+DP-B-5747.fna	Bacillus anthracis	20XX-XX-XX					A.Br.041/042	PRJNA888965	SAMN31227707	GCA_026559795.1	Complete	247	2			99.43	2.59	unknown	NCBI	
+DS201579.fna	Bacillus anthracis	2015-03-05	South Africa	Pafuri	Connochaetes taurinus		A.Br.044_(DK_CMR)	PRJNA316704	SAMN04589793	GCA_002233635.1	Scaffold	140	31	-22.45039875	31.3101484860243	99.43	0.29	clinical	NCBI	
+E.fna	Bacillus anthracis	1937-XX-XX	Denmark	Denmark	Bos taurus	Clinical Sample	A.Br.038	PRJNA514245	SAMEA3735739	GCA_029695485.1	Contig	130	62	55.670249	10.3333283	99.43	1.05	clinical	NCBI	
+FL16-03_I.fna	Bacillus anthracis	2016-11-24	Tanzania	Tanzania		Carcass	A.Br.038	PRJNA514245	SAMEA8914742	GCA_029698345.1	Contig	49	115	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+FL16-06_I.fna	Bacillus anthracis	2016-11-25	Tanzania	Tanzania		Carcass	A.Br.038	PRJNA514245	SAMEA8914743	GCA_029698385.1	Contig	94	65	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+FL16-11-MKK_I.fna	Bacillus anthracis	2016-11-XX	Tanzania	Tanzania		Carcass	A.Br.149	PRJNA514245	SAMEA8914744	GCA_029698325.1	Contig	62	65	-6.5247123	35.7878438	99.43	1.44	clinical	NCBI	
+Gmb1.fna	Bacillus anthracis	20XX-XX-XX					A.Br.114	PRJEB1518	SAMEA2272630	GCA_000359465.1	Contig		39			99.28	0.29	unknown	NCBI	
+Gumma1.fna	Bacillus anthracis	20XX-XX-XX	Japan	Gumma			A.Br.048	PRJNA514245	SAMD00115653	GCA_029702505.1	Contig	43	46	-30.7213889	152965	99.43	0.29	unknown	NCBI	
+H9401.fna	Bacillus anthracis	20XX-XX-XX	South Korea	South Korea	Homo sapiens	Skin	A.Br.089	PRJNA49361	SAMN02603474	GCA_000258885.1	Complete		3	36.638392	127.6961188	99.43	0	clinical	NCBI	
+Han.fna	Bacillus anthracis	2012-08-XX	China	Liaoning	Bos taurus		A.Br.169	PRJNA252784	SAMN02898318	GCA_000747375.1	Complete	26.2	1	41.8	123.38	99.39	0.29	clinical	NCBI	
+HeroinBa4599.fna	Bacillus anthracis	2009-12-16	United Kingdom	Glasgow	Homo sapiens	Heroin User	A.Br.134	PRJNA72893	SAMN02470707	GCA_000278385.1	Contig	50	46	55.861155	-4.2501687	99.43	0.38	clinical	NCBI	
+HG.fna	Bacillus anthracis	2015-XX-XX					A.Br.067	PRJNA514245	SAMD00135674	GCA_029695845.1	Contig	112	45			99.4	0.86	unknown	NCBI	
+HKI4363-88.fna	Bacillus anthracis	1988-XX-XX	Finland	Ostrobothnia	Bos taurus		B.Br.002_(KrugerB)	PRJNA309927	SAMN08812793	GCA_003063945.1	Scaffold	52	31	62.9651857	21.2099367431475	99.43	0.29	clinical	NCBI	
+HYU01.fna	Bacillus anthracis	2009-XX-XX	South Korea	Changnyeong		Soil	A.Br.015	PRJNA231762	SAMN02874036	GCA_000725325.1	Complete	200	3	35.5443876	128.4921938	99.43	0.29	environment	NCBI	
+IOVBA.fna	Bacillus anthracis	2013-09-06	India	India		Soil	A.Br.101	PRJNA495856	SAMN10232964	GCA_022059355.1	Contig	224	35	26.5058	78.0549	99.35	0.29	environment	NCBI	
+JB10.fna	Bacillus anthracis	2009-XX-XX	South Africa	Northern Cape Province	Equus burchellii quagga	Jaw Bone	A.Br.101	PRJNA510736	SAMN10614344	GCA_009669055.1	Scaffold	60	1379	-29.573402	21.2051361	97.8	1.94	clinical	NCBI	
+JB25.fna	Bacillus anthracis	2009-XX-XX	South Africa	Northern Cape Province	Tragelaphus strepsiceros	Jaw Bone	A.Br.050	PRJNA510736	SAMN10614345	GCA_009669025.1	Scaffold	80	142	-29.573402	21.2051361	99.43	0.29	clinical	NCBI	
+JF3788.fna	Bacillus anthracis	1981-XX-XX	Switzerland	Switzerland	Homo sapiens	Skin	A.Br.146	PRJNA514245	SAMEA3889839	GCA_029695805.1	Contig	70	409	46.7985624	8.2319736	98.85	0.86	clinical	NCBI	
+K0021.fna	Bacillus anthracis	1995-12-11	Italy	Italy	Ovis sp.		A.Br.050	PRJNA257008	SAMN03757457	GCA_001273045.1	Contig	417017	31	42.6384261	12.674297	99.43	0.29	clinical	NCBI	
+K1129.fna	Bacillus anthracis	1995-10-25	Pakistan	Pakistan	Capra sp.	Hair	A.Br.100	PRJNA257008	SAMN03757460	GCA_001273105.1	Contig	535189	36	30.3308401	71.247499	98.85	0.29	clinical	NCBI	
+K1285.fna	Bacillus anthracis	1996-01-25	Namibia	Namibia	Equus zebra		A.Br.165	PRJNA257008	SAMN03757454	GCA_001272985.1	Contig	275141	36	-23.2335499	17.3231107	99.43	0.29	clinical	NCBI	
+K169-66.fna	Bacillus anthracis	1966-XX-XX	Denmark	Denmark	Bos taurus	Clinical Sample	A.Br.120	PRJNA514245	SAMEA3735924	GCA_029695785.1	Contig	139	63	55.670249	10.3333283	99.43	0.86	clinical	NCBI	
+K2129.fna	Bacillus anthracis	1997-10-01	China	Changping			A.Br.097	PRJNA257008	SAMN03757455	GCA_001273005.1	Contig	310573	28	40.2196456	116.2250912	99.43	0.29	unknown	NCBI	
+K2883.fna	Bacillus anthracis	1997-03-05	India	India	Homo sapiens		A.Br.045	PRJNA257008	SAMN03757456	GCA_001273025.1	Contig	301222	32	22.3511148	78.6677428	99.43	0.29	clinical	NCBI	
+K3.fna	Bacillus anthracis	20XX-XX-XX	South Africa	South Africa	Homo sapiens		A.Br.001	PRJNA238080	SAMN03010428	GCA_000832465.1	Complete	450	3	-28.8166236	24.991639	99.43	0.29	clinical	NCBI	
+K35-88.fna	Bacillus anthracis	1988-XX-XX	Denmark	Denmark	Bos taurus	Clinical Sample	A.Br.113	PRJNA514245	SAMEA3735929	GCA_029695645.1	Contig	136	66	55.670249	10.3333283	99.43	0.29	clinical	NCBI	
+K3974.fna	Bacillus anthracis	1995-12-11	Slovakia	Slovakia			A.Br.015	PRJNA257008	SAMN03757459	GCA_001273085.1	Contig	351586	41	48.7411522	19.4528646	99.43	0.29	unknown	NCBI	
+K4834.fna	Bacillus anthracis	1997-10-01	Australia	Australia	Bos sp.		A.Br.001	PRJNA257008	SAMN03757458	GCA_001273065.1	Contig	333831	69	-24.7761086	134755	99.43	0.29	clinical	NCBI	
+K670-88.fna	Bacillus anthracis	1988-XX-XX	Denmark	Denmark	Bos taurus	Clinical Sample	A.Br.072	PRJNA514245	SAMEA3735948	GCA_029695025.1	Contig	132	66	55.670249	10.3333283	99.43	0.86	clinical	NCBI	
+K8215.fna	Bacillus anthracis	1996-03-11	Argentina	Buenos Aires	Bos sp.		A.Br.035_036	PRJNA257008	SAMN03757461	GCA_001273125.1	Contig	311854	42	-34.6075682	-58.4370894	99.43	0.29	clinical	NCBI	
+K836.fna	Bacillus anthracis	1968-XX-XX	Denmark	Denmark	Bos taurus	Clinical Sample	A.Br.078	PRJNA514245	SAMEA3735959	GCA_029695665.1	Contig	148	60	55.670249	10.3333283	99.43	0.86	clinical	NCBI	
+K929.fna	Bacillus anthracis	1966-XX-XX	Denmark	Denmark	Bos taurus	Clinical Sample	A.Br.026	PRJNA514245	SAMEA3736003	GCA_029695685.1	Contig	131	64	55.670249	10.3333283	99.43	0.86	clinical	NCBI	
+Kafkas-100.fna	Bacillus anthracis	2009-XX-XX	Turkey	Digor		Soil	A.Br.026	PRJNA421249	SAMN08366820	GCA_002896575.1	Contig	58	79	40.3765095	43.4119469	99.43	0.29	environment	NCBI	
+Kafkas-149.fna	Bacillus anthracis	2012-XX-XX	Turkey	Selim		Soil	A.Br.026	PRJNA421249	SAMN08366821	GCA_002896585.1	Contig	88	31	40.9284552	30.2375472	99.43	0.29	environment	NCBI	
+Kafkas-215.fna	Bacillus anthracis	2014-XX-XX	Turkey	Selim		Soil	A.Br.094	PRJNA421249	SAMN08366822	GCA_002896655.1	Contig	64	28	40.9284552	30.2375472	99.43	0.29	environment	NCBI	
+Kafkas-60.fna	Bacillus anthracis	2006-XX-XX	Turkey	Arpacay	Ovis sp.		A.Br.094	PRJNA421249	SAMN08366816	GCA_002896695.1	Contig	48	83	40.88741435	43.4066652000644	99.43	0.34	clinical	NCBI	
+Kafkas-68.fna	Bacillus anthracis	2007-XX-XX	Turkey	Kars	Bos taurus		A.Br.028	PRJNA421249	SAMN08366817	GCA_002896665.1	Contig	68	104	40.4558435	42.9979531	99.43	0.29	clinical	NCBI	
+Kafkas-78.fna	Bacillus anthracis	2008-XX-XX	Turkey	Kars	Bos taurus		A.Br.028	PRJNA421249	SAMN08366818	GCA_002896595.1	Contig	67	34	40.4558435	42.9979531	99.43	0.29	clinical	NCBI	
+Kafkas-86.fna	Bacillus anthracis	2006-XX-XX	Turkey	Kars	Bos taurus		A.Br.015	PRJNA421249	SAMN08366819	GCA_002896635.1	Contig	74	39	40.4558435	42.9979531	99.43	0.29	clinical	NCBI	
+Kanchipuram.fna	Bacillus anthracis	2019-07-27	India	Kanchipuram	Bos sp.	Blood	B.Br.011_(KrugerB)	PRJNA656087	SAMN15770451	GCA_014249775.1	Chromosome	103	8	12.8185	79.6947	99.43	0.29	clinical	NCBI	
+KC2011.fna	Bacillus anthracis	2011-XX-XX	South Africa	Hoedspruit	Acinonyx jubatus		B.Br.001	PRJNA391105	SAMN07257397	GCA_008087155.1	Scaffold	358	45	-24.352964	30.951343	99.43	0.69	clinical	NCBI	
+KrugerB.fna	Bacillus anthracis	20XX-XX-XX					A.Br.119	PRJNA324	SAMN02435884	GCA_000167295.1	Scaffold		64			99.24	0.65	unknown	NCBI	
+KZ-100.fna	Bacillus anthracis	2008-06-XX	Kazakhstan	West Kazakhstan	Bos taurus	Muscle	A.Br.001	PRJNA639508	SAMN15952994	GCA_014466805.1	Contig	55	42	49.81	50.67	99.43	0.29	clinical	NCBI	
+KZ-107.fna	Bacillus anthracis	2010-06-XX	Kazakhstan	West Kazakhstan	Homo sapiens	Carbuncle	A.Br.119	PRJNA639508	SAMN16093281	GCA_014712235.1	Contig	49.5	85	51.14	51.22	99.43	0.29	clinical	NCBI	
+KZ-113.fna	Bacillus anthracis	2009-06-XX	Kazakhstan	West Kazakhstan	Bos taurus	Carbuncle	A.Br.001	PRJNA639508	SAMN15952995	GCA_014466795.1	Contig	91	157	49.81	50.67	99.43	1.3	clinical	NCBI	
+KZ-114.fna	Bacillus anthracis	2011-06-XX	Kazakhstan	West Kazakhstan		Carcass	A.Br.113	PRJNA639508	SAMN16093282	GCA_014712215.1	Contig	59.9	178	51.14	51.22	99.43	0.29	clinical	NCBI	
+LADANYBENE.fna	Bacillus anthracis	2003-XX-XX	Hungary	Ladánybene			A.Br.134	PRJNA1426891	SAMN55897467					47.0339086	19.4553886	99.43	0.29	unknown	this study	hungary
+LaLC.fna	Bacillus anthracis	2011-XX-XX					A.Br.105_(Tsiankovskii)	PRJNA514245	SAMD00135675	GCA_029695825.1	Contig	54	44			99.4	0.29	unknown	NCBI	
+Larissa.fna	Bacillus anthracis	2012-XX-XX	Greece	Larissa	Ovis sp.	Blood	A.Br.038	PRJNA286154	SAMN03765650	GCA_001277955.1	Chromosome	82	4	38.9953683	21.9877132	99.43	0.29	clinical	NCBI	
+LNA_D1.fna	Bacillus anthracis	2016-10-07	Tanzania	Tanzania		Carcass	A.Br.038	PRJNA514245	SAMEA8914714	GCA_029698865.1	Contig	35	71	-6.5247123	35.7878438	99.43	0.29	clinical	NCBI	
+LNA_D3.fna	Bacillus anthracis	2016-10-07	Tanzania	Tanzania		Carcass	A.Br.038	PRJNA514245	SAMEA8914715	GCA_029698825.1	Contig	78	91	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+LNA-1.fna	Bacillus anthracis	2016-10-07	Tanzania	Tanzania	Ovis aries	Carcass	A.Br.038	PRJNA514245	SAMN32614614	GCA_029693825.1	Contig	92	36	-3.05212	35.11393	99.43	0.86	clinical	NCBI	
+LNA-2_T1.fna	Bacillus anthracis	2016-10-07	Tanzania	Tanzania	Capra hircus	Carcass	A.Br.038	PRJNA514245	SAMEA8914717	GCA_029698805.1	Contig	114	40	-6.5247123	35.7878438	99.43	0.86	clinical	NCBI	
+LNA-2_T2.fna	Bacillus anthracis	2016-10-07	Tanzania	Tanzania	Capra hircus	Carcass	A.Br.155	PRJNA514245	SAMEA8914718	GCA_029698765.1	Contig	35	387	-6.5247123	35.7878438	99.43	0.29	clinical	NCBI	
+London_491.fna	Bacillus anthracis	2006-12-01	United Kingdom	London		Clinical	A.Br.156	PRJNA514245	SAMN03790801	GCA_029700905.1	Contig	58	217	51.4893335	-0.144055084527687	99.43	0.86	clinical	NCBI	
+London_494.fna	Bacillus anthracis	2006-12-01	United Kingdom	London		Animal Hide	A.Br.154	PRJNA514245	SAMN03790803	GCA_029700885.1	Contig	57	322	51.4893335	-0.144055084527687	99.43	0.86	clinical	NCBI	
+London_496.fna	Bacillus anthracis	2006-12-01	United Kingdom	London		Animal-Skin Drum	A.Br.156	PRJNA514245	SAMN03790804	GCA_029700865.1	Contig	57	156	51.4893335	-0.144055084527687	99.43	1.44	clinical	NCBI	
+London_497.fna	Bacillus anthracis	2006-12-01	United Kingdom	London		Animal Hide	A.Br.156	PRJNA514245	SAMN03790805	GCA_029700805.1	Contig	73	229	51.4893335	-0.144055084527687	99.43	0.86	clinical	NCBI	
+London_498.fna	Bacillus anthracis	2006-12-01	United Kingdom	London		Animal Hide	A.Br.156	PRJNA514245	SAMN03790806	GCA_029700845.1	Contig	66	194	51.4893335	-0.144055084527687	99.43	0.86	clinical	NCBI	
+London_499.fna	Bacillus anthracis	2006-12-01	United Kingdom	London		Animal Hide	A.Br.156	PRJNA287512	SAMN03790807	GCA_003227955.1	Complete	50	3	51.4893335	-0.144055084527687	99.43	0.29	clinical	NCBI	
+London_500.fna	Bacillus anthracis	2006-12-01	United Kingdom	London		Animal Hide	A.Br.156	PRJNA514245	SAMN03790808	GCA_029700825.1	Contig	56	148	51.4893335	-0.144055084527687	99.43	2.78	clinical	NCBI	
+London_501.fna	Bacillus anthracis	2006-12-01	United Kingdom	London		Animal Hide	A.Br.113	PRJNA514245	SAMN03790809	GCA_029700785.1	Contig	62	137	51.4893335	-0.144055084527687	99.43	0.86	clinical	NCBI	
+M2003-10005694.fna	Bacillus anthracis	2003-XX-XX	Hungary	Hungary			A.Br.110	PRJNA1426891	SAMN55897468					47	20	99.43	0.29	unknown	this study	hungary
+M2013-20021732.fna	Bacillus anthracis	2013-09-12	Hungary	Jászladány	Ovis sp.	Spleen	A.Br.113	PRJNA1426891	SAMN55897469					47.3649496	20.1653647	99.43	0.29	clinical	this study	hungary
+M2014-20015364a.fna	Bacillus anthracis	2014-04-15	Hungary	Debrecen	Panthera leo	Organs	A.Br.113	PRJNA1426891	SAMN55897470					47.5274076	21.6217273	99.43	0.29	clinical	this study	hungary
+M2014-20015364b.fna	Bacillus anthracis	2014-04-15	Hungary	Debrecen	Bos taurus	Muscle	A.Br.110	PRJNA1426891	SAMN55897471					47.5274076	21.6217273	99.43	0.29	clinical	this study	hungary
+M2014-20034545.fna	Bacillus anthracis	2014-07-14	Hungary	Tiszafüred	Bos taurus	Spleen	A.Br.110	PRJNA1426891	SAMN55897472					47.6130877	20.7502258	99.43	0.29	clinical	this study	hungary
+M2014-20034830.fna	Bacillus anthracis	2014-07-23	Hungary	Egyek	Bos taurus	Spleen	A.Br.110	PRJNA1426891	SAMN55897473					47.6236553	20.891385	99.43	0.29	clinical	this study	hungary
+M2014-20036204.fna	Bacillus anthracis	2014-07-29	Hungary	Tiszafüred	Bos taurus	Blood	A.Br.110	PRJNA1426891	SAMN55897474					47.6130877	20.7502258	99.36	0.29	clinical	this study	hungary
+M2014-20036636.fna	Bacillus anthracis	2014-07-30	Hungary	Tiszafüred	Bos taurus	Spleen	A.Br.110	PRJNA1426891	SAMN55897475					47.6130877	20.7502258	99.43	0.29	clinical	this study	hungary
+M2014-20036873.fna	Bacillus anthracis	2014-07-30	Hungary	Tiszacsege	Bos taurus	Spleen	A.Br.113	PRJNA1426891	SAMN55897476					47.6975481	20.9935969	99.43	0.29	clinical	this study	hungary
+M2016-20043119.fna	Bacillus anthracis	2016-09-10	Hungary	Szeghalom	Bos taurus	Spleen	A.Br.113	PRJNA1426891	SAMN55897477					47.0255741	21.1733473	99.43	0.29	clinical	this study	hungary
+M2016-20043952.fna	Bacillus anthracis	2016-09-16	Hungary	Vésztö	Bos taurus	Spleen	A.Br.113	PRJNA1426891	SAMN55897478					46.9241978	21.2598799	99.43	0.29	clinical	this study	hungary
+M2018-10014319.fna	Bacillus anthracis	2018-03-31	Hungary	Szentes-Cserebök	Ovis sp.	Spleen	A.Br.110	PRJNA1426891	SAMN55897479					46.7665972210443	20.4352609802197	96.64	0.29	clinical	this study	hungary
+M2018-20033866.fna	Bacillus anthracis	2018-07-03	Hungary	Tiszafüred	Bos taurus	Ear Blood	A.Br.110	PRJNA1426891	SAMN55897480					47.6130877	20.7502258	99.43	0.29	clinical	this study	hungary
+M2019-10017123.fna	Bacillus anthracis	2019-04-15	Hungary	Kötegyán	Bos taurus	Muscle	A.Br.064.AUT	PRJNA1426891	SAMN55897481					46.7347025	21.47905	98.28	0.29	clinical	this study	hungary
+MH-JJ.fna	Bacillus anthracis	2023-04-30	Austria	Mattighofen		Soil	A.Br.073	PRJNA1048328	SAMN38634752					48.1052205	13.1497405	99.43	0.29	environment	this study	our soil
+MH-MFM.fna	Bacillus anthracis	2023-04-30	Austria	Mattighofen		Soil	A.Br.068	PRJNA1048328	SAMN38634750 					48.1052205	13.1497405	98.85	0.29	environment	this study	our soil
+MH-PR.fna	Bacillus anthracis	2023-04-30	Austria	Mattighofen		Soil	A.Br.064.AUT	PRJNA1048328	SAMN38634751					48.1052205	13.1497405	99.43	0.29	environment	this study	our soil
+MH-VW.fna	Bacillus anthracis	2023-04-30	Austria	Mattighofen		Soil	A.Br.114	PRJNA1048328	SAMN38634753					48.1052205	13.1497405	99.43	0.29	environment	this study	our soil
+MN-3197.fna	Bacillus anthracis	1923-09-14	Austria	Austria	Equus caballus	Large Intestine	A.Br.110	PRJNA1426891	SAMN55897482					47.6964719	13.3457347	99.43	0.29	clinical	this study	our tissue
+MN-3200.fna	Bacillus anthracis	20XX-XX-XX	Austria	Austria	Equus caballus	Mesentyrial lymph node	A.Br.129	PRJNA1426891	SAMN55897483					47.6964719	13.3457347	99.43	0.29	clinical	this study	our tissue
+MN-3202.fna	Bacillus anthracis	1923-12-11	Austria	Austria	Bos taurus	Lung	A.Br.140_(L1)	PRJNA1426891	SAMN55897484					47.6964719	13.3457347	99.43	0.29	clinical	this study	our tissue
+MN-3205.fna	Bacillus anthracis	1923-04-16	Austria	Austria	Equus caballus	Large Intestine	A.Br.093	PRJNA1426891	SAMN55897485					47.6964719	13.3457347	99.43	0.29	clinical	this study	our tissue
+MN-3208.fna	Bacillus anthracis	1937-09-13	Turkey	Ankara	Bos taurus	Abomasum	A.Br.065	PRJNA1426891	SAMN55897486					39.91987	32.85427	99.43	0.29	clinical	this study	our tissue
+MN-3211.fna	Bacillus anthracis	1927-XX-XX	Austria	Markgrafneusiedl	Bos taurus	Small Intestine	A.Br.114	PRJNA1426891	SAMN55897487					48.266944	16.631944	99.43	0.29	clinical	this study	our tissue
+MN-3213.fna	Bacillus anthracis	1924-03-18	Austria	Austria	Equus caballus	Small Intestine	A.Br.039	PRJNA1426891	SAMN55897488							99.43	0.29	clinical	this study	our tissue
+NL2016_1.fna	Bacillus anthracis	2016-10-10	Zambia	Zambia			A.Br.039	PRJNA514245	SAMD00106223	GCA_029695905.1	Contig	706	45	-11.6141	32683	99.43	0.86	unknown	NCBI	
+NL2016_2.fna	Bacillus anthracis	2016-10-10	Zambia	Zambia			A.Br.039	PRJNA514245	SAMD00106224	GCA_029695945.1	Contig	814	43	-11.6141	32683	99.43	0.86	unknown	NCBI	
+NL2016_3.fna	Bacillus anthracis	2016-10-10	Zambia	Zambia			A.Br.113	PRJNA514245	SAMD00106225	GCA_029695865.1	Contig	684	49	-11.6141	32683	99.43	0.86	unknown	NCBI	
+NOGRADMEGYER.fna	Bacillus anthracis	2003-XX-XX	Hungary	Nógrádmegyer			A.Br.131	PRJNA1426891	SAMN55897489					48.0688317	19.6243876	99.43	0.29	unknown	this study	hungary
+NR-1041.fna	Bacillus anthracis	20XX-XX-XX					A.Br.077	PRJNA553548	SAMN12238215	GCA_031317455.1	Contig		33			99.43	0.29	unknown	NCBI	
+NR-1202.fna	Bacillus anthracis	20XX-XX-XX					A.Br.097	PRJNA553548	SAMN12238216	GCA_031317435.1	Contig		31			99.43	0.29	unknown	NCBI	
+NR-1389.fna	Bacillus anthracis	20XX-XX-XX					A.Br.086	PRJNA553548	SAMN12238217	GCA_031317405.1	Scaffold		176			99.43	0.39	unknown	NCBI	
+NR-1408.fna	Bacillus anthracis	20XX-XX-XX					A.Br.015	PRJNA553548	SAMN12238218	GCA_031317375.1	Scaffold		983			99.35	0.83	unknown	NCBI	
+NR-36073.fna	Bacillus anthracis	20XX-XX-XX					A.Br.100	PRJNA553548	SAMN12238220	GCA_031317355.1	Scaffold		162			99.43	0.29	unknown	NCBI	
+NR-36091.fna	Bacillus anthracis	20XX-XX-XX					A.Br.001	PRJNA553548	SAMN12238221	GCA_031317335.1	Scaffold		309			99.43	0.29	unknown	NCBI	
+NR-3838.fna	Bacillus anthracis	20XX-XX-XX					A.Br.092	PRJNA553548	SAMN12238219	GCA_031317395.1	Scaffold		52			99.43	0.29	unknown	NCBI	
+NR-41.fna	Bacillus anthracis	20XX-XX-XX					A.Br.001	PRJNA553548	SAMN12238212	GCA_031317495.1	Scaffold		174			99.43	0.29	unknown	NCBI	
+NR-411.fna	Bacillus anthracis	20XX-XX-XX					A.Br.089	PRJNA553548	SAMN12238214	GCA_031317465.1	Contig		33			99.43	0.29	unknown	NCBI	
+NR-46.fna	Bacillus anthracis	20XX-XX-XX					A.Br.080	PRJNA553548	SAMN12238213	GCA_031317505.1	Scaffold		614			99.43	0.29	unknown	NCBI	
+NR-51483.fna	Bacillus anthracis	20XX-XX-XX					A.Br.157	PRJNA553548	SAMN12238222	GCA_031317315.1	Contig		46			99.43	0.29	unknown	NCBI	
+NR-51484.fna	Bacillus anthracis	20XX-XX-XX					A.Br.139	PRJNA553548	SAMN12238223	GCA_031317295.1	Contig		36			99.43	0.29	unknown	NCBI	
+NR-51485.fna	Bacillus anthracis	20XX-XX-XX					A.Br.157	PRJNA553548	SAMN12238224	GCA_031317255.1	Contig		32			99.43	0.29	unknown	NCBI	
+NR-51486.fna	Bacillus anthracis	20XX-XX-XX					A.Br.098	PRJNA553548	SAMN12238225	GCA_031317275.1	Contig		30			99.43	0.29	unknown	NCBI	
+Ohio-ACB.fna	Bacillus anthracis	20XX-XX-XX	USA	Ohio	Sus scrofa		A.Br.078	PRJNA238205	SAMN03010429	GCA_000832505.1	Complete	324	3	40.2253569	-82.6881395	99.43	0.29	clinical	NCBI	
+OK-05.fna	Bacillus anthracis	2023-03-27	India		Bubalus bubalis		A.Br.078	PRJNA1040472	SAMN38260084	GCA_034259145.1	Chromosome		8			99.43	0.29	unknown	NCBI	
+OK-29.fna	Bacillus anthracis	2023-06-04	India	Koraput	Bos taurus	Bone	A.Br.081_(Ames)	PRJNA1047755	SAMN38582575	GCA_035579705.1	Chromosome	105		18.8126081	-82.7117069	99.43	0.29	clinical	NCBI	
+P04210076.fna	Bacillus anthracis	2021-01-21	Indonesia	Klepu Village		Soil	A.Br.163	PRJNA750666	SAMN20475816	GCA_019693235.1	Complete	11	3	-8.19306834	110.98496149	99.43	0.29	environment	NCBI	
+PAK-1.fna	Bacillus anthracis	1996-01-25	Pakistan	Pakistan	Ovis sp.		A.Br.077	PRJNA257008	SAMN03757453	GCA_001273145.1	Contig	716212	116	30.3308401	71.247499	99.43	0.29	clinical	NCBI	
+Parent1.fna	Bacillus anthracis	20XX-XX-XX	USA	USA			A.Br.077	PRJNA295544	SAMN04093743	GCA_001683095.1	Complete	600	1	39.7837304	-100.445882	99.43	0.29	unknown	NCBI	
+Parent2.fna	Bacillus anthracis	20XX-XX-XX	USA	USA			A.Br.131	PRJNA295544	SAMN04093744	GCA_001683065.1	Complete	600	1	39.7837304	-100.445882	99.43	0.29	unknown	NCBI	
+Pasteur_2015.fna	Bacillus anthracis	20XX-XX-XX			Felis catus		A.Br.131	PRJNA238046	SAMN03024436	GCA_000832585.1	Complete	688	2			99.14	0.29	clinical	NCBI	
+Pasteur_2022.fna	Bacillus anthracis	20XX-XX-XX	United Kingdom	United Kingdom			A.Br.171	PRJNA695105	SAMN18241473	GCA_022221105.1	Complete	50	2	54.7023545	-3.2765753	99.43	0.29	unknown	NCBI	
+PF1.fna	Bacillus anthracis	2012-06-XX	France	Chambery	Homo sapiens	Blood	A.Br.114	PRJNA514245	SAMN13173321	GCA_029695505.1	Contig	488	84	45.34	5.5559	99.43	0.86	clinical	NCBI	
+PNO2.fna	Bacillus anthracis	1935-XX-XX	China	Beijing	Homo sapiens		A.Br.144_(Pollino)	PRJNA801913	SAMN25416578	GCA_022014755.1	Complete	890	3	39.54	116.23	99.43	0.29	clinical	NCBI	
+Pollino-3734.fna	Bacillus anthracis	2013-XX-XX	Italy	Italy	Bos taurus	Carcass	A.Br.144_(Pollino)	PRJNA695105	SAMN18241467	GCA_022221225.1	Complete	59	3	42.6384261	12.674297	99.43	0.29	clinical	NCBI	
+Pollino.fna	Bacillus anthracis	2014-XX-XX	Italy	Basilicata	Bos taurus	Carcass	A.Br.077	PRJNA273788	SAMN03296000	GCA_000831505.1	Chromosome	111	6	40.500571	16.081953	99.43	0.29	clinical	NCBI	
+PR01.fna	Bacillus anthracis	20XX-XX-XX	USA	USA			A.Br.077	PRJNA295544	SAMN04075676	GCA_001683135.1	Complete	30	1	39.7837304	-100.445882	99.43	0.29	unknown	NCBI	
+PR02.fna	Bacillus anthracis	20XX-XX-XX	USA	USA			A.Br.077	PRJNA295544	SAMN04075677	GCA_001683155.1	Complete	690	1	39.7837304	-100.445882	99.43	0.29	unknown	NCBI	
+PR05.fna	Bacillus anthracis	20XX-XX-XX	USA	USA			A.Br.077	PRJNA295544	SAMN04075680	GCA_001683175.1	Complete	700	1	39.7837304	-100.445882	99.43	0.29	unknown	NCBI	
+PR06.fna	Bacillus anthracis	20XX-XX-XX	USA	USA			A.Br.077	PRJNA295544	SAMN04075681	GCA_001683195.1	Complete	750	1	39.7837304	-100.445882	99.43	0.29	unknown	NCBI	
+PR07.fna	Bacillus anthracis	20XX-XX-XX	USA	USA			A.Br.077	PRJNA295544	SAMN04075682	GCA_001683215.1	Complete	633	1	39.7837304	-100.445882	99.43	0.29	unknown	NCBI	
+PR08.fna	Bacillus anthracis	20XX-XX-XX	USA	USA			A.Br.077	PRJNA295544	SAMN04075683	GCA_001683235.1	Complete	675	1	39.7837304	-100.445882	99.43	0.29	unknown	NCBI	
+PR09-1.fna	Bacillus anthracis	20XX-XX-XX	USA	USA			A.Br.077	PRJNA295544	SAMN04075684	GCA_001683255.1	Complete	545	1	39.7837304	-100.445882	99.43	0.29	unknown	NCBI	
+PR09-4.fna	Bacillus anthracis	20XX-XX-XX	USA	USA			A.Br.077	PRJNA295544	SAMN04075685	GCA_001683275.1	Complete	571	1	39.7837304	-100.445882	99.43	0.29	unknown	NCBI	
+PR10-4.fna	Bacillus anthracis	20XX-XX-XX	USA	USA			B.Br.007_(FrenchB)	PRJNA295544	SAMN04075686	GCA_001683295.1	Complete	562	1	39.7837304	-100.445882	99.43	0.29	unknown	NCBI	
+RA3.fna	Bacillus anthracis	1998-XX-XX	France	France	Bos sp.		B.Br.001	PRJNA238136	SAMN03075602	GCA_000832745.1	Complete	326	3	46.603354	1.8883335	99.43	0.29	clinical	NCBI	
+SA020.fna	Bacillus anthracis	20XX-XX-XX	South Africa	South Africa		Soil	A.Br.073	PRJNA695105	SAMN18241464	GCA_022221285.1	Complete	98	3	-28.8166236	24.991639	99.43	0.36	environment	NCBI	
+SA047.fna	Bacillus anthracis	1999-XX-XX	South Africa	Rondebusch		Soil	A.Br.157	PRJNA309927	SAMN08812797	GCA_003064005.1	Contig	82	35	52.8055502	7.8469583	99.43	0.29	environment	NCBI	
+Scotland_459.fna	Bacillus anthracis	2006-06-01	United Kingdom	United Kingdom		Animal Skin Drum Storage Area	A.Br.157	PRJNA514245	SAMN03790787	GCA_029701185.1	Contig	60	182	54.7023545	-3.2765753	99.43	2.3	clinical	NCBI	
+Scotland_472.fna	Bacillus anthracis	2006-06-01	United Kingdom	United Kingdom		Clinical	A.Br.157	PRJNA514245	SAMN03790788	GCA_029701205.1	Contig	69	101	54.7023545	-3.2765753	99.43	3.74	clinical	NCBI	
+Scotland_473.fna	Bacillus anthracis	2006-06-01	United Kingdom	United Kingdom		Clinical	A.Br.154	PRJNA514245	SAMN03790789	GCA_029701125.1	Contig	57	357	54.7023545	-3.2765753	99.43	0.86	clinical	NCBI	
+Scotland_474.fna	Bacillus anthracis	2006-06-01	United Kingdom	United Kingdom		Animal Hide	A.Br.157	PRJNA514245	SAMN03790790	GCA_029701285.1	Contig	57	232	54.7023545	-3.2765753	99.43	2.01	clinical	NCBI	
+Scotland_476.fna	Bacillus anthracis	2006-06-01	United Kingdom	United Kingdom		Animal Skin Drum Storage Area	A.Br.157	PRJNA514245	SAMN03790791	GCA_029701105.1	Contig	46	253	54.7023545	-3.2765753	99.43	0.86	clinical	NCBI	
+Scotland_477.fna	Bacillus anthracis	2006-06-01	United Kingdom	United Kingdom		Animal Skin Drum Storage Area	A.Br.157	PRJNA514245	SAMN03790792	GCA_029701085.1	Contig	51	285	54.7023545	-3.2765753	99.43	0.86	clinical	NCBI	
+Scotland_478.fna	Bacillus anthracis	2006-06-01	United Kingdom	United Kingdom		Animal Skin Drum	A.Br.157	PRJNA514245	SAMN03790793	GCA_029701065.1	Contig	48	228	54.7023545	-3.2765753	99.43	0.86	clinical	NCBI	
+Scotland_479.fna	Bacillus anthracis	2006-06-01	United Kingdom	United Kingdom		Animal Skin Drum Storage Area	A.Br.157	PRJNA514245	SAMN03790794	GCA_029701005.1	Contig	48	168	54.7023545	-3.2765753	99.43	0.86	clinical	NCBI	
+Scotland_480.fna	Bacillus anthracis	2006-06-01	United Kingdom	United Kingdom		Animal Skin Drum Storage Area	A.Br.157	PRJNA514245	SAMN03790795	GCA_029701045.1	Contig	58	127	54.7023545	-3.2765753	99.43	6.03	clinical	NCBI	
+Scotland_481.fna	Bacillus anthracis	2006-06-01	United Kingdom	United Kingdom		Animal Skin Drum Storage Area	A.Br.157	PRJNA514245	SAMN03790796	GCA_029701025.1	Contig	70	271	54.7023545	-3.2765753	99.43	0.86	clinical	NCBI	
+Scotland_482.fna	Bacillus anthracis	2006-06-01	United Kingdom	United Kingdom		Animal Skin Drum Storage Area	A.Br.157	PRJNA514245	SAMN03790797	GCA_029700985.1	Contig	54	162	54.7023545	-3.2765753	99.43	0.86	clinical	NCBI	
+Scotland_483.fna	Bacillus anthracis	2006-06-01	United Kingdom	United Kingdom		Animal-Skin Drum Storage Area	A.Br.157	PRJNA514245	SAMN03790798	GCA_029700925.1	Contig	85	138	54.7023545	-3.2765753	99.43	3.16	clinical	NCBI	
+Scotland_484.fna	Bacillus anthracis	2006-06-01	United Kingdom	United Kingdom		Animal Skin Drum Storage Area	A.Br.157	PRJNA514245	SAMN03790799	GCA_029700965.1	Contig	76	116	54.7023545	-3.2765753	99.43	1.44	clinical	NCBI	
+Scotland_485.fna	Bacillus anthracis	2006-06-01	United Kingdom	United Kingdom		Animal Skin Drum Storage Area	A.Br.148	PRJNA514245	SAMN03790800	GCA_029700945.1	Contig	109	85	54.7023545	-3.2765753	99.43	0.86	clinical	NCBI	
+Sen2Col2.fna	Bacillus anthracis	20XX-XX-XX					A.Br.149	PRJEB1516	SAMEA2272511	GCA_000359425.1	Contig		44			99.43	0.29	unknown	NCBI	
+Sen3.fna	Bacillus anthracis	20XX-XX-XX					A.Br.001	PRJEB1517	SAMEA2272292	GCA_000359445.1	Contig		50			99.28	0.29	unknown	NCBI	
+Shikan-NIID.fna	Bacillus anthracis	20XX-XX-XX	Japan	Tokyo			A.Br.051	PRJDB3549	SAMD00026520	GCA_002356575.1	Complete	320	3	35.6840574	139.7744912	99.43	0.29	unknown	NCBI	
+SK-102.fna	Bacillus anthracis	1976-XX-XX	USA	New Jersey		Wool From Pakistan	A.Br.015	PRJNA238068	SAMN03012770	GCA_000832565.1	Complete	479	3	40.0757384	-74.4041622	99.43	0.29	clinical	NCBI	
+SK57.fna	Bacillus anthracis	1975-XX-XX	United Kingdom	United Kingdom	Homo sapiens		A.Br.131	PRJNA481057	SAMN09655867	GCA_003368005.1	Scaffold	89	41	54.7023545	-3.2765753	99.43	0.29	clinical	NCBI	
+Smith1013.fna	Bacillus anthracis	20XX-XX-XX					A.Br.11.ESPc	PRJNA243516	SAMN02732407	GCA_000742315.1	Chromosome	305	18			99.43	0.29	unknown	NCBI	
+Spain_21_1088_10.fna	Bacillus anthracis	2021-11-09	Spain	Don Benito	Bos taurus	Farm	A.Br.11.ESPc	PRJNA514245	SAMN33005111	GCA_029692545.1	Contig	59	58	39.08931	-6.056745	99.43	0.29	clinical	NCBI	
+Spain_21_1198_6.fna	Bacillus anthracis	20XX-XX-XX	Spain	Madrigalejo	Bos taurus	Farm	A.Br.139	PRJNA514245	SAMN33005112	GCA_029692505.1	Contig	65	69	39.10722	-5.711016	99.43	0.29	clinical	NCBI	
+Spain_21_868.fna	Bacillus anthracis	2021-09-01	Spain	Ciudad Real	Bos taurus	Farm	A.Br.11.ESPc	PRJNA514245	SAMN33005084	GCA_029692185.1	Contig	48	471	38.9635	-3.9356	99.43	5.03	clinical	NCBI	
+Spain_21_874.fna	Bacillus anthracis	2021-09-06	Spain	Navalvillar de Pela	Equus caballus caballus	Farm	A.Br.11.ESPc	PRJNA514245	SAMN33005085	GCA_029692265.1	Contig	88	61	39.1112	-5.4887	99.43	0.29	clinical	NCBI	
+Spain_21_878.fna	Bacillus anthracis	2021-09-13	Spain	Navalvillar de Pela	Equus caballus caballus	Farm	A.Br.11.ESPc	PRJNA514245	SAMN33005086	GCA_029692465.1	Contig	78	106	39.0916	-5.5457	99.43	0.29	clinical	NCBI	
+Spain_21_903_1.fna	Bacillus anthracis	2021-09-20	Spain	Talarrubias	Bos taurus	Farm	A.Br.11.ESPc	PRJNA514245	SAMN33005091	GCA_029692645.1	Contig	67	88	39.1456	-5.2265	99.43	0.29	clinical	NCBI	
+Spain_21_926_3.fna	Bacillus anthracis	2021-09-24	Spain	Logrosan	Bos taurus	Farm	A.Br.11.ESPc	PRJNA514245	SAMN33005099	GCA_029692285.1	Contig	39	241	39.2514	-5.4814	99.43	0.36	clinical	NCBI	
+Spain_21_940_10.fna	Bacillus anthracis	2021-09-20	Spain	Logrosan	Bos taurus	Farm	A.Br.11.ESPc	PRJNA514245	SAMN33005105	GCA_029692365.1	Contig	119	59	39.3076	-5.4493	99.43	0.86	clinical	NCBI	
+Spain_21_984_4.fna	Bacillus anthracis	2021-10-08	Spain	Logrosan	Bos taurus	Farm	A.Br.11.ESPc	PRJNA514245	SAMN33005108	GCA_029692485.1	Contig	57	64	39.1997	-5487	99.43	0.29	clinical	NCBI	
+Spain_21_997_5.fna	Bacillus anthracis	2021-10-08	Spain	Acedera	Equus caballus caballus	Farm	A.Br.11.ESPb	PRJNA514245	SAMN33005109	GCA_029692425.1	Contig	61	89	39.0338	-5.5793	99.43	0.29	clinical	NCBI	
+Spain_319-02.fna	Bacillus anthracis	2005-XX-XX	Spain	Spain	Homo sapiens		A.Br.11.ESPa_(L7)	PRJNA514245						40.27	-3.44	99.43	0.29	clinical		
+Spain_342-02.fna	Bacillus anthracis	2005-XX-XX	Spain	Spain	Homo sapiens		A.Br.081_(Ames)	PRJNA514245						40.27	-3.44	99.43	0.29	clinical		
+Stendal.fna	Bacillus anthracis	2012-XX-XX	Germany	Saxony-Anhalt	Bos taurus		A.Br.077	PRJNA309927	SAMN04442145	GCA_001543225.1	Complete	63	3	52.0089065	11.7003344	99.43	0.29	clinical	NCBI	
+Sterne_2015.fna	Bacillus anthracis	20XX-XX-XX	USA	USA			A.Br.119	PRJNA236483	SAMN03010431	GCA_000832635.1	Complete	317	2	39.7837304	-100.445882	99.25	0.29	unknown	NCBI	
+STI-1.fna	Bacillus anthracis	20XX-XX-XX	Russia	Russia			A.Br.119	PRJNA243052	SAMN02839456	GCA_000740925.2	Scaffold	94	44	64.6863136	97.7453061	99.43	0.29	unknown	NCBI	
+STI1.fna	Bacillus anthracis	1970-XX-XX	Russia	Saratov		Laboratory Strain	A.Br.015	PRJNA436480	SAMN08627228	GCA_002980615.3	Complete	114	1	51.54	46	99.43	0.29	unknown	NCBI	
+Strain-32.fna	Bacillus anthracis	1974-XX-XX	United Kingdom	United Kingdom	Homo sapiens		B.Br.009_(KrugerB)	PRJNA481057	SAMN09655857	GCA_003367985.1	Scaffold	71	45	52.2405	-0.9027	99.43	0.29	clinical	NCBI	
+SVA11.fna	Bacillus anthracis	20XX-XX-XX					A.Br.078	PRJNA217316	SAMN03081486	GCA_000583105.1	Complete		3			99.43	0.29	unknown	NCBI	
+Tangail-1.fna	Bacillus anthracis	2012-XX-XX	Bangladesh	Tangail		Environment	A.Br.078	PRJNA309927	SAMN05003865	GCA_001654475.1	Complete	105	3	24.2507461	89.9151479	99.43	0.29	environment	NCBI	
+Tangail-4_2.fna	Bacillus anthracis	2013-XX-XX	Bangladesh	Bangladesh		Soil	A.Br.081_(Ames)	PRJNA695105	SAMN18241470	GCA_022221165.1	Complete	72	3	24.4769288	90.2934413	99.43	0.29	environment	NCBI	
+Tokushima1.fna	Bacillus anthracis	1984-XX-XX	Japan	Tokushima			A.Br.114	PRJNA514245	SAMD00115654	GCA_029702525.1	Contig	37	56	33.9196418	134.2509634	99.43	0.29	unknown	NCBI	
+Tsiankovskii-I.fna	Bacillus anthracis	20XX-XX-XX	Russia	Russia		Vaccine Stock	B.Br.004_(FrenchB)	PRJNA17709	SAMN02436236	GCA_000181675.2	Scaffold		56			96.69	1.72	unknown	NCBI	
+Tyrol-3520.fna	Bacillus anthracis	1980-XX-XX	Austria	Tyrol	Bos taurus		B.Br.004_(FrenchB)	PRJNA695105	SAMN13640833	GCA_022220685.1	Complete	47	3	47.223193	11.5261028	99.43	0.29	clinical	NCBI	
+Tyrol-4675.fna	Bacillus anthracis	1988-XX-XX	Austria	Tyrol	Bos taurus		B.Br.004_(FrenchB)	PRJNA309927	SAMN06186720	GCA_001936375.1	Complete	62	3	47.223193	11.5261028	99.43	0.29	clinical	NCBI	
+Tyrol-6282.fna	Bacillus anthracis	1979-XX-XX	Austria	Tyrol	Bos taurus		A.Br.171	PRJNA309927						47.223193	11.5261028	99.43	0.29	clinical		
+UR-1.fna	Bacillus anthracis	2012-06-05	Germany	Germany	Homo sapiens		A.Br.015	PRJNA695105	SAMN18241472	GCA_022221125.1	Complete	76	3	51.1638175	10.4478313	99.43	0.29	clinical	NCBI	
+UT308.fna	Bacillus anthracis	20XX-XX-XX					A.Br.066	PRJNA481057	SAMN09655864	GCA_003345105.1	Scaffold	175	187			99.43	0.29	unknown	NCBI	
+V770-NP-1R.fna	Bacillus anthracis	1951-XX-XX	USA	Florida	Bos sp.		A.Br.066	PRJNA235226	SAMN03092715	GCA_000832785.1	Complete	413	2	27.7567667	-81.4639835	99.43	0.29	clinical	NCBI	
+V770-NP1-R.fna	Bacillus anthracis	20XX-XX-XX					A.Br.060	PRJNA231233	SAMN02597374	GCA_000521345.1	Contig	161	36			99.43	0.29	unknown	NCBI	
+Vollum_1951.fna	Bacillus anthracis	1951-XX-XX	USA	USA	Homo sapiens		A.Br.060	PRJNA695105	SAMN18241461	GCA_022221345.1	Complete	97	3	39.7837304	-100.445882	99.43	0.29	clinical	NCBI	
+Vollum_2004.fna	Bacillus anthracis	20XX-XX-XX					A.Br.060	PRJNA10797	SAMN02435883	GCA_000167275.1	Scaffold		52			99.24	0.31	unknown	NCBI	
+Vollum_2014.fna	Bacillus anthracis	20XX-XX-XX					A.Br.060	PRJNA243521	SAMN02736982	GCA_000742895.1	Complete		3			99.4	0.29	unknown	NCBI	
+Vollum-1B.fna	Bacillus anthracis	1951-XX-XX	USA	USA	Homo sapiens		A.Br.021	PRJNA238082	SAMN03010433	GCA_000832445.1	Complete	317	3	39.7837304	-100.445882	99.43	0.29	clinical	NCBI	
+Western-North-America-USA6153.fna	Bacillus anthracis	20XX-XX-XX					A.Br.113	PRJNA337	SAMN02435885	GCA_000167315.1	Scaffold		44			99.38	1.33	unknown	NCBI	
+Wieselburg1883.fna	Bacillus anthracis	1883-06-XX	Hungary	Mosonmagyarovar 	Bos taurus		A.Br.100	PRJNA1426891	SAMN55897490					48.13333	15.13333	96.75	5.01	clinical	this study	Bahistorisch
+WT-103.fna	Bacillus anthracis	2012-03-23	Namibia	Etosha National Park	Equus quagga	Soil	A.Br.100	PRJNA514245	SAMN32358962	GCA_029693945.1	Contig	329	54	-19.15571	15.90981	99.43	0.29	clinical	NCBI	
+WT-131.fna	Bacillus anthracis	2010-02-02	Namibia	Etosha National Park	Equus quagga	Blood	A.Br.100	PRJNA514245	SAMN32358965	GCA_029694085.1	Contig	321	51	-19.13395	15.90958	99.43	3.52	clinical	NCBI	
+WT-139.fna	Bacillus anthracis	2010-02-22	Namibia	Etosha National Park	Equus quagga	Soil	A.Br.100	PRJNA514245	SAMN32358967	GCA_029694265.1	Contig	229	61	-19.07406	15.88731	99.43	0.29	clinical	NCBI	
+WT-2.fna	Bacillus anthracis	2010-02-03	Namibia	Etosha National Park	Equus quagga	Soil	A.Br.100	PRJNA514245	SAMN32358974	GCA_029693925.1	Contig	259	48	-19.15911	15.87219	99.43	0.86	clinical	NCBI	
+WT-214.fna	Bacillus anthracis	2010-06-14	Namibia	Etosha National Park	Equus quagga	Blood	A.Br.100	PRJNA514245	SAMN32358979	GCA_029693965.1	Contig	265	40	-19.14434	16.04884	99.43	0.86	clinical	NCBI	
+WT-226.fna	Bacillus anthracis	2013-02-10	Namibia	Etosha National Park	Equus quagga	Soil	A.Br.100	PRJNA514245	SAMN32358980	GCA_029693985.1	Contig	457	58	-19.0017	15.72813	99.43	0.29	clinical	NCBI	
+WT-233.fna	Bacillus anthracis	2010-02-19	Namibia	Etosha National Park	Equus quagga	Blood	A.Br.100	PRJNA514245	SAMN32358982	GCA_029694005.1	Contig	260	62	-19.05873	15.84498	99.43	0.29	clinical	NCBI	
+WT-397.fna	Bacillus anthracis	2010-03-17	Namibia	Etosha National Park	Equus quagga	Blood	A.Br.100	PRJNA514245	SAMN32358988	GCA_029694045.1	Contig	428	56	-19.13488	15.88976	99.43	0.86	clinical	NCBI	
+WT-42.fna	Bacillus anthracis	2012-02-08	Namibia	Etosha National Park	Equus quagga	Soil	A.Br.100	PRJNA514245	SAMN32358989	GCA_029694065.1	Contig	476	61	-19	15.76	99.43	0.29	clinical	NCBI	
+WT-53.fna	Bacillus anthracis	2011-03-30	Namibia	Etosha National Park	Equus quagga	Soil	A.Br.100	PRJNA514245	SAMN32358991	GCA_029694025.1	Contig	201	55	-19.0262	15.7316	99.43	0.29	clinical	NCBI	
+WT-63.fna	Bacillus anthracis	2012-03-22	Namibia	Etosha National Park	Equus quagga	Soil	A.Br.100	PRJNA514245	SAMN32358994	GCA_029694105.1	Contig	182	50	-19.1444	15.87287	99.43	0.86	clinical	NCBI	
+WT-72.fna	Bacillus anthracis	2010-03-17	Namibia	Etosha National Park	Equus quagga	Soil	A.Br.100	PRJNA514245	SAMN32358996	GCA_029694125.1	Contig	263	56	-19.14444	15.89727	99.43	0.29	clinical	NCBI	
+WT-86.fna	Bacillus anthracis	2011-03-15	Namibia	Etosha National Park	Equus quagga	Soil	B.Br.011_(KrugerB)	PRJNA514245	SAMN32358997	GCA_029694165.1	Contig	186	48	-19.06069	15.73991	99.43	0.86	clinical	NCBI	
+Zimbabwe89.fna	Bacillus anthracis	20XX-XX-XX	Zimbabwe	Zimbabwe				PRJNA243517	SAMN02736952	GCA_000743805.1	Scaffold	437	17	-18.4554963	29.7468414	99.43	0.29	unknown	NCBI	
+AP-RP1CH1.fna	Bacillus anthracis	2023-02-01	India		Sus Scropa domesticus	Pig-Whole blood		PRJNA514245	SAMEA114776329	GCA_050932935.1	Contig	537	73							
+APRP3CH.fna	Bacillus anthracis	2023-02-01	India		Axis porcinus	Piglet-Nasal blood swab		PRJNA514245	SAMEA114861678	GCA_050933835.1	Contig	509	108							
+APZCH.fna	Bacillus anthracis	2022-06-11	India		Axis porcinus	Hog deer-Ear piece		PRJNA514245	SAMEA114863125	GCA_050991475.1	Contig	512	67							
+APK1.fna	Bacillus anthracis	2022-01-13	India		Ovis aries	Sheep ear piece		PRJNA514245	SAMEA115062482	GCA_050933405.1	Contig	830	237							
+APCH8.fna	Bacillus anthracis	2018-05-18	India		Bos taurus	Cattle - ear piece		PRJNA514245	SAMEA115062483	GCA_050933095.1	Contig	719	44							
+KAB420.fna	Bacillus anthracis	2022-06-28	India		Bos taurus	Bovine, blood sample		PRJNA514245	SAMEA115083920	GCA_050933255.1	Contig	636	51							
+KAT2211.fna	Bacillus anthracis	2023-02-08	India		Ovis aries	Ovine, Ear piece		PRJNA514245	SAMEA115084893	GCA_050933135.1	Contig	617	52							
+KAC2352.fna	Bacillus anthracis	2023-02-28	India		Capra aegagrus hircus	Caprine, Ear piece		PRJNA514245	SAMEA115084894	GCA_050933195.1	Contig	826	53							
+KAC826.fna	Bacillus anthracis	2022-09-01	India		Ovis aries	Ovine, Ear piece		PRJNA514245	SAMEA115084895	GCA_050932945.1	Contig	377	59							
+KAV2486.fna	Bacillus anthracis	2023-03-28	India		Ovis aries	Ovine, Ear piece		PRJNA514245	SAMEA115084896	GCA_050933075.1	Contig	628	51							
+KAB726.fna	Bacillus anthracis	2022-08-24	India		Ovis aries	Ovine, Ear piece		PRJNA514245	SAMEA115084897	GCA_050933215.1	Contig	653	50							
+APRP2CH.fna	Bacillus anthracis	2023-02-01	India		Sus Scropa domesticus	Pig-Ear piece		PRJNA514245	SAMEA115090063	GCA_050933035.1	Contig	289	60							
+KAC1971.fna	Bacillus anthracis	2022-12-27	India		Ovis aries	Ovine, Ear piece		PRJNA514245	SAMEA115090066	GCA_050933005.1	Contig	700	52							
+ODK9.fna	Bacillus anthracis	2022-05-27	Indian Ocean		Bos indicus	Cattle - Tissue		PRJNA514245	SAMEA115165821	GCA_050933155.1	Contig	651	51							
+IAL_52.fna	Bacillus anthracis	1963-XX-XX	Brazil	Sao Paulo	Animal			PRJNA918391	SAMN32577542	GCA_042193355.1	Complete Genome	69	3							
+BA20200413YY.fna	Bacillus anthracis	2021-06-04	China	Harbin		soil		PRJNA992925	SAMN37499000	GCA_045038045.1	Complete Genome	200	3							
+DS201588.fna	Bacillus anthracis	2015-03-20	South Africa	Pafuri	Wild Animals			PRJNA514245	SAMN39913539	GCA_050220235.1	Contig	46	50							
+NRS-1231.fna	Bacillus anthracis	1951-10-16				autoclaved horse hair		PRJNA802201	SAMN41009537	GCA_050482785.1	Contig	441786	34							
+NRS-1232.fna	Bacillus anthracis	1951-10-16			mouse	lesion		PRJNA802201	SAMN41009538	GCA_050482765.1	Contig	317.44	34							
+NRS-1236.fna	Bacillus anthracis	1951-10-16			mouse	heart blood		PRJNA802201	SAMN41009539	GCA_050482745.1	Contig	348176	33							
+NRS-723.fna	Bacillus anthracis	1950-10-31						PRJNA802201	SAMN41009852	GCA_050475445.1	Contig	524311	37							
+CWH_147.fna	Bacillus anthracis	2023-06-13	India	Odisha	Elephas maximus indicus	Internal tissues of dead elephant		PRJNA1126044	SAMN41919314	GCA_041508535.1	Complete Genome	50	3							
+Jasenovac.fna	Bacillus anthracis	2001-01-XX	Croatia	Jasenovac				PRJNA1129323	SAMN42150189	GCA_041263275.1	Chromosome	50	1							
+Bobovac.fna	Bacillus anthracis	2006-01-XX	Croatia	Bobovac				PRJNA1129323	SAMN42150190	GCA_041263205.1	Chromosome	50	1							
+Split.fna	Bacillus anthracis	2003-01-XX	Croatia	Split				PRJNA1129323	SAMN42150191	GCA_041262955.1	Chromosome	50	1							
+Lonjsko_polje.fna	Bacillus anthracis	2022-01-XX	Croatia	Lonsjko_park				PRJNA1129323	SAMN42150192	GCA_041262845.1	Chromosome	50	1							
+YakM12.fna	Bacillus anthracis	2016-XX-XX	Russia	Yakutia		deep soil layers		PRJNA782824	SAMN42186656	GCA_040797005.1	Contig	2568	43							
+GQ4.fna	Bacillus anthracis	2021-08-XX	China	Ganquan County	mule	bioon		PRJNA1181536	SAMN43359594	GCA_044751645.1	Contig	100	27							
+GX5.fna	Bacillus anthracis	2016-06-XX	China	Jingxi City	Equus caballus	meat		PRJNA1181536	SAMN43359755	GCA_044751445.1	Contig	100	27							
+r9.fna	Bacillus anthracis	2016-06-XX	China	Jingxi City	Equus caballus	meat		PRJNA1181536	SAMN43359983	GCA_044751485.1	Contig	100	28							
+SX1.fna	Bacillus anthracis	2021-08-XX	China	Wenshui County	Bos taurus	bioon		PRJNA1181536	SAMN43360020	GCA_044751425.1	Contig	100	25							
+SX4.fna	Bacillus anthracis	2021-08-XX	China	Wenshui County	Bos taurus	blood		PRJNA1181536	SAMN43361332	GCA_044751505.1	Contig	100	27							
+t21.fna	Bacillus anthracis	2016-06-XX	China	Jingxi City	Equus caballus	soil		PRJNA1181536	SAMN43361510	GCA_044751625.1	Contig	100	25							
+Z11.fna	Bacillus anthracis	2021-09-XX	China	Taiyuan Zoo	Acinonyx jubatus	intestine		PRJNA1181536	SAMN43365833	GCA_044751545.1	Contig	100	25							
+Z12.fna	Bacillus anthracis	2021-09-XX	China	Taiyuan Zoo	Acinonyx jubatus	spleen		PRJNA1181536	SAMN43365929	GCA_044751525.1	Contig	100	25							
+Z21.fna	Bacillus anthracis	2021-09-XX	China	Taiyuan Zoo	Acinonyx jubatus	lung		PRJNA1181536	SAMN43365965	GCA_044751465.1	Contig	100	26							
+Z22.fna	Bacillus anthracis	2021-09-XX	China	Taiyuan Zoo	Acinonyx jubatus	spleen		PRJNA1181536	SAMN43366109	GCA_044751585.1	Contig	100	25							
+3003787874.fna	Bacillus anthracis	2022-XX-XX	USA	Virgin Islands	Homo sapiens	blood		PRJNA1153962	SAMN43423730	GCA_041900855.1	Contig	119.3	33							
+BA1_S28.fna	Bacillus anthracis	2019-04-XX	Ethiopia	Farta district	Capra aegagrus hircus	Dried meat		PRJNA1158707	SAMN43546200	GCA_046221325.1	Scaffold	99813	70							
+BA2_S29.fna	Bacillus anthracis	2021-06-XX	Ethiopia	Adda Berga District	Bos taurus	carcase swab		PRJNA1158707	SAMN43546201	GCA_046221345.1	Scaffold	99818	76							
+BA4_S31.fna	Bacillus anthracis	2022-04-XX	Ethiopia	Goncha siso Enese District	Capra aegagrus hircus	skin and contaminated soil		PRJNA1158707	SAMN43546202	GCA_046221385.1	Scaffold	99.97	80							
+BA5_S32.fna	Bacillus anthracis	2022-11-XX	Ethiopia	Bonga town Distict	Bos taurus	ear clip and swab		PRJNA1158707	SAMN43546203	GCA_046221405.1	Scaffold	99796	177							
+BA6_S33.fna	Bacillus anthracis	2023-03-XX	Ethiopia	South-Bench District	Bos taurus	ear clip and swab		PRJNA1158707	SAMN43546204	GCA_046221365.1	Scaffold	99797	69							

@@ -1,0 +1,5 @@
+##fileformat=VCFv4.2
+##contig=<ID=AE017334.2,length=5227419>
+##INFO=<ID=NA,Number=1,Type=String,Description="No data available">
+##FORMAT=<ID=GT,Number=1,Type=String,Description="Genotype">
+##FILTER=<ID=PASS,Description="All filters passed">
