@@ -178,7 +178,7 @@ rule export:
 	output:
 		export = "08_augur_out_export2auspice.json"
 	params:
-		color = "host isolation_source AssemblyStatus checkm_completeness checkm_contamination data_origin sample_type Complete_busco Single_busco Duplicated_busco Fragmented_busco Missing_busco"
+		color = "host isolation_source AssemblyStatus checkm_completeness checkm_contamination data_origin sample_type busco_completeness busco_complete_single busco_complete_duplicated busco_fragmented busco_missing"
 	shell:
 		"""
 		augur export v2 \
