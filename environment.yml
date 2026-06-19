@@ -13,6 +13,8 @@ dependencies:
   - bcftools=1.23
   - snakemake
   - augur
+  - checkm-genome
+  - busco
   
   # Python packages
   - pandas

@@ -7,7 +7,6 @@ library(tidyverse) # also loads dplyr, tidy and stats package
 library(phangorn) # used for phyDat object, also loads ape package
 library(ggtree)
 library(phytools)
-
 library(devEMF)
 
 ################################################################################
@@ -59,30 +58,6 @@ treeRatchet  <- acctran(treeRatchet, variations_phyDat)
 # https://achtman-lab.github.io/GrapeTree/MSTree_holder.html
 ape::write.tree(treeRatchet, file="MST.txt")
 
-
-###############
-
-# only for building maximum likelihood tree
-
-#Load alignment file
-alignmentfile <- read.dna(file.choose(), format="fasta")
-alignment_phyDat <- phyDat(alignmentfile, type = "DNA", levels = NULL)
-
-#Modeltest
-mt <- modelTest(alignment_phyDat)
-fit_mt <- pml_bb(mt, control = pml.control(trace = 0))
-
-#Bootstrap
-bs <- bootstrap.pml(fit_mt, bs=500, optNni=TRUE,
-                    control = pml.control(trace = 0))
-
-#Building and saving tree
-ggsave("V770_mlh.pdf", width = 50, height = 50, units = "cm", limitsize = FALSE)
-emf(file = "v770_mlh.emf", width = 10, height = 10,bg = "transparent", pointsize = 12,family = "Helvetica", coordDPI = 600)
-plotBS(midpoint(fit_mt$tree), bs, p = 50, type="p", main="Standard bootstrap")
-plotBS(midpoint(fit_mt$tree), bs, p = 100, type="p", main="Standard bootstrap")
-dev.off()
-
 ###############
 
 p <- plotTree(treeRatchet)
@@ -113,7 +88,7 @@ p <- ggtree(treeRatchet, layout="daylight") +
 p %<+% edge + geom_label(aes(x=branch, label=edge_length, vjust = -0.2, hjust=0.5))
 p %<+% edge + geom_text(aes(x=branch, label=node))
 
-################################################################################
+###############
 ### improve first tree
 
 # get the node/tip positions
@@ -148,12 +123,48 @@ p %<+%  edge +
   geom_label(data=edgenew,aes(x=xpos,y=ypos,hjust=hjustvar,vjust=vjustvar,label=annotateText),
              fill = "white", label.size = NA, label.padding = unit(0.1, "lines"))
 
-################################################################################
+###############
+### saving created tree to files
 
-# Plotten
 ggsave("V770_mst.pdf", width = 50, height = 50, units = "cm", limitsize = FALSE)
 svg("V770_mst.svg", width= 10, height = 10)
 emf(file = "V770_mst.emf", width = 10, height = 10,bg = "transparent", pointsize = 12,family = "Helvetica", coordDPI = 600)
 
 dev.off()
+
 ################################################################################
+# consistency index calculated by library(phangorn)
+
+ci_value_overall <- CI(treeRatchet, variations_phyDat,  sitewise=FALSE)
+cat('Consistency index matrix overall: ', ci_value_overall)
+cat('Homoplasia overall : ', round((1-ci_value_overall)*100,2), '%')
+
+ci_value_specific <- CI(treeRatchet, variations_phyDat,  sitewise=TRUE)
+print(ci_value_specific)
+homoplasy_snps <- which(ci_value_specific <1.0)
+
+# show all homoplastic SNP-positions according to reference genome
+for (x in homoplasy_snps)
+  cat('Following position is homoplastic:', head(t1[x],1)[,1], '\n' )
+
+################################################################################
+### only for building maximum likelihood tree
+
+#Load alignment file
+alignmentfile <- read.dna(file.choose(), format="fasta")
+alignment_phyDat <- phyDat(alignmentfile, type = "DNA", levels = NULL)
+
+#Modeltest
+mt <- modelTest(alignment_phyDat)
+fit_mt <- pml_bb(mt, control = pml.control(trace = 0))
+
+#Bootstrap
+bs <- bootstrap.pml(fit_mt, bs=500, optNni=TRUE,
+                    control = pml.control(trace = 0))
+
+#Building and saving tree
+ggsave("V770_mlh.pdf", width = 50, height = 50, units = "cm", limitsize = FALSE)
+emf(file = "v770_mlh.emf", width = 10, height = 10,bg = "transparent", pointsize = 12,family = "Helvetica", coordDPI = 600)
+plotBS(midpoint(fit_mt$tree), bs, p = 50, type="p", main="Standard bootstrap")
+plotBS(midpoint(fit_mt$tree), bs, p = 100, type="p", main="Standard bootstrap")
+dev.off()
