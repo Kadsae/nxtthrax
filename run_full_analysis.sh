@@ -181,7 +181,7 @@ if [[ "$CHECKM_ENABLED" == "true" ]] || [[ "$BUSCO_ENABLED" == "true" ]]; then
     if [[ "$CHECKM_ENABLED" == "true" ]]; then
         log "Running CheckM on genomes (this may take 5-30 minutes)..."
         
-        if command -v checkm &>/dev/null; then
+        if command -v checkm2 &>/dev/null; then
             python3 scripts/run_checkm_qc.py \
                 --genome-dir "$GENOME_DIR" \
                 --output-dir checkm_results \
@@ -204,7 +204,7 @@ if [[ "$CHECKM_ENABLED" == "true" ]] || [[ "$BUSCO_ENABLED" == "true" ]]; then
             
             log "CheckM quality control complete ✓"
         else
-            log "WARNING: CheckM not found. Install with: conda install -c bioconda checkm-genome"
+            log "WARNING: CheckM not found. Install with: conda install -c bioconda checkm2"
             log "Skipping CheckM and proceeding with analysis."
         fi
     fi

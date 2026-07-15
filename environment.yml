@@ -13,7 +13,7 @@ dependencies:
   - bcftools=1.23
   - snakemake
   - augur
-  - checkm-genome
+  - checkm2
   - busco
   
   # Python packages

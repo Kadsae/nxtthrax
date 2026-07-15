@@ -36,11 +36,11 @@ logger = logging.getLogger(__name__)
 def check_checkm_installed():
     """Verify CheckM is installed and accessible."""
     try:
-        result = subprocess.run(['checkm', '--version'], capture_output=True, text=True)
+        result = subprocess.run(['checkm2', '--version'], capture_output=True, text=True)
         logger.info(f"CheckM found: {result.stdout.strip()}")
         return True
     except FileNotFoundError:
-        logger.error("CheckM not found. Install with: conda install -c bioconda checkm-genome")
+        logger.error("CheckM not found. Install with: conda install -c bioconda checkm2")
         return False
 
 
@@ -71,12 +71,11 @@ def run_checkm(genome_dir, output_dir, threads=4):
     
     try:
         cmd = [
-            'checkm', 'lineage_wf',
-            '-x', 'fna',  # or fasta/fa depending on your files
-            '-t', str(threads),
-            '--json',
-            str(genome_dir),
-            str(output_dir)
+    'checkm2', 'predict',
+    '--input', str(genome_dir),
+    '--output-directory', str(output_dir),
+    '--extension', 'fna',
+    '--threads', str(threads)
         ]
         
         logger.info(f"Command: {' '.join(cmd)}")
@@ -96,23 +95,31 @@ def run_checkm(genome_dir, output_dir, threads=4):
 
 
 def parse_checkm_output(output_dir):
-    """Parse CheckM output and extract metrics."""
+    """Parse CheckM2 TSV output and extract metrics."""
     output_dir = Path(output_dir)
-    results_file = output_dir / 'results.json'
-    
+    results_file = output_dir / 'quality_report.tsv'
+
     if not results_file.exists():
-        logger.error(f"CheckM results file not found: {results_file}")
+        logger.error(f"CheckM2 results file not found: {results_file}")
         return None
-    
+
     try:
-        with open(results_file, 'r') as f:
-            results = json.load(f)
-        
+        df = pd.read_csv(results_file, sep='\t')
+        # Convert to dict keyed by genome name (matches old structure)
+        results = {}
+        for _, row in df.iterrows():
+            results[row['Name']] = {
+                'Completeness':          row.get('Completeness', 0),
+                'Contamination':         row.get('Contamination', 0),
+                'Strain heterogeneity':  0,   # not produced by CheckM2
+                'Genome size (bp)':      row.get('Genome_Size', 'N/A'),
+                'GC (%)':                row.get('GC_Content', 'N/A'),
+                '# contigs':             'N/A',  # not in CheckM2 output
+            }
         logger.info(f"Parsed results for {len(results)} genomes")
         return results
-        
     except Exception as e:
-        logger.error(f"Error parsing CheckM output: {e}")
+        logger.error(f"Error parsing CheckM2 output: {e}")
         return None
 
 

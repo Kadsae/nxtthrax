@@ -57,6 +57,10 @@ fi
 # ---------------------------------------------------------------------------
 # STEP 2 - verify tools inside the environment
 # ---------------------------------------------------------------------------
+log "Downloading CheckM2 database (required for first use)..."
+checkm2 database --download --path ~/.checkm2
+log "CheckM2 database downloaded"
+
 log "Verifying installed tools..."
 
 CONDA_BASE=$($CONDA_CMD info --base)
