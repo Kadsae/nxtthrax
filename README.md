@@ -26,7 +26,7 @@ Automated pipeline for phylogeographic analysis of *B. anthracis* whole-genome s
 - **Package manager:** [Conda](https://docs.conda.io/en/latest/miniconda.html) or [Mamba](https://mamba.readthedocs.io/)
 
 ### Software (installed automatically via `install.sh`)
-- Python 3.11, parsnp 2.1.5, bcftools 1.23, snakemake, augur
+- Python 3.12, parsnp 2.1.5, bcftools 1.23, snakemake, augur
 - CheckM: Genome completeness and contamination assessment
 - BUSCO: Benchmarking single-copy orthologs for completeness
 - Python packages: pandas, openpyxl, vcfpy, requests, biopython
