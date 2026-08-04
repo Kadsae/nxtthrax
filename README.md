@@ -115,12 +115,12 @@ nxtthrax/
 
 ## Quick Test
 
-To verify your installation works end-to-end, run the quick analysis on the included test genomes:
+To verify your installation works end-to-end, run the quick analysis on the included test genomes with at least 1 user-data genome:
 
 ```bash
 bash run_quick_analysis.sh
 ```
-
+If the analysis is run without the addition of user-data, expect an error regarding no SNPs left after filtering of test genome set.
 **Expected runtime:** 10-20 minutes (without QC). With `--with-qc`: 25-50 minutes. The output `08_augur_out_export2auspice.json` can be viewed at https://auspice.us.
 
 ---
@@ -129,7 +129,7 @@ bash run_quick_analysis.sh
 
 ### Workflow A: Quick Analysis (Test + New Genome → Tree)
 
-Use this to quickly see where a new genome lands in the existing phylogeny. Parsnp runs only on the small test genome set plus your new genome(s), so it is much faster and less memory-intensive than the full analysis.
+Use this to quickly place new genomes in the existing phylogeny. Parsnp calls SNPs from a small test genome set plus your new genome(s) and appends the identified SNPs in the existing vcf-fil. This results in a much faster and less memory-intensive run than the full analysis.
 
 #### Basic usage (without quality control):
 
