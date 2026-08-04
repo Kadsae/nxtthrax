@@ -159,7 +159,7 @@ This runs CheckM and BUSCO quality assessments first, updates your metadata, and
 | 0 (Optional) | CheckM + BUSCO | Assesses genome completeness/contamination (CheckM) and conserved orthologs (BUSCO) |
 | 1 | parsnp | Aligns test genomes + your new genome(s) against reference → `01_parsnp_out_new/parsnp.vcf` |
 | 2 | bcftools merge | Merges new VCF with legacy VCF, excluding samples in `exclude_samples.txt` |
-| 3 | filter_vcf_by_quality.py | Removes variants with FILTER starting with `N` (N, N:LCB, N:ALN, ...) |
+| 3 | filter_vcf_by_quality.py | Removes variants with FILTER starting with `N` (N, N:LCB, N:ALN, ..., default: only PASS, see script for further options) |
 | 4 | filter_unique_snps.py | Removes SNPs present only in the user's new genome(s) |
 | 5 | check_and_update_clades.py | Validates clade-defining SNPs; auto-updates `config/clades.tsv` if needed |
 | 6 | snakemake / augur | Full phylogenetic workflow: tree → refine → ancestral → traits → clades → export |
