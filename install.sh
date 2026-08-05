@@ -58,7 +58,7 @@ fi
 # STEP 2 - verify tools inside the environment
 # ---------------------------------------------------------------------------
 log "Downloading CheckM2 database (required for first use)..."
-checkm2 database --download --path ~/.checkm2
+conda run -n $ENV_NAME --live-stream bash -c 'checkm2 database --download --path "$CONDA_PREFIX/db"'
 log "CheckM2 database downloaded"
 
 log "Verifying installed tools..."
